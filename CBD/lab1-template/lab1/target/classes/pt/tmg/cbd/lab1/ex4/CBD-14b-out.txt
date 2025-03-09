@@ -1,0 +1,55 @@
+Search for ('Enter' for quit): And
+André - 397.0
+Andreia - 31.0
+Andrei - 15.0
+Anderson - 4.0
+Andreea - 3.0
+Andriy - 2.0
+Andreína - 2.0
+Andressa - 2.0
+Andra - 2.0
+Andy - 1.0
+Andrés - 1.0
+Andrs - 1.0
+Andrii - 1.0
+Andriel - 1.0
+Andriana - 1.0
+Andrey - 1.0
+Andrew - 1.0
+Andres - 1.0
+Andrea - 1.0
+Andre - 1.0
+Andgelo - 1.0
+Search for ('Enter' for quit): Maria
+Maria - 5640.0
+Mariana - 1152.0
+Mariam - 4.0
+Mariano - 2.0
+Mariama - 2.0
+Marianna - 1.0
+Mariame - 1.0
+Mariah - 1.0
+MariaLuísa - 1.0
+Search for ('Enter' for quit): Zu
+Zuriel - 1.0
+Zulai - 1.0
+Search for ('Enter' for quit): Geor
+George - 3.0
+Georgi - 2.0
+Georgino - 1.0
+Georgia - 1.0
+Georgeta - 1.0
+Search for ('Enter' for quit): Tommy
+Tommy - 1.0
+Search for ('Enter' for quit): Tom
+Tomás - 1340.0
+Tomé - 55.0
+Tom - 2.0
+Tommy - 1.0
+Tommaso - 1.0
+Tome - 1.0
+Search for ('Enter' for quit): Joe
+Joel - 24.0
+Joelma - 5.0
+Joelson - 1.0
+Search for ('Enter' for quit): 

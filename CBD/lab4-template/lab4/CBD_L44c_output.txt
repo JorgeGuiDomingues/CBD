@@ -1,0 +1,4257 @@
+Query 1: MATCH (t:Tournament) RETURN t.name AS Tournament, t.surface AS Surface;
+Record<{Tournament: "M25 Tucuman", Surface: "Clay"}>
+Record<{Tournament: "M15 Bragado", Surface: "Clay"}>
+Record<{Tournament: "M15 Villa Maria", Surface: "Clay"}>
+Record<{Tournament: "M15 Bragado", Surface: "Clay"}>
+Record<{Tournament: "M25 Trelew", Surface: "Hard"}>
+Record<{Tournament: "M15 Neuquen", Surface: "Clay"}>
+Record<{Tournament: "M25 Traralgon", Surface: "Hard"}>
+Record<{Tournament: "M25 Traralgon", Surface: "Hard"}>
+Record<{Tournament: "M25 Mildura", Surface: "Grass"}>
+Record<{Tournament: "M25 Swan Hill", Surface: "Grass"}>
+Record<{Tournament: "M15 Villach", Surface: "Clay"}>
+Record<{Tournament: "M15 Doboj", Surface: "Clay"}>
+Record<{Tournament: "M15 Prijedor", Surface: "Clay"}>
+Record<{Tournament: "M15 Brcko", Surface: "Clay"}>
+Record<{Tournament: "M25 Feira de Santana", Surface: "Hard"}>
+Record<{Tournament: "M25 Recife", Surface: "Clay"}>
+Record<{Tournament: "M25 Maceio", Surface: "Clay"}>
+Record<{Tournament: "M15 Quillota", Surface: "Clay"}>
+Record<{Tournament: "M15 Santiago", Surface: "Clay"}>
+Record<{Tournament: "M25 Luan", Surface: "Hard"}>
+Record<{Tournament: "M25 Anning", Surface: "Clay"}>
+Record<{Tournament: "M25 Mosquera", Surface: "Clay"}>
+Record<{Tournament: "M25 Anapoima", Surface: "Clay"}>
+Record<{Tournament: "M15 Porec", Surface: "Clay"}>
+Record<{Tournament: "M15 Rovinj", Surface: "Clay"}>
+Record<{Tournament: "M15 Opatija", Surface: "Clay"}>
+Record<{Tournament: "M15 Dubrovnik", Surface: "Clay"}>
+Record<{Tournament: "M15 Split", Surface: "Clay"}>
+Record<{Tournament: "M15 Osijek", Surface: "Clay"}>
+Record<{Tournament: "M15 Bol", Surface: "Clay"}>
+Record<{Tournament: "M15 Alaminos-Larnaca", Surface: "Clay"}>
+Record<{Tournament: "M15 Alaminos-Larnaca", Surface: "Clay"}>
+Record<{Tournament: "M25 Santo Domingo", Surface: "Hard"}>
+Record<{Tournament: "M25 Santo Domingo", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M25 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M25 Sharm ElSheikh", Surface: "Hard"}>
+Record<{Tournament: "M15 Manacor", Surface: "Hard"}>
+Record<{Tournament: "M15 Manacor", Surface: "Hard"}>
+Record<{Tournament: "M15 Manacor", Surface: "Hard"}>
+Record<{Tournament: "M15 Villena", Surface: "Hard"}>
+Record<{Tournament: "M15 Villena", Surface: "Hard"}>
+Record<{Tournament: "M25 Tarragona", Surface: "Clay"}>
+Record<{Tournament: "M25 Reus", Surface: "Clay"}>
+Record<{Tournament: "M15 Les Franqueses del Valles", Surface: "Hard"}>
+Record<{Tournament: "M25 Badalona", Surface: "Clay"}>
+Record<{Tournament: "M15 Telde", Surface: "Clay"}>
+Record<{Tournament: "M15 Telde", Surface: "Clay"}>
+Record<{Tournament: "M15 Torello", Surface: "Hard"}>
+Record<{Tournament: "M25 Valldoreix", Surface: "Clay"}>
+Record<{Tournament: "M25 Mataro", Surface: "Clay"}>
+Record<{Tournament: "M15 Sanxenxo", Surface: "Hard"}>
+Record<{Tournament: "M25 Sabadell", Surface: "Clay"}>
+Record<{Tournament: "M25 Vic", Surface: "Clay"}>
+Record<{Tournament: "M15 Addis Ababa", Surface: "Clay"}>
+Record<{Tournament: "M25 Addis Ababa", Surface: "Clay"}>
+Record<{Tournament: "M15 Bressuire", Surface: "Hard"}>
+Record<{Tournament: "M15+H Bagnoles de l'Orne", Surface: "Clay"}>
+Record<{Tournament: "M15 Veigy-Foncenex", Surface: "Carpet"}>
+Record<{Tournament: "M25 Toulouse-Balma", Surface: "Hard"}>
+Record<{Tournament: "M25 Saint Dizier", Surface: "Hard"}>
+Record<{Tournament: "M25 Angers", Surface: "Clay"}>
+Record<{Tournament: "M15 Grenoble", Surface: "Hard"}>
+Record<{Tournament: "M15 Lannion", Surface: "Hard"}>
+Record<{Tournament: "M15 Poitiers", Surface: "Hard"}>
+Record<{Tournament: "M25 Creteil", Surface: "Hard"}>
+Record<{Tournament: "M15 Lons-le-Saunier", Surface: "Hard"}>
+Record<{Tournament: "M15 Azay-le-Rideau", Surface: "Hard"}>
+Record<{Tournament: "M25 Deauville", Surface: "Clay"}>
+Record<{Tournament: "M25 Loughborough", Surface: "Hard"}>
+Record<{Tournament: "M25 Sunderland", Surface: "Hard"}>
+Record<{Tournament: "M25 Nottingham", Surface: "Hard"}>
+Record<{Tournament: "M25 Nottingham", Surface: "Hard"}>
+Record<{Tournament: "M15 Tbilisi", Surface: "Hard"}>
+Record<{Tournament: "M25 Kachreti", Surface: "Hard"}>
+Record<{Tournament: "M15 Cadolzburg", Surface: "Carpet"}>
+Record<{Tournament: "M25 Nussloch", Surface: "Carpet"}>
+Record<{Tournament: "M15 Oberhaching", Surface: "Hard"}>
+Record<{Tournament: "M15 Meerbusch", Surface: "Clay"}>
+Record<{Tournament: "M15 Heraklion", Surface: "Hard"}>
+Record<{Tournament: "M15 Heraklion", Surface: "Hard"}>
+Record<{Tournament: "M15 Heraklion", Surface: "Hard"}>
+Record<{Tournament: "M15 Heraklion", Surface: "Hard"}>
+Record<{Tournament: "M25 Bhopal", Surface: "Hard"}>
+Record<{Tournament: "M25 Chennai", Surface: "Hard"}>
+Record<{Tournament: "M25 Mandya", Surface: "Hard"}>
+Record<{Tournament: "M25 New Delhi", Surface: "Hard"}>
+Record<{Tournament: "M15 Chandigarh", Surface: "Hard"}>
+Record<{Tournament: "M15 Kish Island", Surface: "Clay"}>
+Record<{Tournament: "M15 Kish Island", Surface: "Clay"}>
+Record<{Tournament: "M15 Kish Island", Surface: "Clay"}>
+Record<{Tournament: "M15 Kish Island", Surface: "Clay"}>
+Record<{Tournament: "M25 Trento", Surface: "Hard"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Surface: "Clay"}>
+Record<{Tournament: "M25 Reggio Emilia", Surface: "Clay"}>
+Record<{Tournament: "M15 Cervia", Surface: "Clay"}>
+Record<{Tournament: "M15 Kingston", Surface: "Hard"}>
+Record<{Tournament: "M15 Kingston", Surface: "Hard"}>
+Record<{Tournament: "M15 Hinode", Surface: "Hard"}>
+Record<{Tournament: "M15 Nishi-Tokyo", Surface: "Hard"}>
+Record<{Tournament: "M15 Tsukuba", Surface: "Hard"}>
+Record<{Tournament: "M15 Kashiwa", Surface: "Hard"}>
+Record<{Tournament: "M15 Aktobe", Surface: "Hard"}>
+Record<{Tournament: "M15 Aktobe", Surface: "Hard"}>
+Record<{Tournament: "M15 Shymkent", Surface: "Clay"}>
+Record<{Tournament: "M15 Shymkent", Surface: "Clay"}>
+Record<{Tournament: "M25 EschAlzette", Surface: "Hard"}>
+Record<{Tournament: "M15 Villahermosa", Surface: "Hard"}>
+Record<{Tournament: "M25 Xalapa", Surface: "Hard"}>
+Record<{Tournament: "M25 Vila Real de Santo Antonio", Surface: "Hard"}>
+Record<{Tournament: "M25 Vila Real de Santo Antonio", Surface: "Hard"}>
+Record<{Tournament: "M25 Faro", Surface: "Hard"}>
+Record<{Tournament: "M25 Quinta Do Lago", Surface: "Hard"}>
+Record<{Tournament: "M25 Loule", Surface: "Hard"}>
+Record<{Tournament: "M25 Vale do Lobo", Surface: "Hard"}>
+Record<{Tournament: "M25 Doha", Surface: "Hard"}>
+Record<{Tournament: "M15 Doha", Surface: "Hard"}>
+Record<{Tournament: "M15 Bucharest", Surface: "Clay"}>
+Record<{Tournament: "M15 Bucharest", Surface: "Clay"}>
+Record<{Tournament: "M15 Bucharest", Surface: "Clay"}>
+Record<{Tournament: "M15 Celje", Surface: "Clay"}>
+Record<{Tournament: "M15 Kursumlijska Banja", Surface: "Clay"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Surface: "Clay"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Surface: "Clay"}>
+Record<{Tournament: "M25 Kursumlijska Banja ", Surface: "Clay"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Surface: "Clay"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Surface: "Clay"}>
+Record<{Tournament: "M25 Trimbach", Surface: "Carpet"}>
+Record<{Tournament: "M25 Trnava", Surface: "Hard"}>
+Record<{Tournament: "M25 Värnamo", Surface: "Clay"}>
+Record<{Tournament: "M15 Kalmar", Surface: "Clay"}>
+Record<{Tournament: "M15 Nakhon Si Thammarat ", Surface: "Hard"}>
+Record<{Tournament: "M15 Nakhon Si Thammarat ", Surface: "Hard"}>
+Record<{Tournament: "M15 Nakhon Si Thammarat ", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M25 Hammamet", Surface: "Clay"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Monastir", Surface: "Hard"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M25 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M25 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M25 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M25 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M15 Antalya", Surface: "Clay"}>
+Record<{Tournament: "M25 Punta del Este", Surface: "Clay"}>
+Record<{Tournament: "M25 Punta del Este", Surface: "Clay"}>
+Record<{Tournament: "M15 Punta del Este", Surface: "Clay"}>
+Record<{Tournament: "M15 Punta del Este", Surface: "Clay"}>
+Record<{Tournament: "M25 Ithaca NY", Surface: "Hard"}>
+Record<{Tournament: "M25 Wesley Chapel FL", Surface: "Hard"}>
+Record<{Tournament: "M15 Sunrise FL", Surface: "Clay"}>
+Record<{Tournament: "M15 Palm Coast FL", Surface: "Clay"}>
+Record<{Tournament: "M25 Naples FL", Surface: "Clay"}>
+Record<{Tournament: "M25 Bakersfield CA", Surface: "Hard"}>
+Record<{Tournament: "M25 Calabasas CA", Surface: "Hard"}>
+Record<{Tournament: "M15 Vero Beach FL", Surface: "Clay"}>
+Record<{Tournament: "M15 Orange Park FL", Surface: "Clay"}>
+Record<{Tournament: "M25 Pensacola FL", Surface: "Clay"}>
+
+Query 2: MATCH (t:Tournament)<-[:JOGADO_EM]-(m:Match) RETURN t.surface AS Surface, COUNT(m) AS Matches;
+Record<{Surface: "Clay", Matches: 213851}>
+Record<{Surface: "Hard", Matches: 203536}>
+Record<{Surface: "Grass", Matches: 557}>
+Record<{Surface: "Carpet", Matches: 7907}>
+
+Query 3: MATCH (p:Player)-[:VENCEU]->() RETURN p.name AS Player, COUNT(*) AS Wins ORDER BY Wins DESC LIMIT 5;
+Record<{Player: "Filip Cristian Jianu", Wins: 3484}>
+Record<{Player: "Evgenii Tiurnev", Wins: 2776}>
+Record<{Player: "Andres Andrade", Wins: 2311}>
+Record<{Player: "Max Wiskandt", Wins: 2101}>
+Record<{Player: "Yanaki Milev", Wins: 2066}>
+
+Query 4: MATCH (p:Player {id: '208119'})-[:VENCEU|PERDEU]->(m:Match) RETURN p.name AS Player, m.id AS MatchID, m.score AS Score;
+Record<{Player: "Liam Draxl", MatchID: "401", Score: "7-5 6-1"}>
+Record<{Player: "Liam Draxl", MatchID: "301", Score: "7-6(5) 0-6 7-6(4)"}>
+Record<{Player: "Liam Draxl", MatchID: "201", Score: "6-2 6-2"}>
+Record<{Player: "Liam Draxl", MatchID: "101", Score: "6-2 7-5"}>
+
+Query 5: MATCH (p:Player)-[:VENCEU|PERDEU]->(m:Match) RETURN COUNT(DISTINCT p) AS TotalPlayers;
+Record<{TotalPlayers: 1693}>
+
+Query 6: MATCH (t:Tournament)<-[:JOGADO_EM]-(m:Match) RETURN t.name AS Tournament, COUNT(m) AS Matches ORDER BY Matches DESC LIMIT 5;
+Record<{Tournament: "M15 Monastir", Matches: 62666}>
+Record<{Tournament: "M15 Antalya", Matches: 49557}>
+Record<{Tournament: "M25 Hammamet", Matches: 20749}>
+Record<{Tournament: "M25 Antalya", Matches: 12938}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Matches: 12887}>
+
+Query 7: MATCH (m:Match) RETURN m.score AS Score, COUNT(*) AS Frequency ORDER BY Frequency DESC;
+Record<{Score: "6-2 6-3", Frequency: 31}>
+Record<{Score: "6-3 6-3", Frequency: 31}>
+Record<{Score: "6-2 6-4", Frequency: 31}>
+Record<{Score: "6-1 6-3", Frequency: 31}>
+Record<{Score: "6-2 6-2", Frequency: 31}>
+Record<{Score: "6-4 6-3", Frequency: 31}>
+Record<{Score: "6-1 6-4", Frequency: 31}>
+Record<{Score: "6-1 6-2", Frequency: 31}>
+Record<{Score: "6-3 6-2", Frequency: 31}>
+Record<{Score: "6-4 6-2", Frequency: 31}>
+Record<{Score: "6-3 6-4", Frequency: 31}>
+Record<{Score: "6-4 6-4", Frequency: 31}>
+Record<{Score: "6-2 6-1", Frequency: 31}>
+Record<{Score: "6-3 6-1", Frequency: 30}>
+Record<{Score: "6-2 6-0", Frequency: 30}>
+Record<{Score: "7-5 6-3", Frequency: 30}>
+Record<{Score: "6-4 6-1", Frequency: 29}>
+Record<{Score: "6-3 7-5", Frequency: 29}>
+Record<{Score: "6-1 6-1", Frequency: 29}>
+Record<{Score: "7-5 6-4", Frequency: 29}>
+Record<{Score: "6-1 6-0", Frequency: 29}>
+Record<{Score: "6-0 6-2", Frequency: 28}>
+Record<{Score: "6-4 7-5", Frequency: 27}>
+Record<{Score: "7-5 6-2", Frequency: 27}>
+Record<{Score: "6-0 6-3", Frequency: 26}>
+Record<{Score: "6-2 7-5", Frequency: 25}>
+Record<{Score: "7-5 6-1", Frequency: 25}>
+Record<{Score: "6-0 6-1", Frequency: 22}>
+Record<{Score: "6-4 6-0", Frequency: 22}>
+Record<{Score: "6-3 6-0", Frequency: 21}>
+Record<{Score: "6-1 7-5", Frequency: 20}>
+Record<{Score: "6-0 6-4", Frequency: 19}>
+Record<{Score: "7-6(5) 6-4", Frequency: 19}>
+Record<{Score: "7-6(2) 6-4", Frequency: 19}>
+Record<{Score: "6-4 4-6 6-4", Frequency: 18}>
+Record<{Score: "6-4 7-6(3)", Frequency: 16}>
+Record<{Score: "6-0 6-0", Frequency: 16}>
+Record<{Score: "3-6 6-3 6-2", Frequency: 16}>
+Record<{Score: "7-6(4) 6-3", Frequency: 16}>
+Record<{Score: "7-6(5) 6-2", Frequency: 16}>
+Record<{Score: "3-6 6-3 6-4", Frequency: 16}>
+Record<{Score: "7-6(3) 6-3", Frequency: 16}>
+Record<{Score: "7-5 7-5", Frequency: 16}>
+Record<{Score: "6-3 7-6(3)", Frequency: 15}>
+Record<{Score: "7-6(5) 6-3", Frequency: 15}>
+Record<{Score: "6-3 3-6 6-3", Frequency: 14}>
+Record<{Score: "7-6(4) 6-2", Frequency: 14}>
+Record<{Score: "W/O", Frequency: 14}>
+Record<{Score: "7-5 6-0", Frequency: 14}>
+Record<{Score: "7-6(4) 6-4", Frequency: 13}>
+Record<{Score: "6-4 3-6 6-3", Frequency: 13}>
+Record<{Score: "4-6 6-3 6-4", Frequency: 13}>
+Record<{Score: "7-6(4) 6-1", Frequency: 12}>
+Record<{Score: "7-6(2) 6-3", Frequency: 12}>
+Record<{Score: "6-3 7-6(5)", Frequency: 12}>
+Record<{Score: "6-3 4-6 6-3", Frequency: 12}>
+Record<{Score: "6-1 7-6(4)", Frequency: 12}>
+Record<{Score: "6-3 7-6(4)", Frequency: 12}>
+Record<{Score: "7-6(5) 6-1", Frequency: 12}>
+Record<{Score: "6-4 7-6(4)", Frequency: 12}>
+Record<{Score: "7-6(2) 6-2", Frequency: 11}>
+Record<{Score: "7-6(3) 7-5", Frequency: 11}>
+Record<{Score: "4-6 7-5 6-3", Frequency: 11}>
+Record<{Score: "3-6 6-4 6-3", Frequency: 11}>
+Record<{Score: "4-6 6-3 6-2", Frequency: 11}>
+Record<{Score: "3-6 6-4 6-4", Frequency: 11}>
+Record<{Score: "6-2 7-6(3)", Frequency: 11}>
+Record<{Score: "3-6 6-4 6-2", Frequency: 11}>
+Record<{Score: "7-6(3) 6-4", Frequency: 11}>
+Record<{Score: "7-6(5) 7-5", Frequency: 10}>
+Record<{Score: "4-6 6-4 6-4", Frequency: 10}>
+Record<{Score: "4-6 6-3 6-1", Frequency: 10}>
+Record<{Score: "6-4 3-6 6-4", Frequency: 10}>
+Record<{Score: "6-4 7-6(5)", Frequency: 10}>
+Record<{Score: "6-2 7-6(4)", Frequency: 10}>
+Record<{Score: "6-4 7-6(1)", Frequency: 10}>
+Record<{Score: "4-6 6-4 6-3", Frequency: 9}>
+Record<{Score: "6-3 3-6 6-4", Frequency: 9}>
+Record<{Score: "4-6 6-3 6-3", Frequency: 9}>
+Record<{Score: "7-6(6) 6-3", Frequency: 9}>
+Record<{Score: "6-1 3-6 6-3", Frequency: 9}>
+Record<{Score: "6-4 2-6 6-4", Frequency: 9}>
+Record<{Score: "6-2 7-6(5)", Frequency: 9}>
+Record<{Score: "6-2 7-6(2)", Frequency: 9}>
+Record<{Score: "6-3 4-6 6-4", Frequency: 9}>
+Record<{Score: "6-4 4-6 6-3", Frequency: 8}>
+Record<{Score: "6-3 7-6(6)", Frequency: 8}>
+Record<{Score: "7-6(3) 6-2", Frequency: 8}>
+Record<{Score: "7-6(4) 7-5", Frequency: 8}>
+Record<{Score: "7-6(3) 6-1", Frequency: 8}>
+Record<{Score: "7-6(8) 6-3", Frequency: 8}>
+Record<{Score: "6-0 7-5", Frequency: 8}>
+Record<{Score: "6-3 4-6 6-2", Frequency: 8}>
+Record<{Score: "6-4 3-6 6-1", Frequency: 8}>
+Record<{Score: "7-6(6) 6-2", Frequency: 8}>
+Record<{Score: "6-4 4-6 6-2", Frequency: 7}>
+Record<{Score: "4-6 6-1 6-4", Frequency: 7}>
+Record<{Score: "6-4 7-6(2)", Frequency: 7}>
+Record<{Score: "6-1 4-6 6-2", Frequency: 7}>
+Record<{Score: "6-4 3-6 7-5", Frequency: 7}>
+Record<{Score: "4-6 6-2 6-3", Frequency: 7}>
+Record<{Score: "4-6 6-2 6-4", Frequency: 7}>
+Record<{Score: "4-6 6-1 6-3", Frequency: 7}>
+Record<{Score: "4-6 7-5 6-2", Frequency: 7}>
+Record<{Score: "2-6 6-3 6-3", Frequency: 7}>
+Record<{Score: "4-6 6-2 6-1", Frequency: 6}>
+Record<{Score: "7-6(2) 6-1", Frequency: 6}>
+Record<{Score: "6-4 3-6 6-2", Frequency: 6}>
+Record<{Score: "7-5 1-6 6-4", Frequency: 6}>
+Record<{Score: "6-3 5-7 6-3", Frequency: 6}>
+Record<{Score: "1-6 6-4 6-4", Frequency: 6}>
+Record<{Score: "6-0 4-6 6-3", Frequency: 6}>
+Record<{Score: "7-5 7-6(3)", Frequency: 6}>
+Record<{Score: "7-6(4) 6-0", Frequency: 6}>
+Record<{Score: "3-6 6-1 6-4", Frequency: 6}>
+Record<{Score: "5-7 6-3 6-2", Frequency: 6}>
+Record<{Score: "2-6 6-4 6-3", Frequency: 6}>
+Record<{Score: "6-2 1-0 RET", Frequency: 6}>
+Record<{Score: "7-6(3) 7-6(5)", Frequency: 6}>
+Record<{Score: "2-1 RET", Frequency: 6}>
+Record<{Score: "4-6 6-1 6-2", Frequency: 6}>
+Record<{Score: "1-6 6-3 6-2", Frequency: 6}>
+Record<{Score: "5-7 6-4 6-2", Frequency: 6}>
+Record<{Score: "6-2 3-6 6-3", Frequency: 6}>
+Record<{Score: "4-6 6-2 7-5", Frequency: 6}>
+Record<{Score: "2-6 6-4 6-4", Frequency: 6}>
+Record<{Score: "6-2 4-6 6-4", Frequency: 6}>
+Record<{Score: "7-6(6) 7-5", Frequency: 6}>
+Record<{Score: "2-6 6-3 6-4", Frequency: 6}>
+Record<{Score: "2-6 6-3 6-2", Frequency: 5}>
+Record<{Score: "6-2 3-6 6-1", Frequency: 5}>
+Record<{Score: "3-6 6-3 6-1", Frequency: 5}>
+Record<{Score: "6-3 7-6(2)", Frequency: 5}>
+Record<{Score: "1-6 6-3 6-3", Frequency: 5}>
+Record<{Score: "7-6(1) 6-2", Frequency: 5}>
+Record<{Score: "6-3 3-6 6-0", Frequency: 5}>
+Record<{Score: "3-6 6-1 6-2", Frequency: 5}>
+Record<{Score: "5-0 RET", Frequency: 5}>
+Record<{Score: "6-4 7-6(7)", Frequency: 5}>
+Record<{Score: "7-6(9) 6-4", Frequency: 5}>
+Record<{Score: "4-6 6-4 6-2", Frequency: 5}>
+Record<{Score: "6-2 2-0 RET", Frequency: 5}>
+Record<{Score: "3-6 6-4 6-1", Frequency: 5}>
+Record<{Score: "3-6 6-2 6-3", Frequency: 5}>
+Record<{Score: "2-6 6-2 6-2", Frequency: 5}>
+Record<{Score: "3-6 7-5 6-4", Frequency: 5}>
+Record<{Score: "6-2 2-6 6-2", Frequency: 5}>
+Record<{Score: "3-6 6-3 6-3", Frequency: 5}>
+Record<{Score: "7-5 7-6(4)", Frequency: 5}>
+Record<{Score: "6-2 2-6 6-4", Frequency: 5}>
+Record<{Score: "3-6 6-3 7-5", Frequency: 5}>
+Record<{Score: "4-1 RET", Frequency: 5}>
+Record<{Score: "3-6 6-3 6-0", Frequency: 5}>
+Record<{Score: "3-0 RET", Frequency: 5}>
+Record<{Score: "6-3 1-6 6-2", Frequency: 5}>
+Record<{Score: "6-4 1-6 6-4", Frequency: 5}>
+Record<{Score: "6-3 2-6 6-3", Frequency: 5}>
+Record<{Score: "6-1 7-6(5)", Frequency: 5}>
+Record<{Score: "6-1 2-6 6-3", Frequency: 5}>
+Record<{Score: "6-2 2-6 6-1", Frequency: 5}>
+Record<{Score: "6-3 5-7 6-1", Frequency: 5}>
+Record<{Score: "4-6 7-5 6-4", Frequency: 5}>
+Record<{Score: "7-5 7-6(5)", Frequency: 5}>
+Record<{Score: "6-2 7-6(1)", Frequency: 5}>
+Record<{Score: "1-6 6-3 6-0", Frequency: 5}>
+Record<{Score: "6-3 5-7 6-4", Frequency: 5}>
+Record<{Score: "2-6 7-5 6-3", Frequency: 5}>
+Record<{Score: "6-1 7-6(2)", Frequency: 5}>
+Record<{Score: "6-2 4-1 RET", Frequency: 5}>
+Record<{Score: "6-1 7-6(3)", Frequency: 5}>
+Record<{Score: "6-1 3-0 RET", Frequency: 4}>
+Record<{Score: "6-1 3-6 6-4", Frequency: 4}>
+Record<{Score: "6-2 5-7 6-3", Frequency: 4}>
+Record<{Score: "7-5 5-7 6-4", Frequency: 4}>
+Record<{Score: "6-4 5-7 6-3", Frequency: 4}>
+Record<{Score: "6-2 4-6 6-2", Frequency: 4}>
+Record<{Score: "6-3 2-6 6-4", Frequency: 4}>
+Record<{Score: "7-6(5) 7-6(4)", Frequency: 4}>
+Record<{Score: "2-6 6-4 6-2", Frequency: 4}>
+Record<{Score: "7-6(1) 6-1", Frequency: 4}>
+Record<{Score: "6-4 2-6 6-3", Frequency: 4}>
+Record<{Score: "5-2 RET", Frequency: 4}>
+Record<{Score: "6-2 7-6(7)", Frequency: 4}>
+Record<{Score: "6-1 4-6 7-5", Frequency: 4}>
+Record<{Score: "6-2 4-6 6-3", Frequency: 4}>
+Record<{Score: "6-3 3-6 6-1", Frequency: 4}>
+Record<{Score: "7-5 7-6(2)", Frequency: 4}>
+Record<{Score: "5-7 6-4 6-4", Frequency: 4}>
+Record<{Score: "3-6 6-1 7-5", Frequency: 4}>
+Record<{Score: "4-6 6-3 6-0", Frequency: 4}>
+Record<{Score: "6-2 3-6 6-4", Frequency: 4}>
+Record<{Score: "7-5 3-6 6-3", Frequency: 4}>
+Record<{Score: "6-2 RET", Frequency: 4}>
+Record<{Score: "6-2 7-6(6)", Frequency: 4}>
+Record<{Score: "6-4 1-0 RET", Frequency: 4}>
+Record<{Score: "6-3 4-6 7-5", Frequency: 4}>
+Record<{Score: "6-2 2-6 7-5", Frequency: 4}>
+Record<{Score: "4-6 6-1 6-1", Frequency: 4}>
+Record<{Score: "2-6 6-4 6-1", Frequency: 4}>
+Record<{Score: "5-7 6-1 6-4", Frequency: 4}>
+Record<{Score: "5-7 7-5 6-3", Frequency: 4}>
+Record<{Score: "1-6 6-4 6-3", Frequency: 4}>
+Record<{Score: "1-6 6-2 6-1", Frequency: 4}>
+Record<{Score: "6-3 3-6 6-2", Frequency: 4}>
+Record<{Score: "6-4 7-6(6)", Frequency: 4}>
+Record<{Score: "6-3 4-6 6-1", Frequency: 4}>
+Record<{Score: "6-3 1-6 6-3", Frequency: 4}>
+Record<{Score: "7-6(7) 6-2", Frequency: 4}>
+Record<{Score: "6-0 3-0 RET", Frequency: 4}>
+Record<{Score: "3-6 6-2 6-1", Frequency: 4}>
+Record<{Score: "6-7(3) 6-2 6-4", Frequency: 4}>
+Record<{Score: "3-6 7-6(3) 6-4", Frequency: 4}>
+Record<{Score: "6-3 1-6 6-4", Frequency: 4}>
+Record<{Score: "6-7(5) 6-4 6-4", Frequency: 4}>
+Record<{Score: "4-6 6-1 7-5", Frequency: 4}>
+Record<{Score: "5-1 RET", Frequency: 4}>
+Record<{Score: "7-5 RET", Frequency: 4}>
+Record<{Score: "2-6 6-1 6-3", Frequency: 4}>
+Record<{Score: "2-6 6-3 6-1", Frequency: 4}>
+Record<{Score: "6-1 4-6 6-4", Frequency: 4}>
+Record<{Score: "6-4 2-6 7-5", Frequency: 4}>
+Record<{Score: "6-0 7-6(5)", Frequency: 4}>
+Record<{Score: "6-2 5-7 6-4", Frequency: 4}>
+Record<{Score: "7-6(1) 6-3", Frequency: 4}>
+Record<{Score: "7-6(5) 6-0", Frequency: 4}>
+Record<{Score: "6-1 2-6 6-2", Frequency: 4}>
+Record<{Score: "3-6 7-5 6-3", Frequency: 4}>
+Record<{Score: "6-4 4-6 7-5", Frequency: 4}>
+Record<{Score: "4-6 6-2 6-2", Frequency: 4}>
+Record<{Score: "7-5 4-6 6-3", Frequency: 3}>
+Record<{Score: "6-4 RET", Frequency: 3}>
+Record<{Score: "6-2 2-1 RET", Frequency: 3}>
+Record<{Score: "6-0 3-6 6-3", Frequency: 3}>
+Record<{Score: "7-5 7-6(7)", Frequency: 3}>
+Record<{Score: "6-3 4-1 RET", Frequency: 3}>
+Record<{Score: "6-2 4-6 6-0", Frequency: 3}>
+Record<{Score: "7-5 4-1 RET", Frequency: 3}>
+Record<{Score: "4-6 6-1 6-0", Frequency: 3}>
+Record<{Score: "5-7 7-6(3) 7-5", Frequency: 3}>
+Record<{Score: "6-1 7-6(6)", Frequency: 3}>
+Record<{Score: "6-1 3-6 7-5", Frequency: 3}>
+Record<{Score: "3-6 6-4 6-0", Frequency: 3}>
+Record<{Score: "7-5 4-6 7-6(6)", Frequency: 3}>
+Record<{Score: "2-6 6-2 6-3", Frequency: 3}>
+Record<{Score: "7-5 2-6 6-4", Frequency: 3}>
+Record<{Score: "6-7(3) 6-3 6-4", Frequency: 3}>
+Record<{Score: "7-6(1) 6-4", Frequency: 3}>
+Record<{Score: "7-5 1-6 6-3", Frequency: 3}>
+Record<{Score: "7-6(3) RET", Frequency: 3}>
+Record<{Score: "6-4 5-7 7-5", Frequency: 3}>
+Record<{Score: "6-3 7-6(7)", Frequency: 3}>
+Record<{Score: "4-6 7-6(5) 6-2", Frequency: 3}>
+Record<{Score: "7-6(3) 6-0", Frequency: 3}>
+Record<{Score: "6-4 4-6 6-1", Frequency: 3}>
+Record<{Score: "1-6 6-4 6-2", Frequency: 3}>
+Record<{Score: "1-6 6-1 6-4", Frequency: 3}>
+Record<{Score: "6-7(5) 6-3 6-1", Frequency: 3}>
+Record<{Score: "5-7 6-2 6-2", Frequency: 3}>
+Record<{Score: "7-6(4) 7-6(4)", Frequency: 3}>
+Record<{Score: "7-6(4) 4-6 6-1", Frequency: 3}>
+Record<{Score: "3-6 7-5 6-2", Frequency: 3}>
+Record<{Score: "5-7 6-3 6-4", Frequency: 3}>
+Record<{Score: "7-6(2) 7-5", Frequency: 3}>
+Record<{Score: "6-7(5) 6-4 6-3", Frequency: 3}>
+Record<{Score: "6-4 7-6(9)", Frequency: 3}>
+Record<{Score: "6-7(2) 6-3 6-4", Frequency: 3}>
+Record<{Score: "6-1 2-6 7-6(5)", Frequency: 3}>
+Record<{Score: "3-6 6-3 7-6(5)", Frequency: 3}>
+Record<{Score: "4-6 7-5 7-5", Frequency: 3}>
+Record<{Score: "6-3 2-6 6-2", Frequency: 3}>
+Record<{Score: "6-2 3-0 RET", Frequency: 3}>
+Record<{Score: "4-2 RET", Frequency: 3}>
+Record<{Score: "7-5 3-6 6-2", Frequency: 3}>
+Record<{Score: "6-3 3-0 RET", Frequency: 3}>
+Record<{Score: "3-6 6-2 6-2", Frequency: 3}>
+Record<{Score: "5-7 6-3 6-3", Frequency: 3}>
+Record<{Score: "7-6(7) 6-3", Frequency: 3}>
+Record<{Score: "7-5 3-6 6-4", Frequency: 3}>
+Record<{Score: "2-6 7-5 6-4", Frequency: 3}>
+Record<{Score: "4-6 7-6(5) 7-5", Frequency: 3}>
+Record<{Score: "4-6 6-4 6-1", Frequency: 3}>
+Record<{Score: "6-3 3-6 7-5", Frequency: 3}>
+Record<{Score: "6-7(3) 6-3 6-3", Frequency: 3}>
+Record<{Score: "6-0 7-6(3)", Frequency: 3}>
+Record<{Score: "4-6 7-6(6) 6-4", Frequency: 3}>
+Record<{Score: "6-3 7-6(1)", Frequency: 3}>
+Record<{Score: "6-1 3-1 RET", Frequency: 3}>
+Record<{Score: "3-6 7-6(5) 6-3", Frequency: 3}>
+Record<{Score: "6-3 5-7 6-2", Frequency: 3}>
+Record<{Score: "6-0 4-6 6-2", Frequency: 3}>
+Record<{Score: "1-6 6-1 6-2", Frequency: 3}>
+Record<{Score: "7-6(4) 7-6(5)", Frequency: 3}>
+Record<{Score: "6-2 4-6 6-1", Frequency: 3}>
+Record<{Score: "6-1 RET", Frequency: 3}>
+Record<{Score: "4-6 6-4 7-5", Frequency: 3}>
+Record<{Score: "6-7(4) 6-3 6-3", Frequency: 3}>
+Record<{Score: "5-7 6-1 6-2", Frequency: 3}>
+Record<{Score: "7-6(3) 3-6 6-3", Frequency: 3}>
+Record<{Score: "6-7(4) 6-2 6-2", Frequency: 3}>
+Record<{Score: "2-6 6-2 6-4", Frequency: 3}>
+Record<{Score: "6-2 3-1 RET", Frequency: 3}>
+Record<{Score: "2-6 6-2 6-1", Frequency: 3}>
+Record<{Score: "6-2 3-6 7-6(2)", Frequency: 3}>
+Record<{Score: "4-6 7-6(3) 6-1", Frequency: 3}>
+Record<{Score: "2-6 7-5 7-5", Frequency: 3}>
+Record<{Score: "6-3 4-6 7-6(6)", Frequency: 3}>
+Record<{Score: "7-6(2) 7-6(5)", Frequency: 3}>
+Record<{Score: "6-3 4-0 RET", Frequency: 3}>
+Record<{Score: "3-6 6-1 6-1", Frequency: 3}>
+Record<{Score: "3-6 7-5 6-0", Frequency: 3}>
+Record<{Score: "0-6 6-4 7-6(5)", Frequency: 2}>
+Record<{Score: "1-6 6-1 7-5", Frequency: 2}>
+Record<{Score: "3-6 7-6(3) 6-1", Frequency: 2}>
+Record<{Score: "6-7(4) 6-4 6-4", Frequency: 2}>
+Record<{Score: "6-1 5-7 6-3", Frequency: 2}>
+Record<{Score: "6-4 4-6 7-6(6)", Frequency: 2}>
+Record<{Score: "5-7 6-0 6-1", Frequency: 2}>
+Record<{Score: "6-0 7-6(4)", Frequency: 2}>
+Record<{Score: "6-4 6-7(4) 6-3", Frequency: 2}>
+Record<{Score: "6-2 4-0 RET", Frequency: 2}>
+Record<{Score: "7-6(3) 4-6 6-3", Frequency: 2}>
+Record<{Score: "7-6(8) 6-2", Frequency: 2}>
+Record<{Score: "6-3 7-6(8)", Frequency: 2}>
+Record<{Score: "6-4 3-0 RET", Frequency: 2}>
+Record<{Score: "6-2 6-7(4) 7-5", Frequency: 2}>
+Record<{Score: "3-6 7-6(5) 7-5", Frequency: 2}>
+Record<{Score: "7-6(3) 4-6 6-2", Frequency: 2}>
+Record<{Score: "3-6 7-6(7) 6-2", Frequency: 2}>
+Record<{Score: "7-5 3-6 7-6(5)", Frequency: 2}>
+Record<{Score: "7-6(5) 7-6(7)", Frequency: 2}>
+Record<{Score: "3-6 7-6(6) 6-4", Frequency: 2}>
+Record<{Score: "7-6(2) 6-0", Frequency: 2}>
+Record<{Score: "3-6 7-6(3) 6-3", Frequency: 2}>
+Record<{Score: "6-7(2) 6-3 6-2", Frequency: 2}>
+Record<{Score: "3-6 6-2 7-6(6)", Frequency: 2}>
+Record<{Score: "7-6(5) 7-6(2)", Frequency: 2}>
+Record<{Score: "6-2 4-2 RET", Frequency: 2}>
+Record<{Score: "6-1 4-6 6-3", Frequency: 2}>
+Record<{Score: "6-0 1-1 RET", Frequency: 2}>
+Record<{Score: "2-6 6-4 7-5", Frequency: 2}>
+Record<{Score: "6-3 3-6 7-6(4)", Frequency: 2}>
+Record<{Score: "7-6(4) 4-6 6-3", Frequency: 2}>
+Record<{Score: "4-6 7-6(6) 7-6(7)", Frequency: 2}>
+Record<{Score: "7-6(5) 7-6(3)", Frequency: 2}>
+Record<{Score: "5-7 6-4 6-1", Frequency: 2}>
+Record<{Score: "6-3 3-6 7-6(2)", Frequency: 2}>
+Record<{Score: "6-1 5-7 6-0", Frequency: 2}>
+Record<{Score: "6-4 5-7 6-2", Frequency: 2}>
+Record<{Score: "6-2 6-7(4) 6-2", Frequency: 2}>
+Record<{Score: "7-5 6-7(5) 6-4", Frequency: 2}>
+Record<{Score: "4-3 RET", Frequency: 2}>
+Record<{Score: "5-7 7-6(4) 7-5", Frequency: 2}>
+Record<{Score: "7-5 2-6 6-0", Frequency: 2}>
+Record<{Score: "6-2 7-6(8)", Frequency: 2}>
+Record<{Score: "3-6 6-2 7-5", Frequency: 2}>
+Record<{Score: "2-6 7-5 6-1", Frequency: 2}>
+Record<{Score: "6-0 5-7 6-4", Frequency: 2}>
+Record<{Score: "6-4 3-6 7-6(6)", Frequency: 2}>
+Record<{Score: "6-7(4) 6-3 6-2", Frequency: 2}>
+Record<{Score: "1-0 RET", Frequency: 2}>
+Record<{Score: "3-6 7-6(2) 7-5", Frequency: 2}>
+Record<{Score: "7-6(8) 6-4", Frequency: 2}>
+Record<{Score: "7-6(2) 4-6 6-4", Frequency: 2}>
+Record<{Score: "7-5 2-6 6-3", Frequency: 2}>
+Record<{Score: "7-6(3) 3-6 6-2", Frequency: 2}>
+Record<{Score: "6-4 6-7(6) 6-3", Frequency: 2}>
+Record<{Score: "6-2 5-7 6-2", Frequency: 2}>
+Record<{Score: "7-5 4-6 6-1", Frequency: 2}>
+Record<{Score: "6-1 6-7(4) 6-3", Frequency: 2}>
+Record<{Score: "6-2 2-6 6-3", Frequency: 2}>
+Record<{Score: "3-6 7-6(5) 6-2", Frequency: 2}>
+Record<{Score: "6-0 2-0 RET", Frequency: 2}>
+Record<{Score: "3-6 6-4 7-5", Frequency: 2}>
+Record<{Score: "6-1 4-6 6-1", Frequency: 2}>
+Record<{Score: "1-6 6-3 7-5", Frequency: 2}>
+Record<{Score: "6-7(4) 7-5 6-2", Frequency: 2}>
+Record<{Score: "7-6(6) 7-6(7)", Frequency: 2}>
+Record<{Score: "6-2 4-6 7-6(5)", Frequency: 2}>
+Record<{Score: "6-4 3-1 RET", Frequency: 2}>
+Record<{Score: "3-6 7-6(5) 6-1", Frequency: 2}>
+Record<{Score: "6-4 3-6 7-6(0)", Frequency: 2}>
+Record<{Score: "6-3 5-7 7-6(7)", Frequency: 2}>
+Record<{Score: "3-6 6-4 7-6(5)", Frequency: 2}>
+Record<{Score: "6-3 RET", Frequency: 2}>
+Record<{Score: "6-1 0-6 6-4", Frequency: 2}>
+Record<{Score: "6-1 1-6 6-3", Frequency: 2}>
+Record<{Score: "5-7 6-4 7-5", Frequency: 2}>
+Record<{Score: "6-4 1-6 6-1", Frequency: 2}>
+Record<{Score: "7-6(7) 7-5", Frequency: 2}>
+Record<{Score: "6-0 3-6 6-0", Frequency: 2}>
+Record<{Score: "7-5 1-6 7-5", Frequency: 2}>
+Record<{Score: "4-6 7-6(4) 7-5", Frequency: 2}>
+Record<{Score: "3-6 6-0 6-1", Frequency: 2}>
+Record<{Score: "6-0 RET", Frequency: 2}>
+Record<{Score: "3-6 6-0 6-4", Frequency: 2}>
+Record<{Score: "7-6(5) 4-6 6-2", Frequency: 2}>
+Record<{Score: "4-6 7-6(4) 6-1", Frequency: 2}>
+Record<{Score: "3-6 6-2 6-4", Frequency: 2}>
+Record<{Score: "6-4 6-7(5) 6-1", Frequency: 2}>
+Record<{Score: "6-2 1-6 6-3", Frequency: 2}>
+Record<{Score: "3-6 6-0 6-3", Frequency: 2}>
+Record<{Score: "7-6(1) 7-5", Frequency: 2}>
+Record<{Score: "1-6 6-4 6-1", Frequency: 2}>
+Record<{Score: "6-1 1-0 RET", Frequency: 2}>
+Record<{Score: "0-6 6-2 6-2", Frequency: 2}>
+Record<{Score: "6-7(5) 6-3 6-4", Frequency: 2}>
+Record<{Score: "6-7(4) 6-4 7-5", Frequency: 2}>
+Record<{Score: "6-2 6-7(5) 6-4", Frequency: 2}>
+Record<{Score: "5-7 7-5 6-4", Frequency: 2}>
+Record<{Score: "4-6 6-2 6-0", Frequency: 2}>
+Record<{Score: "7-5 1-0 RET", Frequency: 2}>
+Record<{Score: "6-4 5-7 6-4", Frequency: 2}>
+Record<{Score: "6-7(5) 6-2 6-3", Frequency: 2}>
+Record<{Score: "0-6 7-6(6) 6-1", Frequency: 2}>
+Record<{Score: "7-6(5) 1-6 6-4", Frequency: 2}>
+Record<{Score: "6-3 2-6 6-1", Frequency: 2}>
+Record<{Score: "6-2 6-7(5) 7-5", Frequency: 2}>
+Record<{Score: "1-6 6-1 6-1", Frequency: 2}>
+Record<{Score: "6-2 1-6 6-2", Frequency: 2}>
+Record<{Score: "7-6(4) 4-6 6-2", Frequency: 2}>
+Record<{Score: "6-4 2-6 6-2", Frequency: 2}>
+Record<{Score: "6-4 6-7(4) 6-2", Frequency: 2}>
+Record<{Score: "3-6 6-2 6-0", Frequency: 2}>
+Record<{Score: "7-5 0-6 6-3", Frequency: 2}>
+Record<{Score: "6-4 6-7(7) 7-6(2)", Frequency: 2}>
+Record<{Score: "6-3 7-6(0)", Frequency: 2}>
+Record<{Score: "4-6 6-0 6-3", Frequency: 2}>
+Record<{Score: "7-5 4-6 7-5", Frequency: 2}>
+Record<{Score: "4-6 7-5 6-1", Frequency: 2}>
+Record<{Score: "3-6 6-1 6-3", Frequency: 2}>
+Record<{Score: "5-5 RET", Frequency: 2}>
+Record<{Score: "7-5 1-6 6-2", Frequency: 2}>
+Record<{Score: "6-7(2) 6-3 6-1", Frequency: 2}>
+Record<{Score: "6-7(6) 6-4 6-4", Frequency: 2}>
+Record<{Score: "6-3 3-6 7-6(7)", Frequency: 2}>
+Record<{Score: "6-4 4-6 7-6(4)", Frequency: 2}>
+Record<{Score: "4-6 7-6(5) 6-4", Frequency: 2}>
+Record<{Score: "3-6 7-6(2) 6-4", Frequency: 2}>
+Record<{Score: "2-6 6-4 6-0", Frequency: 2}>
+Record<{Score: "3-6 6-4 7-6(1)", Frequency: 2}>
+Record<{Score: "2-6 6-3 6-0", Frequency: 2}>
+Record<{Score: "6-7(4) 7-6(4) 6-3", Frequency: 2}>
+Record<{Score: "2-6 7-6(3) 6-3", Frequency: 2}>
+Record<{Score: "6-3 0-6 6-4", Frequency: 2}>
+Record<{Score: "6-0 4-6 6-1", Frequency: 2}>
+Record<{Score: "6-2 3-6 7-5", Frequency: 2}>
+Record<{Score: "0-6 6-2 6-4", Frequency: 2}>
+Record<{Score: "2-6 6-2 7-5", Frequency: 2}>
+Record<{Score: "7-6(9) 6-3", Frequency: 2}>
+Record<{Score: "6-3 1-0 RET", Frequency: 2}>
+Record<{Score: "1-6 6-2 6-0", Frequency: 2}>
+Record<{Score: "7-6(8) 3-6 6-3", Frequency: 2}>
+Record<{Score: "4-6 6-0 6-2", Frequency: 2}>
+Record<{Score: "6-6 RET", Frequency: 2}>
+Record<{Score: "6-7(5) 6-2 6-2", Frequency: 2}>
+Record<{Score: "3-6 7-5 6-1", Frequency: 2}>
+Record<{Score: "5-7 6-2 6-3", Frequency: 2}>
+Record<{Score: "6-3 6-7(5) 6-3", Frequency: 2}>
+Record<{Score: "7-6(5) 2-6 7-5", Frequency: 2}>
+Record<{Score: "3-6 6-0 6-2", Frequency: 2}>
+Record<{Score: "6-3 4-6 6-0", Frequency: 2}>
+Record<{Score: "7-6(6) 3-6 6-4", Frequency: 2}>
+Record<{Score: "7-5 4-6 6-2", Frequency: 2}>
+Record<{Score: "5-7 6-4 7-6(4)", Frequency: 2}>
+Record<{Score: "6-4 1-6 7-6(4)", Frequency: 2}>
+Record<{Score: "6-4 1-6 7-5", Frequency: 2}>
+Record<{Score: "2-2 RET", Frequency: 2}>
+Record<{Score: "6-3 3-6 7-6(5)", Frequency: 2}>
+Record<{Score: "6-2 6-7(6) 6-3", Frequency: 2}>
+Record<{Score: "6-2 6-7(6) 6-1", Frequency: 2}>
+Record<{Score: "6-2 1-6 7-5", Frequency: 2}>
+Record<{Score: "3-6 7-6(4) 6-1", Frequency: 2}>
+Record<{Score: "4-6 6-3 7-6(6)", Frequency: 2}>
+Record<{Score: "6-2 3-6 6-2", Frequency: 2}>
+Record<{Score: "7-6(6) 6-0", Frequency: 2}>
+Record<{Score: "6-3 4-6 10-7", Frequency: 2}>
+Record<{Score: "5-7 6-2 6-4", Frequency: 2}>
+Record<{Score: "1-6 7-5 6-2", Frequency: 2}>
+Record<{Score: "2-6 7-5 6-2", Frequency: 2}>
+Record<{Score: "7-6(8) 6-1", Frequency: 2}>
+Record<{Score: "2-6 6-1 6-4", Frequency: 2}>
+Record<{Score: "6-3 6-7(5) 6-1", Frequency: 2}>
+Record<{Score: "7-6(2) 7-6(3)", Frequency: 2}>
+Record<{Score: "7-5 4-6 6-4", Frequency: 2}>
+Record<{Score: "6-1 3-6 6-2", Frequency: 2}>
+Record<{Score: "5-7 6-4 6-3", Frequency: 2}>
+Record<{Score: "6-1 2-0 RET", Frequency: 2}>
+Record<{Score: "6-1 6-7(6) 6-1", Frequency: 2}>
+Record<{Score: "6-3 1-6 7-5", Frequency: 2}>
+Record<{Score: "4-6 7-6(4) 6-2", Frequency: 2}>
+Record<{Score: "1-6 6-3 6-4", Frequency: 2}>
+Record<{Score: "6-1 4-6 7-6(5)", Frequency: 2}>
+Record<{Score: "4-6 6-4 6-0", Frequency: 2}>
+Record<{Score: "0-6 6-4 6-2", Frequency: 2}>
+Record<{Score: "6-1 7-6(7)", Frequency: 2}>
+Record<{Score: "6-4 2-6 7-6(4)", Frequency: 2}>
+Record<{Score: "7-6(6) 6-4", Frequency: 2}>
+Record<{Score: "4-6 6-3 7-6(4)", Frequency: 2}>
+Record<{Score: "7-5 4-0 RET", Frequency: 2}>
+Record<{Score: "6-7(2) 7-5 2-0 RET", Frequency: 1}>
+Record<{Score: "3-6 7-6(3) 5-1 RET", Frequency: 1}>
+Record<{Score: "7-6(4) 2-6 6-0", Frequency: 1}>
+Record<{Score: "7-6(5) 0-6 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-4 6-1", Frequency: 1}>
+Record<{Score: "2-0 RET", Frequency: 1}>
+Record<{Score: "7-6(7) 6-0", Frequency: 1}>
+Record<{Score: "7-6(6) 4-6 6-2", Frequency: 1}>
+Record<{Score: "7-6(4) 1-6 7-6(3)", Frequency: 1}>
+Record<{Score: "6-4 1-6 6-3", Frequency: 1}>
+Record<{Score: "4-1 DEF", Frequency: 1}>
+Record<{Score: "6-0 6-7(8) 4-1 RET", Frequency: 1}>
+Record<{Score: "6-2 3-6 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(4) 5-7 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(4) 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "7-6(9) 6-2", Frequency: 1}>
+Record<{Score: "2-6 6-1 6-1", Frequency: 1}>
+Record<{Score: "7-6(4) 7-6(11)", Frequency: 1}>
+Record<{Score: "6-2 6-7(2) 6-2", Frequency: 1}>
+Record<{Score: "7-5 4-6 5-2 RET", Frequency: 1}>
+Record<{Score: "3-6 6-4 7-6(2)", Frequency: 1}>
+Record<{Score: "6-3 6-7(1) 6-2", Frequency: 1}>
+Record<{Score: "2-6 6-4 7-6(4)", Frequency: 1}>
+Record<{Score: "6-1 6-7(5) 6-4", Frequency: 1}>
+Record<{Score: "3-6 7-6(2) 6-2", Frequency: 1}>
+Record<{Score: "1-6 7-6(9) 6-3", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 6-3", Frequency: 1}>
+Record<{Score: "6-7(3) 6-4 6-4", Frequency: 1}>
+Record<{Score: "3-1 RET", Frequency: 1}>
+Record<{Score: "6-7(6) 6-1 6-4", Frequency: 1}>
+Record<{Score: "7-6(5) 7-6(1)", Frequency: 1}>
+Record<{Score: "6-4 6-7(6) 7-6(3)", Frequency: 1}>
+Record<{Score: "3-2 RET", Frequency: 1}>
+Record<{Score: "6-2 6-7(5) 7-6(5)", Frequency: 1}>
+Record<{Score: "4-6 7-6(4) 6-3", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(0) 6-1", Frequency: 1}>
+Record<{Score: "7-6(10) 6-0", Frequency: 1}>
+Record<{Score: "6-1 4-6 7-6(3)", Frequency: 1}>
+Record<{Score: "2-6 6-1 6-2", Frequency: 1}>
+Record<{Score: "7-6(2) 5-7 6-3", Frequency: 1}>
+Record<{Score: "6-4 7-6(11)", Frequency: 1}>
+Record<{Score: "7-6(6) 1-6 6-4", Frequency: 1}>
+Record<{Score: "3-6 7-6(5) 3-2 RET", Frequency: 1}>
+Record<{Score: "2-6 6-2 5-1 RET", Frequency: 1}>
+Record<{Score: "4-6 6-4 6-5 RET", Frequency: 1}>
+Record<{Score: "7-6(9) 4-6 6-2", Frequency: 1}>
+Record<{Score: "7-5 2-0 RET", Frequency: 1}>
+Record<{Score: "7-6(1) 6-7(5) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-7(6) 6-2 6-3", Frequency: 1}>
+Record<{Score: "6-7(3) 7-6(3) 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 6-7(1) 6-1", Frequency: 1}>
+Record<{Score: "6-1 3-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 2-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-3 4-6 4-1 RET", Frequency: 1}>
+Record<{Score: "6-7(6) 7-5 2-1 RET", Frequency: 1}>
+Record<{Score: "3-6 7-5 DEF", Frequency: 1}>
+Record<{Score: "1-6 7-6(5) 6-3", Frequency: 1}>
+Record<{Score: "1-6 7-5 6-0", Frequency: 1}>
+Record<{Score: "6-2 1-6 6-4", Frequency: 1}>
+Record<{Score: "6-1 6-7(5) 6-3", Frequency: 1}>
+Record<{Score: "6-7(0) 7-5 6-4", Frequency: 1}>
+Record<{Score: "6-1 3-6 6-0", Frequency: 1}>
+Record<{Score: "6-2 6-7(3) 6-4", Frequency: 1}>
+Record<{Score: "6-1 6-7(4) 6-2", Frequency: 1}>
+Record<{Score: "3-6 7-6(7) 7-6(4)", Frequency: 1}>
+Record<{Score: "6-2 6-7(2) 6-0", Frequency: 1}>
+Record<{Score: "7-6(3) 6-7(10) 7-6(2)", Frequency: 1}>
+Record<{Score: "1-6 2-1 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(6) 6-3", Frequency: 1}>
+Record<{Score: "1-6 6-1 6-0", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 6-4", Frequency: 1}>
+Record<{Score: "6-4 6-7(1) 7-6(3)", Frequency: 1}>
+Record<{Score: "7-5 3-6 7-5", Frequency: 1}>
+Record<{Score: "4-6 6-3 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(4) 4-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-0 7-6(0)", Frequency: 1}>
+Record<{Score: "7-6(2) 4-6 6-3", Frequency: 1}>
+Record<{Score: "3-6 7-6(6) 6-3", Frequency: 1}>
+Record<{Score: "7-6(4) 7-6(2)", Frequency: 1}>
+Record<{Score: "3-6 6-0 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 6-7(3) 7-5", Frequency: 1}>
+Record<{Score: "0-6 6-3 6-0", Frequency: 1}>
+Record<{Score: "4-6 6-0 2-0 RET", Frequency: 1}>
+Record<{Score: "3-6 1-0 RET", Frequency: 1}>
+Record<{Score: "7-5 7-6(9)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-1 7-5", Frequency: 1}>
+Record<{Score: "1-6 6-3 7-6(5)", Frequency: 1}>
+Record<{Score: "6-7(2) 6-1 5-0 RET", Frequency: 1}>
+Record<{Score: "7-6(9) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-4 6-7(2) 6-1", Frequency: 1}>
+Record<{Score: "0-6 7-5 7-5", Frequency: 1}>
+Record<{Score: "6-1 2-6 6-4", Frequency: 1}>
+Record<{Score: "1-6 7-6(6) 6-4", Frequency: 1}>
+Record<{Score: "6-7(3) 6-4 6-3", Frequency: 1}>
+Record<{Score: "7-6(11) 7-5", Frequency: 1}>
+Record<{Score: "6-0 4-0 RET", Frequency: 1}>
+Record<{Score: "2-6 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "4-6 6-2 7-6(1)", Frequency: 1}>
+Record<{Score: "6-7(6) 6-3 6-2", Frequency: 1}>
+Record<{Score: "6-2 6-7(8) 6-2", Frequency: 1}>
+Record<{Score: "2-3 RET", Frequency: 1}>
+Record<{Score: "5-7 6-0 6-3", Frequency: 1}>
+Record<{Score: "6-7(2) 6-2 7-5", Frequency: 1}>
+Record<{Score: "6-4 1-6 7-6(2)", Frequency: 1}>
+Record<{Score: "6-7(7) 6-4 6-1", Frequency: 1}>
+Record<{Score: "4-0 RET", Frequency: 1}>
+Record<{Score: "6-1 5-7 7-6(3)", Frequency: 1}>
+Record<{Score: "6-1 3-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-1 4-6 7-6(2)", Frequency: 1}>
+Record<{Score: "7-6(1) 7-6(5)", Frequency: 1}>
+Record<{Score: "1-6 7-6(3) 4-1 RET", Frequency: 1}>
+Record<{Score: "4-6 7-6(5) 6-0", Frequency: 1}>
+Record<{Score: "7-6(4) 1-6 7-5", Frequency: 1}>
+Record<{Score: "6-7(6) 6-3 6-3", Frequency: 1}>
+Record<{Score: "6-7(2) 7-6(5) 7-6(3)", Frequency: 1}>
+Record<{Score: "3-6 6-4 7-6(0)", Frequency: 1}>
+Record<{Score: "3-6 6-4 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(3) 3-6 6-1", Frequency: 1}>
+Record<{Score: "6-2 4-6 7-6(10)", Frequency: 1}>
+Record<{Score: "7-5 6-7(6) 6-4", Frequency: 1}>
+Record<{Score: "4-6 6-3 1-0 RET", Frequency: 1}>
+Record<{Score: "4-6 7-6(5) 7-6(6)", Frequency: 1}>
+Record<{Score: "4-6 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 6-2", Frequency: 1}>
+Record<{Score: "7-6(9) 2-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(6) 3-1 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(2) 6-1", Frequency: 1}>
+Record<{Score: "6-7(3) 7-6(3) 7-5", Frequency: 1}>
+Record<{Score: "5-7 6-1 6-1", Frequency: 1}>
+Record<{Score: "7-6(5) 7-6(6)", Frequency: 1}>
+Record<{Score: "6-4 3-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 1-6 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(5) 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "6-0 2-6 6-1", Frequency: 1}>
+Record<{Score: "2-6 7-6(5) 7-5", Frequency: 1}>
+Record<{Score: "6-1 0-6 6-3", Frequency: 1}>
+Record<{Score: "6-7(2) 6-0 6-3", Frequency: 1}>
+Record<{Score: "7-6(4) 7-6(0)", Frequency: 1}>
+Record<{Score: "6-3 0-6 6-3", Frequency: 1}>
+Record<{Score: "7-6(11) 1-6 6-4", Frequency: 1}>
+Record<{Score: "6-4 6-7(10) 6-3", Frequency: 1}>
+Record<{Score: "4-6 7-6(0) 6-1", Frequency: 1}>
+Record<{Score: "1-2 RET", Frequency: 1}>
+Record<{Score: "6-1 0-6 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(2) 3-6 7-5", Frequency: 1}>
+Record<{Score: "3-6 6-3 7-6(8)", Frequency: 1}>
+Record<{Score: "6-3 6-7(2) 7-5", Frequency: 1}>
+Record<{Score: "7-6(2) 3-6 6-4", Frequency: 1}>
+Record<{Score: "6-2 6-7(2) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-7(8) 6-2 3-0 RET", Frequency: 1}>
+Record<{Score: "6-7(4) 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-7(7) 7-5 6-3", Frequency: 1}>
+Record<{Score: "6-7(3) 6-4 7-6(6)", Frequency: 1}>
+Record<{Score: "2-6 7-6(4) 6-2", Frequency: 1}>
+Record<{Score: "6-4 5-2 RET", Frequency: 1}>
+Record<{Score: "6-4 3-6 7-6(3)", Frequency: 1}>
+Record<{Score: "6-1 1-6 7-6(5)", Frequency: 1}>
+Record<{Score: "3-6 6-1 7-6(3)", Frequency: 1}>
+Record<{Score: "4-6 4-3 RET", Frequency: 1}>
+Record<{Score: "7-6(8) 7-6(5)", Frequency: 1}>
+Record<{Score: "6-7(8) 6-4 6-3", Frequency: 1}>
+Record<{Score: "3-6 7-6(6) 6-2", Frequency: 1}>
+Record<{Score: "4-6 7-6(6) 7-6(4)", Frequency: 1}>
+Record<{Score: "7-5 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "3-6 7-6(2) 7-6(20)", Frequency: 1}>
+Record<{Score: "6-7(10) 6-3 6-4", Frequency: 1}>
+Record<{Score: "6-3 4-6 7-6(1)", Frequency: 1}>
+Record<{Score: "7-5 1-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-1 5-7 6-1", Frequency: 1}>
+Record<{Score: "4-6 6-2 7-6(3)", Frequency: 1}>
+Record<{Score: "7-6(2) 4-6 7-5", Frequency: 1}>
+Record<{Score: "7-6(2) 5-7 6-2", Frequency: 1}>
+Record<{Score: "7-6(5) 2-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-3 6-2", Frequency: 1}>
+Record<{Score: "6-7(3) 6-3 7-6(5)", Frequency: 1}>
+Record<{Score: "4-6 7-6(7) 6-3", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 7-5", Frequency: 1}>
+Record<{Score: "4-6 7-5 7-6(3)", Frequency: 1}>
+Record<{Score: "3-6 7-6(5) 6-4", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(5)", Frequency: 1}>
+Record<{Score: "4-6 7-6(7) 6-1", Frequency: 1}>
+Record<{Score: "6-1 7-6(0)", Frequency: 1}>
+Record<{Score: "3-6 6-2 7-6(2)", Frequency: 1}>
+Record<{Score: "5-7 6-0 6-4", Frequency: 1}>
+Record<{Score: "6-3 0-6 6-1", Frequency: 1}>
+Record<{Score: "2-6 6-4 7-6(1)", Frequency: 1}>
+Record<{Score: "6-7(6) 7-6(5) 6-0", Frequency: 1}>
+Record<{Score: "7-6(1) 4-6 6-3", Frequency: 1}>
+Record<{Score: "2-6 6-3 7-5", Frequency: 1}>
+Record<{Score: "5-7 7-6(2) 6-3", Frequency: 1}>
+Record<{Score: "6-0 1-6 7-6(0)", Frequency: 1}>
+Record<{Score: "4-6 6-4 7-6(3)", Frequency: 1}>
+Record<{Score: "6-4 6-7(3) 6-2", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(6) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-1 6-7(2) 6-2", Frequency: 1}>
+Record<{Score: "7-6(2) 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-1 6-1", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(1)", Frequency: 1}>
+Record<{Score: "6-7(6) 6-3 6-0", Frequency: 1}>
+Record<{Score: "7-6(3) 2-6 6-1", Frequency: 1}>
+Record<{Score: "6-7(3) 7-5 6-4", Frequency: 1}>
+Record<{Score: "6-7(3) 6-1 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-1 6-0", Frequency: 1}>
+Record<{Score: "3-6 7-6(1) 6-2", Frequency: 1}>
+Record<{Score: "7-6(10) 4-6 6-3", Frequency: 1}>
+Record<{Score: "6-3 6-7(1) 6-1", Frequency: 1}>
+Record<{Score: "7-6(8) 2-6 7-5", Frequency: 1}>
+Record<{Score: "7-6(2) 6-7(2) 6-1", Frequency: 1}>
+Record<{Score: "5-7 6-1 6-3", Frequency: 1}>
+Record<{Score: "2-6 7-6(6) 7-6(2)", Frequency: 1}>
+Record<{Score: "1-6 7-5 6-3", Frequency: 1}>
+Record<{Score: "7-6(0) 6-2", Frequency: 1}>
+Record<{Score: "6-4 2-6 7-6(7)", Frequency: 1}>
+Record<{Score: "1-6 7-6(5) 1-0 RET", Frequency: 1}>
+Record<{Score: "3-6 6-1 6-0", Frequency: 1}>
+Record<{Score: "7-5 4-6 5-5 RET", Frequency: 1}>
+Record<{Score: "6-0 4-1 RET", Frequency: 1}>
+Record<{Score: "6-1 5-7 7-5", Frequency: 1}>
+Record<{Score: "6-7(1) 6-1 6-1", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 7-5", Frequency: 1}>
+Record<{Score: "7-6(5) 4-6 6-3", Frequency: 1}>
+Record<{Score: "6-0 6-7(7) 6-3", Frequency: 1}>
+Record<{Score: "6-3 6-7(12) 6-3", Frequency: 1}>
+Record<{Score: "4-6 7-5 2-1 RET", Frequency: 1}>
+Record<{Score: "7-6(7) 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(4) 6-1 7-6(3)", Frequency: 1}>
+Record<{Score: "6-7(7) 7-6(3) 6-2", Frequency: 1}>
+Record<{Score: "6-7(7) 7-6(6) 6-2", Frequency: 1}>
+Record<{Score: "7-6(5) 0-6 6-4", Frequency: 1}>
+Record<{Score: "1-6 6-2 7-6(5)", Frequency: 1}>
+Record<{Score: "5-7 6-3 7-6(4)", Frequency: 1}>
+Record<{Score: "3-6 7-6(1) 6-3", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 6-1", Frequency: 1}>
+Record<{Score: "7-6(3) 6-7(6) 6-4", Frequency: 1}>
+Record<{Score: "6-7(3) 7-5 6-2", Frequency: 1}>
+Record<{Score: "4-6 7-6(2) 6-2", Frequency: 1}>
+Record<{Score: "6-7(5) 7-5 6-0", Frequency: 1}>
+Record<{Score: "6-7(7) 7-6(3) 6-4", Frequency: 1}>
+Record<{Score: "6-1 4-0 RET", Frequency: 1}>
+Record<{Score: "3-6 6-0 7-5", Frequency: 1}>
+Record<{Score: "3-6 7-6(2) 6-1", Frequency: 1}>
+Record<{Score: "1-6 7-6(7) 7-6(6)", Frequency: 1}>
+Record<{Score: "6-2 7-6(11)", Frequency: 1}>
+Record<{Score: "4-6 6-4 7-6(1)", Frequency: 1}>
+Record<{Score: "7-5 6-7(4) 6-3", Frequency: 1}>
+Record<{Score: "4-6 7-6(4) 6-0", Frequency: 1}>
+Record<{Score: "3-6 7-6(3) 7-5", Frequency: 1}>
+Record<{Score: "6-0 2-6 6-3", Frequency: 1}>
+Record<{Score: "7-6(3) 6-7(6) 6-1", Frequency: 1}>
+Record<{Score: "4-6 7-5 7-6(4)", Frequency: 1}>
+Record<{Score: "6-1 6-7(2) 4-1 RET", Frequency: 1}>
+Record<{Score: "4-6 6-3 7-6(2)", Frequency: 1}>
+Record<{Score: "6-4 6-7(5) 6-3", Frequency: 1}>
+Record<{Score: "6-7(6) 6-3 6-4", Frequency: 1}>
+Record<{Score: "7-6(4) 0-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(5) 7-6(5)", Frequency: 1}>
+Record<{Score: "2-6 7-6(6) 6-3", Frequency: 1}>
+Record<{Score: "6-7(5) 6-1 6-0", Frequency: 1}>
+Record<{Score: "4-6 7-6(2) 6-4", Frequency: 1}>
+Record<{Score: "7-6(5) 4-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(7) 6-4 6-2", Frequency: 1}>
+Record<{Score: "6-2 4-6 7-5", Frequency: 1}>
+Record<{Score: "6-1 3-6 7-6(4)", Frequency: 1}>
+Record<{Score: "7-5 2-6 7-5", Frequency: 1}>
+Record<{Score: "2-6 7-6(6) 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(7) 7-6(5) 3-1 RET", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(4)", Frequency: 1}>
+Record<{Score: "7-6(3) 4-6 7-5", Frequency: 1}>
+Record<{Score: "2-6 6-4 7-6(6)", Frequency: 1}>
+Record<{Score: "1-6 7-6(3) 6-0", Frequency: 1}>
+Record<{Score: "3-6 6-3 7-6(3)", Frequency: 1}>
+Record<{Score: "3-4 RET", Frequency: 1}>
+Record<{Score: "6-7(10) 6-4 6-3", Frequency: 1}>
+Record<{Score: "3-6 6-3 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(5) 7-5 6-3", Frequency: 1}>
+Record<{Score: "6-3 3-6 4-1 RET", Frequency: 1}>
+Record<{Score: "6-3 7-6(18)", Frequency: 1}>
+Record<{Score: "0-6 6-3 7-6(4)", Frequency: 1}>
+Record<{Score: "6-3 6-7(7) 6-4", Frequency: 1}>
+Record<{Score: "3-6 7-6(3) 7-6(9)", Frequency: 1}>
+Record<{Score: "6-7(1) 6-4 6-4", Frequency: 1}>
+Record<{Score: "6-7(2) 6-2 6-1", Frequency: 1}>
+Record<{Score: "4-6 7-6(5) 6-3", Frequency: 1}>
+Record<{Score: "7-6(6) 5-7 6-0", Frequency: 1}>
+Record<{Score: "6-4 1-6 7-6(0)", Frequency: 1}>
+Record<{Score: "7-6(5) 5-7 7-6(1)", Frequency: 1}>
+Record<{Score: "7-6(4) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-0 6-7(4) 6-2", Frequency: 1}>
+Record<{Score: "7-6(6) 6-7(5) 6-2", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(0)", Frequency: 1}>
+Record<{Score: "6-4 5-7 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(4) 6-7(6) 7-6(8)", Frequency: 1}>
+Record<{Score: "7-6(6) 4-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-3 6-7(6) 7-5", Frequency: 1}>
+Record<{Score: "6-2 5-7 7-6(3)", Frequency: 1}>
+Record<{Score: "6-2 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "6-1 5-7 6-4", Frequency: 1}>
+Record<{Score: "7-6(3) 0-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-4 7-6(8)", Frequency: 1}>
+Record<{Score: "6-3 6-7(3) 6-2", Frequency: 1}>
+Record<{Score: "7-6(10) 7-5", Frequency: 1}>
+Record<{Score: "6-4 2-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-4 4-3 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(5) 6-2", Frequency: 1}>
+Record<{Score: "6-3 6-7(8) 6-2", Frequency: 1}>
+Record<{Score: "6-4 6-7(6) 6-4", Frequency: 1}>
+Record<{Score: "6-7(0) 6-1 6-2", Frequency: 1}>
+Record<{Score: "6-7(5) 7-5 6-2", Frequency: 1}>
+Record<{Score: "3-6 7-5 7-6(3)", Frequency: 1}>
+Record<{Score: "7-6(3) 5-7 6-4", Frequency: 1}>
+Record<{Score: "6-4 4-6 7-6(7)", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 3-1 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(2) 6-2", Frequency: 1}>
+Record<{Score: "7-6(6) 3-6 6-1", Frequency: 1}>
+Record<{Score: "2-6 7-6(7) 7-6(1)", Frequency: 1}>
+Record<{Score: "6-2 6-7(3) 6-1", Frequency: 1}>
+Record<{Score: "6-0 1-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(9) 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-7(7) 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-7(2) 6-4 6-2", Frequency: 1}>
+Record<{Score: "6-7(9) 7-6(8) 6-4", Frequency: 1}>
+Record<{Score: "6-1 6-7(2) 6-4", Frequency: 1}>
+Record<{Score: "6-3 5-2 RET", Frequency: 1}>
+Record<{Score: "7-6(0) 6-3", Frequency: 1}>
+Record<{Score: "7-6(5) RET", Frequency: 1}>
+Record<{Score: "5-7 7-6(1) 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(2) 6-7(1) 6-3", Frequency: 1}>
+Record<{Score: "4-6 6-3 7-5", Frequency: 1}>
+Record<{Score: "7-6(5) 1-6 6-1", Frequency: 1}>
+Record<{Score: "6-2 5-7 7-5", Frequency: 1}>
+Record<{Score: "6-7(4) 6-1 6-1", Frequency: 1}>
+Record<{Score: "4-6 7-5 3-2 RET", Frequency: 1}>
+Record<{Score: "6-0 1-6 6-2", Frequency: 1}>
+Record<{Score: "6-7(4) 6-1 6-4", Frequency: 1}>
+Record<{Score: "7-6(2) 3-6 6-2", Frequency: 1}>
+Record<{Score: "7-6(5) 4-6 6-1", Frequency: 1}>
+Record<{Score: "1-6 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(4) 6-1", Frequency: 1}>
+Record<{Score: "6-7(7) 6-3 6-4", Frequency: 1}>
+Record<{Score: "0-6 6-3 6-2", Frequency: 1}>
+Record<{Score: "6-0 1-0 RET", Frequency: 1}>
+Record<{Score: "6-4 2-6 6-1", Frequency: 1}>
+Record<{Score: "6-3 6-7(7) 6-0", Frequency: 1}>
+Record<{Score: "4-6 6-1 7-6(3)", Frequency: 1}>
+Record<{Score: "6-2 6-7(6) 6-2", Frequency: 1}>
+Record<{Score: "6-7(9) 6-4 6-2", Frequency: 1}>
+Record<{Score: "5-7 7-6(3) 6-1", Frequency: 1}>
+Record<{Score: "7-6(6) 4-4 RET", Frequency: 1}>
+Record<{Score: "6-2 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "6-7(6) 6-0 7-5", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(1) 7-5", Frequency: 1}>
+Record<{Score: "6-4 6-7(3) 6-4", Frequency: 1}>
+Record<{Score: "6-7(5) 6-3 6-3", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(6) 6-4", Frequency: 1}>
+Record<{Score: "5-4 RET", Frequency: 1}>
+Record<{Score: "2-6 6-4 7-6(2)", Frequency: 1}>
+Record<{Score: "7-6(3) 5-7 6-1", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 7-6(2)", Frequency: 1}>
+Record<{Score: "4-6 7-6(3) 7-6(5)", Frequency: 1}>
+Record<{Score: "3-6 6-1 7-6(2)", Frequency: 1}>
+Record<{Score: "6-1 6-7(3) 6-2", Frequency: 1}>
+Record<{Score: "4-6 2-0 RET", Frequency: 1}>
+Record<{Score: "6-2 1-6 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(9) 3-2 RET", Frequency: 1}>
+Record<{Score: "7-6(1) 6-0", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 6-4", Frequency: 1}>
+Record<{Score: "6-3 2-6 7-6(4)", Frequency: 1}>
+Record<{Score: "5-7 6-2 3-0 RET", Frequency: 1}>
+Record<{Score: "3-6 6-4 7-6(4)", Frequency: 1}>
+Record<{Score: "4-6 6-2 7-6(4)", Frequency: 1}>
+Record<{Score: "4-6 7-6(3) 3-1 RET", Frequency: 1}>
+Record<{Score: "7-6(0) 6-4", Frequency: 1}>
+Record<{Score: "6-0 5-7 6-2", Frequency: 1}>
+Record<{Score: "6-4 7-6(0)", Frequency: 1}>
+Record<{Score: "1-6 7-5 7-5", Frequency: 1}>
+Record<{Score: "5-7 6-3 7-6(1)", Frequency: 1}>
+Record<{Score: "6-3 6-7(3) 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(5) 3-6 6-2", Frequency: 1}>
+Record<{Score: "2-6 6-0 6-3", Frequency: 1}>
+Record<{Score: "6-7(2) 7-5 6-3", Frequency: 1}>
+Record<{Score: "5-7 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "7-6(3) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-2 6-7(7) 7-6(3)", Frequency: 1}>
+Record<{Score: "7-6(7) 2-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(4) 1-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(4) 6-7(6) 7-6(2)", Frequency: 1}>
+Record<{Score: "6-2 0-6 6-2", Frequency: 1}>
+Record<{Score: "6-4 4-6 7-6(3)", Frequency: 1}>
+Record<{Score: "6-4 6-7(7) 7-6(4)", Frequency: 1}>
+Record<{Score: "6-5 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(7) 6-3", Frequency: 1}>
+Record<{Score: "6-4 6-7(7) 6-2", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 6-3", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 7-6(3)", Frequency: 1}>
+Record<{Score: "6-7(3) 6-1 6-4", Frequency: 1}>
+Record<{Score: "6-7(1) 6-1 6-2", Frequency: 1}>
+Record<{Score: "6-1 6-7(3) 6-4", Frequency: 1}>
+Record<{Score: "6-3 6-7(3) 7-6(4)", Frequency: 1}>
+Record<{Score: "2-6 7-6(5) 6-3", Frequency: 1}>
+Record<{Score: "7-6(1) 7-6(6)", Frequency: 1}>
+Record<{Score: "6-0 6-7(3) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-1 3-6 6-1", Frequency: 1}>
+Record<{Score: "7-6(4) 4-5 RET", Frequency: 1}>
+Record<{Score: "7-6(3) 3-6 7-6(3)", Frequency: 1}>
+Record<{Score: "3-6 7-6(0) 6-4", Frequency: 1}>
+Record<{Score: "5-7 6-2 2-0 RET", Frequency: 1}>
+Record<{Score: "7-6(6) 3-6 6-2", Frequency: 1}>
+Record<{Score: "6-3 0-6 6-2", Frequency: 1}>
+Record<{Score: "4-6 7-6(4) 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 3-6 7-6(2)", Frequency: 1}>
+Record<{Score: "7-6(4) 7-6(1)", Frequency: 1}>
+Record<{Score: "2-6 6-4 3-0 RET", Frequency: 1}>
+Record<{Score: "6-0 5-3 RET", Frequency: 1}>
+Record<{Score: "6-7(17) 6-3 6-4", Frequency: 1}>
+Record<{Score: "6-1 6-7(7) 6-2", Frequency: 1}>
+Record<{Score: "6-7(5) 6-1 6-3", Frequency: 1}>
+Record<{Score: "6-7(1) 7-5 6-4", Frequency: 1}>
+Record<{Score: "2-6 7-6(1) 6-1", Frequency: 1}>
+Record<{Score: "7-6(7) 5-7 7-6(4)", Frequency: 1}>
+Record<{Score: "6-1 7-6(10)", Frequency: 1}>
+Record<{Score: "6-7(0) 6-4 6-1", Frequency: 1}>
+Record<{Score: "5-7 6-3 7-6(3)", Frequency: 1}>
+Record<{Score: "6-4 4-6 7-6(1)", Frequency: 1}>
+Record<{Score: "6-7(0) 6-2 6-4", Frequency: 1}>
+Record<{Score: "7-6(1) 5-7 6-3", Frequency: 1}>
+Record<{Score: "7-6(3) 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(4) 5-7 4-3 RET", Frequency: 1}>
+Record<{Score: "6-4 0-6 7-6(5)", Frequency: 1}>
+Record<{Score: "6-4 6-7(7) 6-3", Frequency: 1}>
+Record<{Score: "6-7(6) 7-6(3) 6-1", Frequency: 1}>
+Record<{Score: "7-6(0) 7-6(3)", Frequency: 1}>
+Record<{Score: "1-6 7-6(3) 7-6(10)", Frequency: 1}>
+Record<{Score: "4-6 6-3 7-6(1)", Frequency: 1}>
+Record<{Score: "2-6 6-3 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(0) 0-6 7-6(2)", Frequency: 1}>
+Record<{Score: "3-6 7-6(5) 7-6(5)", Frequency: 1}>
+Record<{Score: "1-6 7-5 7-6(6)", Frequency: 1}>
+Record<{Score: "6-7(7) 6-4 7-5", Frequency: 1}>
+Record<{Score: "6-3 6-7(7) 6-1", Frequency: 1}>
+Record<{Score: "2-6 7-6(4) 6-3", Frequency: 1}>
+Record<{Score: "2-6 6-0 3-0 RET", Frequency: 1}>
+Record<{Score: "6-7(1) 7-6(6) 6-1", Frequency: 1}>
+Record<{Score: "6-1 1-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(9) 6-3 7-6(7)", Frequency: 1}>
+Record<{Score: "7-6(2) 0-6 6-2", Frequency: 1}>
+Record<{Score: "0-6 6-2 6-1", Frequency: 1}>
+Record<{Score: "2-6 7-6(2) 7-5", Frequency: 1}>
+Record<{Score: "6-3 3-6 7-6(1)", Frequency: 1}>
+Record<{Score: "7-5 5-7 7-6(4)", Frequency: 1}>
+Record<{Score: "0-6 6-0 6-4", Frequency: 1}>
+Record<{Score: "2-6 6-1 7-6(5)", Frequency: 1}>
+Record<{Score: "6-7(5) 6-0 6-2", Frequency: 1}>
+Record<{Score: "7-5 2-6 7-6(7)", Frequency: 1}>
+Record<{Score: "5-7 7-6(4) 6-2", Frequency: 1}>
+Record<{Score: "1-6 6-0 6-3", Frequency: 1}>
+Record<{Score: "3-6 7-5 7-6(6)", Frequency: 1}>
+Record<{Score: "5-3 RET", Frequency: 1}>
+Record<{Score: "7-6(9) 3-6 6-1", Frequency: 1}>
+Record<{Score: "1-6 6-2 6-4", Frequency: 1}>
+Record<{Score: "7-6(5) 2-6 6-2", Frequency: 1}>
+Record<{Score: "6-3 3-6 10-7", Frequency: 1}>
+Record<{Score: "6-7(5) 7-6(4) 7-5", Frequency: 1}>
+Record<{Score: "6-3 1-6 10-5", Frequency: 1}>
+Record<{Score: "4-6 6-2 10-6", Frequency: 1}>
+Record<{Score: "7-6(4) 3-6 11-9", Frequency: 1}>
+Record<{Score: "6-7(1) 6-4 12-10", Frequency: 1}>
+Record<{Score: "4-6 6-2 10-7", Frequency: 1}>
+Record<{Score: "4-6 6-0 10-8", Frequency: 1}>
+Record<{Score: "6-4 4-6 13-11", Frequency: 1}>
+Record<{Score: "6-7(2) 6-4 12-10", Frequency: 1}>
+Record<{Score: "2-6 6-3 10-6", Frequency: 1}>
+Record<{Score: "4-6 6-4 10-8", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 10-7", Frequency: 1}>
+Record<{Score: "0-6 6-2 10-5", Frequency: 1}>
+Record<{Score: "0-6 6-4 10-8", Frequency: 1}>
+Record<{Score: "4-6 7-5 10-4", Frequency: 1}>
+Record<{Score: "3-6 6-2 10-3", Frequency: 1}>
+Record<{Score: "6-4 6-7(4) 10-8", Frequency: 1}>
+Record<{Score: "7-5 3-6 10-6", Frequency: 1}>
+Record<{Score: "4-6 6-1 10-8", Frequency: 1}>
+Record<{Score: "3-6 6-1 10-8", Frequency: 1}>
+Record<{Score: "7-5 3-6 6-1", Frequency: 1}>
+Record<{Score: "7-5 6-7(5) 6-3", Frequency: 1}>
+Record<{Score: "6-0 1-6 6-3", Frequency: 1}>
+Record<{Score: "1-6 7-6(5) 5-2 RET", Frequency: 1}>
+Record<{Score: "6-0 4-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(5) 6-1 6-2", Frequency: 1}>
+Record<{Score: "3-6 7-5 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(3) 2-0 RET", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 6-3", Frequency: 1}>
+Record<{Score: "2-6 7-6(7) 6-4", Frequency: 1}>
+Record<{Score: "1-6 7-6(8) 6-0", Frequency: 1}>
+Record<{Score: "6-4 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(3) 6-4", Frequency: 1}>
+Record<{Score: "6-7(0) 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-3 2-6 7-5", Frequency: 1}>
+Record<{Score: "6-4 3-6 7-6(4)", Frequency: 1}>
+Record<{Score: "5-7 7-5 6-1", Frequency: 1}>
+Record<{Score: "2-6 6-1 7-6(4)", Frequency: 1}>
+Record<{Score: "6-7(3) 7-5 6-0", Frequency: 1}>
+Record<{Score: "7-5 2-6 6-2", Frequency: 1}>
+Record<{Score: "1-6 7-5 3-2 RET", Frequency: 1}>
+Record<{Score: "6-7(2) 6-3 4-0 RET", Frequency: 1}>
+Record<{Score: "7-6(1) 4-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(3) 2-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(2) 6-3 7-5", Frequency: 1}>
+Record<{Score: "2-6 6-2 4-2 RET", Frequency: 1}>
+Record<{Score: "7-5 6-7(5) 6-0", Frequency: 1}>
+Record<{Score: "7-5 7-6(6)", Frequency: 1}>
+Record<{Score: "1-6 7-6(9) 6-2", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(2) 6-4", Frequency: 1}>
+Record<{Score: "5-7 5-3 RET", Frequency: 1}>
+Record<{Score: "4-6 6-4 7-6(0)", Frequency: 1}>
+Record<{Score: "6-3 6-7(2) 6-4", Frequency: 1}>
+Record<{Score: "7-5 5-7 6-3", Frequency: 1}>
+Record<{Score: "7-5 1-1 RET", Frequency: 1}>
+Record<{Score: "6-7(4) 6-2 6-0", Frequency: 1}>
+Record<{Score: "3-6 6-2 7-6(8)", Frequency: 1}>
+Record<{Score: "6-1 7-6(1)", Frequency: 1}>
+Record<{Score: "6-7(6) 7-5 6-2", Frequency: 1}>
+Record<{Score: "6-7(11) 6-0 7-6(6)", Frequency: 1}>
+Record<{Score: "4-6 6-2 3-0 RET", Frequency: 1}>
+Record<{Score: "0-6 7-6(2) 6-3", Frequency: 1}>
+Record<{Score: "6-2 0-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(7) 6-1", Frequency: 1}>
+Record<{Score: "7-6(5) 3-6 7-6(5)", Frequency: 1}>
+Record<{Score: "7-6(7) 4-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(1) 2-6 6-2", Frequency: 1}>
+Record<{Score: "6-7(5) 6-3 7-6(3)", Frequency: 1}>
+Record<{Score: "7-6(4) 2-6 6-1", Frequency: 1}>
+Record<{Score: "6-4 6-7(4) 7-5", Frequency: 1}>
+Record<{Score: "7-6(5) 2-6 6-4", Frequency: 1}>
+Record<{Score: "0-6 6-3 6-4", Frequency: 1}>
+Record<{Score: "6-7(4) 6-1 1-0 RET", Frequency: 1}>
+Record<{Score: "7-5 3-1 RET", Frequency: 1}>
+Record<{Score: "2-6 6-0 6-2", Frequency: 1}>
+Record<{Score: "4-6 7-6(3) 6-2", Frequency: 1}>
+Record<{Score: "1-6 6-2 7-6(2)", Frequency: 1}>
+Record<{Score: "6-7(5) 6-3 6-0", Frequency: 1}>
+Record<{Score: "6-7(5) 6-1 7-5", Frequency: 1}>
+Record<{Score: "1-6 7-6(2) 3-0 RET", Frequency: 1}>
+Record<{Score: "1-6 6-3 RET", Frequency: 1}>
+Record<{Score: "7-5 6-7(4) 7-6(5)", Frequency: 1}>
+Record<{Score: "2-6 7-6(1) 6-4", Frequency: 1}>
+Record<{Score: "7-6(2) 7-6(8)", Frequency: 1}>
+Record<{Score: "7-6(13) 6-3", Frequency: 1}>
+Record<{Score: "7-6(2) 1-6 7-5", Frequency: 1}>
+Record<{Score: "7-5 2-6 6-1", Frequency: 1}>
+Record<{Score: "7-6(5) 3-6 6-4", Frequency: 1}>
+Record<{Score: "7-6(0) 4-6 6-3", Frequency: 1}>
+Record<{Score: "2-6 7-6(4) 7-5", Frequency: 1}>
+Record<{Score: "7-6(6) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-7(0) 7-6(2) 6-4", Frequency: 1}>
+Record<{Score: "7-6(5) 2-6 7-6(7)", Frequency: 1}>
+Record<{Score: "6-4 4-1 RET", Frequency: 1}>
+Record<{Score: "1-6 7-5 6-4", Frequency: 1}>
+Record<{Score: "6-4 5-6 RET", Frequency: 1}>
+Record<{Score: "1-6 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "1-6 7-6(6) 7-5", Frequency: 1}>
+Record<{Score: "6-2 2-6 7-6(3)", Frequency: 1}>
+Record<{Score: "4-6 6-3 3-0 RET", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 7-6(4)", Frequency: 1}>
+Record<{Score: "4-6 6-4 7-6(4)", Frequency: 1}>
+Record<{Score: "7-6(5) 3-6 7-6(4)", Frequency: 1}>
+Record<{Score: "6-3 0-6 7-5", Frequency: 1}>
+Record<{Score: "6-7(6) 6-4 6-1", Frequency: 1}>
+Record<{Score: "6-1 2-6 6-1", Frequency: 1}>
+Record<{Score: "0-6 6-2 6-3", Frequency: 1}>
+Record<{Score: "6-3 6-7(6) 7-6(5)", Frequency: 1}>
+Record<{Score: "6-2 3-6 7-6(3)", Frequency: 1}>
+Record<{Score: "6-2 1-6 6-1", Frequency: 1}>
+Record<{Score: "7-6(9) 7-6(5)", Frequency: 1}>
+Record<{Score: "0-6 6-4 6-4", Frequency: 1}>
+Record<{Score: "2-6 7-6(3) 6-1", Frequency: 1}>
+Record<{Score: "7-6(2) 1-6 6-4", Frequency: 1}>
+Record<{Score: "6-7(5) 7-5 1-0 RET", Frequency: 1}>
+Record<{Score: "6-3 1-6 7-6(2)", Frequency: 1}>
+Record<{Score: "6-0 3-1 RET", Frequency: 1}>
+Record<{Score: "7-6(6) 4-6 7-5", Frequency: 1}>
+Record<{Score: "7-6(6) 6-1", Frequency: 1}>
+Record<{Score: "1-6 7-6(6) 6-3", Frequency: 1}>
+Record<{Score: "6-7(3) 6-2 7-5", Frequency: 1}>
+Record<{Score: "7-5 3-0 RET", Frequency: 1}>
+Record<{Score: "6-7(6) 7-5 6-1", Frequency: 1}>
+Record<{Score: "7-6(6) 2-6 6-3", Frequency: 1}>
+Record<{Score: "5-7 7-5 RET", Frequency: 1}>
+Record<{Score: "DEF", Frequency: 1}>
+Record<{Score: "6-2 3-3 RET", Frequency: 1}>
+Record<{Score: "6-4 4-6 6-0", Frequency: 1}>
+Record<{Score: "7-6(9) 6-0", Frequency: 1}>
+Record<{Score: "2-6 6-3 3-1 RET", Frequency: 1}>
+Record<{Score: "2-6 6-1 7-5", Frequency: 1}>
+Record<{Score: "3-6 6-0 2-0 RET", Frequency: 1}>
+Record<{Score: "7-5 5-7 6-2", Frequency: 1}>
+Record<{Score: "5-7 6-2 7-6(3)", Frequency: 1}>
+Record<{Score: "6-0 7-6(6)", Frequency: 1}>
+Record<{Score: "3-5 RET", Frequency: 1}>
+Record<{Score: "6-7(6) 6-0 6-4", Frequency: 1}>
+Record<{Score: "6-3 0-6 7-6(0)", Frequency: 1}>
+Record<{Score: "7-6(7) 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "6-1 4-6 4-2 RET", Frequency: 1}>
+Record<{Score: "6-1 2-6 6-0", Frequency: 1}>
+Record<{Score: "5-7 7-6(2) 6-2", Frequency: 1}>
+Record<{Score: "6-7(2) 7-5 6-0", Frequency: 1}>
+Record<{Score: "6-2 5-2 RET", Frequency: 1}>
+Record<{Score: "6-7(1) 6-2 6-4", Frequency: 1}>
+Record<{Score: "4-6 6-2 7-6(6)", Frequency: 1}>
+Record<{Score: "7-5 4-2 RET", Frequency: 1}>
+Record<{Score: "6-4 3-6 7-6(1)", Frequency: 1}>
+Record<{Score: "7-6(6) 2-6 6-1", Frequency: 1}>
+Record<{Score: "6-0 2-6 6-4", Frequency: 1}>
+Record<{Score: "4-6 5-3 RET", Frequency: 1}>
+Record<{Score: "7-6(1) RET", Frequency: 1}>
+Record<{Score: "1-6 7-6(1) 7-5", Frequency: 1}>
+Record<{Score: "1-6 7-5 7-6(5)", Frequency: 1}>
+Record<{Score: "6-0 3-6 6-1", Frequency: 1}>
+Record<{Score: "6-4 3-6 6-0", Frequency: 1}>
+Record<{Score: "7-5 6-7(4) 6-1", Frequency: 1}>
+Record<{Score: "0-6 7-5 6-3", Frequency: 1}>
+Record<{Score: "6-7(8) 6-3 6-2", Frequency: 1}>
+Record<{Score: "6-7(1) 6-2 6-2", Frequency: 1}>
+Record<{Score: "1-6 6-3 3-0 RET", Frequency: 1}>
+Record<{Score: "6-7(8) 6-3 6-1", Frequency: 1}>
+Record<{Score: "2-6 7-6(5) 6-0", Frequency: 1}>
+Record<{Score: "7-6(5) 4-6 6-0", Frequency: 1}>
+Record<{Score: "6-3 2-1 RET", Frequency: 1}>
+Record<{Score: "7-6(4) 2-6 6-3", Frequency: 1}>
+Record<{Score: "4-6 7-6(6) 6-2", Frequency: 1}>
+Record<{Score: "6-2 3-6 6-0", Frequency: 1}>
+Record<{Score: "6-4 3-6 4-0 RET", Frequency: 1}>
+Record<{Score: "6-0 2-6 6-0", Frequency: 1}>
+Record<{Score: "6-7(5) 7-5 6-1", Frequency: 1}>
+Record<{Score: "6-1 2-6 7-6(2)", Frequency: 1}>
+Record<{Score: "6-2 4-6 7-6(3)", Frequency: 1}>
+Record<{Score: "7-5 6-7(2) 6-4", Frequency: 1}>
+Record<{Score: "6-1 1-6 6-2", Frequency: 1}>
+Record<{Score: "6-7(2) 7-6(2) 6-1", Frequency: 1}>
+Record<{Score: "6-4 6-7(6) 6-0", Frequency: 1}>
+Record<{Score: "6-7(4) 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "6-4 2-6 6-0", Frequency: 1}>
+Record<{Score: "6-3 7-6(11)", Frequency: 1}>
+Record<{Score: "4-6 7-5 4-0 RET", Frequency: 1}>
+Record<{Score: "6-0 0-6 6-3", Frequency: 1}>
+Record<{Score: "6-4 1-1 RET", Frequency: 1}>
+Record<{Score: "5-7 6-4 6-0", Frequency: 1}>
+Record<{Score: "", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 6-2", Frequency: 1}>
+Record<{Score: "7-6(10) 6-3", Frequency: 1}>
+Record<{Score: "6-1 6-7(2) 7-6(3)", Frequency: 1}>
+Record<{Score: "5-7 6-3 6-1", Frequency: 1}>
+Record<{Score: "6-7(4) 6-3 7-5", Frequency: 1}>
+Record<{Score: "7-6(4) 0-6 7-5", Frequency: 1}>
+Record<{Score: "6-4 2-0 RET", Frequency: 1}>
+Record<{Score: "6-4 5-7 6-1", Frequency: 1}>
+Record<{Score: "6-7(4) 7-5 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(8) RET", Frequency: 1}>
+Record<{Score: "6-7(3) 6-2 1-0 RET", Frequency: 1}>
+Record<{Score: "5-7 3-0 RET", Frequency: 1}>
+Record<{Score: "3-6 7-6(7) 6-3", Frequency: 1}>
+Record<{Score: "7-6(7) 7-6(3)", Frequency: 1}>
+Record<{Score: "6-3 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "7-5 7-6(1)", Frequency: 1}>
+Record<{Score: "3-6 7-6(6) 7-6(3)", Frequency: 1}>
+Record<{Score: "1-6 7-6(5) 6-4", Frequency: 1}>
+Record<{Score: "2-6 6-1 7-6(6)", Frequency: 1}>
+Record<{Score: "7-6(5) 6-7(10) 6-1", Frequency: 1}>
+Record<{Score: "6-3 6-7(7) 6-2", Frequency: 1}>
+Record<{Score: "7-6(6) 3-6 7-6(6)", Frequency: 1}>
+Record<{Score: "6-7(9) 7-5 6-2", Frequency: 1}>
+Record<{Score: "6-7(9) 6-4 7-5", Frequency: 1}>
+Record<{Score: "3-6 7-5 7-5", Frequency: 1}>
+Record<{Score: "7-6(3) 6-7(4) 6-4", Frequency: 1}>
+Record<{Score: "0-6 6-1 6-4", Frequency: 1}>
+Record<{Score: "2-6 6-4 4-3 RET", Frequency: 1}>
+Record<{Score: "3-6 7-6(4) 6-4", Frequency: 1}>
+Record<{Score: "6-4 5-7 6-0", Frequency: 1}>
+Record<{Score: "6-3 5-7 7-6(4)", Frequency: 1}>
+Record<{Score: "6-4 6-7(1) 6-3", Frequency: 1}>
+Record<{Score: "7-6(9) 7-5", Frequency: 1}>
+Record<{Score: "5-7 7-6(4) 6-1", Frequency: 1}>
+Record<{Score: "6-4 1-6 7-6(7)", Frequency: 1}>
+Record<{Score: "6-0 5-7 6-3", Frequency: 1}>
+Record<{Score: "6-4 6-7(2) 6-4", Frequency: 1}>
+Record<{Score: "6-4 0-6 6-1", Frequency: 1}>
+Record<{Score: "7-6(7) 2-0 RET", Frequency: 1}>
+Record<{Score: "6-4 4-6 7-6(5)", Frequency: 1}>
+Record<{Score: "RET", Frequency: 1}>
+
+Query 8: MATCH (p:Player)-[:VENCEU|PERDEU]->(m:Match)-[:JOGADO_EM]->(t:Tournament {id: '2024-M-ITF-ARG-2024-001'}) RETURN DISTINCT p.name AS Player;
+Record<{Player: "Liam Draxl"}>
+Record<{Player: "Federico Aguilar Cardozo"}>
+Record<{Player: "Alex Marti Pujolras"}>
+Record<{Player: "Franco Ribero"}>
+Record<{Player: "Joaquin  Aguilar Cardozo "}>
+Record<{Player: "Daniel Vallejo"}>
+Record<{Player: "Wilson Leite"}>
+Record<{Player: "Pedro Boscardin Dias"}>
+Record<{Player: "Pedro Sakamoto"}>
+Record<{Player: "Tadeo Meneo"}>
+Record<{Player: "Felipe Pagnacco"}>
+Record<{Player: "Franco Roncadelli"}>
+Record<{Player: "Nicolas Zanellato"}>
+Record<{Player: "Leonardo Aboian"}>
+Record<{Player: "Alex Barrena"}>
+Record<{Player: "Mateo Del Pino"}>
+Record<{Player: "Juan Carlos Prado Angelo"}>
+Record<{Player: "Luciano Emanuel Ambrogi"}>
+Record<{Player: "Sean Hess"}>
+Record<{Player: "Santiago Russo"}>
+Record<{Player: "Petr Iamachkine"}>
+Record<{Player: "Tobias Franco"}>
+Record<{Player: "Dmitry Popko"}>
+Record<{Player: "Gonzalo Zeitune"}>
+Record<{Player: "Federico Agustin Gomez"}>
+Record<{Player: "Valerio Aboian"}>
+Record<{Player: "Facundo Mena"}>
+Record<{Player: "Lautaro Midon"}>
+Record<{Player: "Lorenzo Joaquin Rodriguez"}>
+Record<{Player: "Benjamin Ignacio Torres Fernandez"}>
+Record<{Player: "Alvaro Guillen Meza"}>
+Record<{Player: "Ezequiel Simonit"}>
+Record<{Player: "Maximo Zeitune"}>
+Record<{Player: "Maximilian Figl"}>
+Record<{Player: "Franco Emanuel Egea"}>
+Record<{Player: "Alejo Lorenzo Lingua Lavallen"}>
+Record<{Player: "Thiago Cigarran"}>
+Record<{Player: "Alexander Stater"}>
+Record<{Player: "Matias Franco Descotte"}>
+Record<{Player: "Santiago De La Fuente"}>
+Record<{Player: "Ezequiel Monferrer"}>
+Record<{Player: "Juan Aranda"}>
+Record<{Player: "Tomas Farjat"}>
+Record<{Player: "Nicolas Parizzia"}>
+Record<{Player: "Juan Bautista Otegui"}>
+Record<{Player: "Juan Estevez"}>
+Record<{Player: "Ignacio Antonio Becerra Otarola"}>
+Record<{Player: "Bautista Vilicich"}>
+Record<{Player: "Tomas Martinez"}>
+Record<{Player: "Ignacio Monzon"}>
+Record<{Player: "Fermin Tenti"}>
+Record<{Player: "Luciano Carraro"}>
+Record<{Player: "Carlos Maria Zarate"}>
+Record<{Player: "Juan Manuel La Serna"}>
+Record<{Player: "Lautaro Agustin Falabella"}>
+Record<{Player: "Ramiro Amarilla"}>
+Record<{Player: "Facundo Grasso"}>
+Record<{Player: "Guido Ivan Justo"}>
+Record<{Player: "Lautaro Correa Beguerie"}>
+Record<{Player: "Arthur Laborde"}>
+Record<{Player: "Mariano Kestelboim"}>
+Record<{Player: "Bruno Fernandez"}>
+Record<{Player: "Olukayode Alafia Damina Ayeni"}>
+Record<{Player: "Manuel Mouilleron Salvo"}>
+Record<{Player: "Victor Hugo Remondy Pagotto"}>
+Record<{Player: "Joel Angel Lucero"}>
+Record<{Player: "Nikos Lehmann"}>
+Record<{Player: "Lucio Ratti"}>
+Record<{Player: "Lucca Guercio"}>
+Record<{Player: "Romeo Arcuschin"}>
+Record<{Player: "Matias Soto"}>
+Record<{Player: "Mateo Branc"}>
+Record<{Player: "Ryan Augusto Dos Santos"}>
+Record<{Player: "Joaquim Almeida"}>
+Record<{Player: "Lautaro Agustin Corthey"}>
+Record<{Player: "Daniel Antonio Nunez"}>
+Record<{Player: "Tomas Tischner"}>
+Record<{Player: "Enzo Lima"}>
+Record<{Player: "Benjamin Chelia"}>
+Record<{Player: "Felipe De Dios"}>
+Record<{Player: "Mateo Barreiros Reyes"}>
+Record<{Player: "Valentin Garay"}>
+Record<{Player: "Luca Miremont"}>
+Record<{Player: "Valentin Basel"}>
+Record<{Player: "Fernando Cavallo"}>
+Record<{Player: "Amador Salazar"}>
+Record<{Player: "Preston Brown"}>
+Record<{Player: "Gonzalo Ariel Karakachian"}>
+Record<{Player: "Mateo Matulovich"}>
+Record<{Player: "Marcos Lee Chan Baratau"}>
+Record<{Player: "Gino Romano"}>
+Record<{Player: "Kaichi Uchida"}>
+Record<{Player: "Rocco Valente"}>
+Record<{Player: "Nocolas Alberto Jara Lozano"}>
+Record<{Player: "Ian Vertberger"}>
+Record<{Player: "Franco Ariel Vazquez"}>
+Record<{Player: "Tiago Ranea"}>
+Record<{Player: "Nicolas Alvarez"}>
+Record<{Player: "Nicolas Hollender"}>
+Record<{Player: "Li Tu"}>
+Record<{Player: "Andre Ilagan"}>
+Record<{Player: "Thomas Braithwaite"}>
+Record<{Player: "Corey Gaal"}>
+Record<{Player: "Jacob Bradshaw"}>
+Record<{Player: "Kody Pearson"}>
+Record<{Player: "Christian Langmo"}>
+Record<{Player: "Jeamoon Lee"}>
+Record<{Player: "Alex Bolt"}>
+Record<{Player: "Shohei Chikami"}>
+Record<{Player: "Tai Leonard Sach"}>
+Record<{Player: "Jake Delaney"}>
+Record<{Player: "Moerani Bouzige"}>
+Record<{Player: "Makoto Ochi"}>
+Record<{Player: "Blake Ellis"}>
+Record<{Player: "Hanyi Liu"}>
+Record<{Player: "Hiroki Moriya"}>
+Record<{Player: "Jesse Delaney"}>
+Record<{Player: "Blake Mott"}>
+Record<{Player: "Ajeet Rai"}>
+Record<{Player: "Sam Ryan Ziegann"}>
+Record<{Player: "Brandon Walkin"}>
+Record<{Player: "James Mccabe"}>
+Record<{Player: "Kokoro Isomura"}>
+Record<{Player: "Luke Saville"}>
+Record<{Player: "Jayden Court"}>
+Record<{Player: "Masamichi Imamura"}>
+Record<{Player: "Hikaru Shiraishi"}>
+Record<{Player: "Matt Hulme"}>
+Record<{Player: "Issei Okamura"}>
+Record<{Player: "Omar Jasika"}>
+Record<{Player: "Luke Sorensen"}>
+Record<{Player: "Naoki Tajima"}>
+Record<{Player: "Chase Ferguson"}>
+Record<{Player: "Seon Yong Han"}>
+Record<{Player: "Ethan Cook"}>
+Record<{Player: "Pavle Marinkov"}>
+Record<{Player: "Kosuke Ogura"}>
+Record<{Player: "Ji Sung Nam"}>
+Record<{Player: "Thomas Nicholas Gadecki"}>
+Record<{Player: "Tomislav Edward Papac"}>
+Record<{Player: "San Hui Sin"}>
+Record<{Player: "Hayden Jones"}>
+Record<{Player: "Jack Bruce Smith"}>
+Record<{Player: "James Watt"}>
+Record<{Player: "Jarrod Joyce"}>
+Record<{Player: "Sam Oster"}>
+Record<{Player: "Arjun Mehrotra"}>
+Record<{Player: "Thomas Patton"}>
+Record<{Player: "Rio Noguchi"}>
+Record<{Player: "Joshua Charlton"}>
+Record<{Player: "Shintaro Imai"}>
+Record<{Player: "Blake Bayldon"}>
+Record<{Player: "Nikita Volonski"}>
+Record<{Player: "Timothy Gray"}>
+Record<{Player: "Mason Naumovski"}>
+Record<{Player: "Cade Birrell"}>
+Record<{Player: "Jerome Kym"}>
+Record<{Player: "Tomas Lanik"}>
+Record<{Player: "Nico Hipfl"}>
+Record<{Player: "Jiri Barnat"}>
+Record<{Player: "Patrick Zahraj"}>
+Record<{Player: "Mariano Tammaro"}>
+Record<{Player: "Michele Ribecai"}>
+Record<{Player: "Juan Pablo Paz"}>
+Record<{Player: "Tom Gentzsch"}>
+Record<{Player: "Keegan Rice"}>
+Record<{Player: "Leopold Zima"}>
+Record<{Player: "Milos Karol"}>
+Record<{Player: "Gregor Ramskogler"}>
+Record<{Player: "Piet Luis Pinter"}>
+Record<{Player: "Luca Giacomini"}>
+Record<{Player: "Alessandro Pecci"}>
+Record<{Player: "Daniel Paty"}>
+Record<{Player: "Joao Eduardo Schiessl"}>
+Record<{Player: "Tobias Smoliner"}>
+Record<{Player: "Jan Hrazdil"}>
+Record<{Player: "Samuel Puskar"}>
+Record<{Player: "Matthias Ujvary"}>
+Record<{Player: "Nik Mikovic "}>
+Record<{Player: "Adrian Oetzbach"}>
+Record<{Player: "Matic Kriznik"}>
+Record<{Player: "Luca Castagnola"}>
+Record<{Player: "Paul Werren"}>
+Record<{Player: "Patrik Homola"}>
+Record<{Player: "Justin Engel"}>
+Record<{Player: "Oscar Jose Gutierrez"}>
+Record<{Player: "Gian Matias Di Natale"}>
+Record<{Player: "Manuel Plunger"}>
+Record<{Player: "Denys Klok"}>
+Record<{Player: "Alen Bill"}>
+Record<{Player: "Jerko Brkic"}>
+Record<{Player: "Petr Brunclik"}>
+Record<{Player: "Lilian Marmousez"}>
+Record<{Player: "Marcel Zielinski"}>
+Record<{Player: "Kai Lemstra"}>
+Record<{Player: "Axel Garcian"}>
+Record<{Player: "Peter Fajta"}>
+Record<{Player: "Lucio Carnevalle"}>
+Record<{Player: "Dimitris Sakellaridis"}>
+Record<{Player: "Drazen Petrovic"}>
+Record<{Player: "Antonio Pelivan"}>
+Record<{Player: "Dusan Obradovic"}>
+Record<{Player: "Razvan Baiant"}>
+Record<{Player: "Gergely Madarasz"}>
+Record<{Player: "Matteo Fondriest"}>
+Record<{Player: "Jan Kupcic"}>
+Record<{Player: "Michael Gloeckler"}>
+Record<{Player: "Andrej Nedic"}>
+Record<{Player: "Charlie Camus"}>
+Record<{Player: "Mili Poljicak"}>
+Record<{Player: "Koki Matsuda"}>
+Record<{Player: "Romain Faucon"}>
+Record<{Player: "Matyas Cerny"}>
+Record<{Player: "Aldin Setkic"}>
+Record<{Player: "Andrej Radojicic"}>
+Record<{Player: "Christian Fellin"}>
+Record<{Player: "Gabriele Bosio"}>
+Record<{Player: "Tibo Colson"}>
+Record<{Player: "Mirza Basic"}>
+Record<{Player: "Pavel Verbin"}>
+Record<{Player: "Max Stenzer"}>
+Record<{Player: "Pawel Cias"}>
+Record<{Player: "Finley Leukel"}>
+Record<{Player: "Marcell Bartakovics"}>
+Record<{Player: "Jacques Kai Inoue"}>
+Record<{Player: "Tymur Bieldiugin "}>
+Record<{Player: "Marc Majdandzic"}>
+Record<{Player: "Sebastian Sorger"}>
+Record<{Player: "Matthias Uwe Kask"}>
+Record<{Player: "Tino Kovacic"}>
+Record<{Player: "Sasa Markovic"}>
+Record<{Player: "Peter Benjamin Privara"}>
+Record<{Player: "Liviu Popirlan"}>
+Record<{Player: "Sander Jong"}>
+Record<{Player: "Kirill Mishkin"}>
+Record<{Player: "Matias Fernandez Netri"}>
+Record<{Player: "Jeremy Gschwendtner"}>
+Record<{Player: "Viktor Jovic"}>
+Record<{Player: "Matej Djokic"}>
+Record<{Player: "Vladyslav Orlov"}>
+Record<{Player: "Hernando Jose Escurra Isnardi"}>
+Record<{Player: "Michalis Sakellaridis"}>
+Record<{Player: "Stefano Reitano"}>
+Record<{Player: "Tarik Bajrovic"}>
+Record<{Player: "Miljan Zekic"}>
+Record<{Player: "Attila Boros"}>
+Record<{Player: "Louis Tessa"}>
+Record<{Player: "Francesco Ferrari"}>
+Record<{Player: "Tim Ruehl"}>
+Record<{Player: "Vitali Shvets"}>
+Record<{Player: "Federico Campana"}>
+Record<{Player: "Aleksandr Braynin"}>
+Record<{Player: "Gabriele Maria Noce"}>
+Record<{Player: "Michel Hopp"}>
+Record<{Player: "Luka Todorovic"}>
+Record<{Player: "Paulo Andre Saraiva Dos Santos"}>
+Record<{Player: "Joao Vitor Goncalves Ceolin"}>
+Record<{Player: "Gabriel Roveri Sidney"}>
+Record<{Player: "Jefferson Wendler Filho"}>
+Record<{Player: "Igor Gimenez"}>
+Record<{Player: "Louis Wessels"}>
+Record<{Player: "Joao Victor Couto Loureiro"}>
+Record<{Player: "Henrique Costanzi De Brito"}>
+Record<{Player: "Victor Alvares De Castro Rocha"}>
+Record<{Player: "Luis Felipe Ferraz Sandoval Carvalho"}>
+Record<{Player: "Rayane Oumaouche"}>
+Record<{Player: "Eduardo Ribeiro"}>
+Record<{Player: "Daniel Dutra Da Silva"}>
+Record<{Player: "Rafael Tosetto"}>
+Record<{Player: "Eugenio Almeida Junior"}>
+Record<{Player: "Mateo Berta"}>
+Record<{Player: "Mateus Alves"}>
+Record<{Player: "Juan Sebastian Osorio"}>
+Record<{Player: "Jose Pereira"}>
+Record<{Player: "Rafael Ferreira"}>
+Record<{Player: "Quentin Folliot"}>
+Record<{Player: "Harrison Adams"}>
+Record<{Player: "Matheus Cury Bueres"}>
+Record<{Player: "Juan Pablo Ficovich"}>
+Record<{Player: "Wallace Oliveira"}>
+Record<{Player: "Joao Menezes"}>
+Record<{Player: "Luka Bojicic Ono"}>
+Record<{Player: "Paul Valsecchi"}>
+Record<{Player: "Gabriel Pascotto Tumasonis"}>
+Record<{Player: "Luis Britto"}>
+Record<{Player: "Enrique Bogo"}>
+Record<{Player: "Laelson Rodrigues"}>
+Record<{Player: "Gustavo Ribeiro De Almeida"}>
+Record<{Player: "Victor Braga"}>
+Record<{Player: "Enzo Crevelaro"}>
+Record<{Player: "Andres Urrea"}>
+Record<{Player: "Nicolas Villalon Valdes"}>
+Record<{Player: "Nicolas Oliveira"}>
+Record<{Player: "Diego Ortiz Gamonal"}>
+Record<{Player: "Nicolas Bruna"}>
+Record<{Player: "Collin Altamirano"}>
+Record<{Player: "Oren Vasser"}>
+Record<{Player: "Brandon Perez"}>
+Record<{Player: "Evan Bynoe"}>
+Record<{Player: "Alberto Odiseo Alvarado Berrospi"}>
+Record<{Player: "Tom Brown"}>
+Record<{Player: "Alejandro Bancalari"}>
+Record<{Player: "Miguel Angel Cabrera"}>
+Record<{Player: "Benjamin Torrealba"}>
+Record<{Player: "Tobias Sonne"}>
+Record<{Player: "Matt Kuhar"}>
+Record<{Player: "Leo Vithoontien"}>
+Record<{Player: "Drew Van Orderlain"}>
+Record<{Player: "Gabriel Decamps"}>
+Record<{Player: "Yan Bai"}>
+Record<{Player: "Aoran Wang"}>
+Record<{Player: "Ryotaro Taguchi"}>
+Record<{Player: "Zhou Mingzhou"}>
+Record<{Player: "Yi Zhou"}>
+Record<{Player: "Duck Hee Lee"}>
+Record<{Player: "Qiulin Wang"}>
+Record<{Player: "Mitsuki Wei Kang Leong"}>
+Record<{Player: "Xiaofei Wang"}>
+Record<{Player: "Bingyu Yu"}>
+Record<{Player: "Woobin Shin"}>
+Record<{Player: "Ye Cong Mo"}>
+Record<{Player: "Maximus Jones"}>
+Record<{Player: "Changli Zhang"}>
+Record<{Player: "Hanwen Li"}>
+Record<{Player: "Sheng Tang"}>
+Record<{Player: "Jimmy Yang"}>
+Record<{Player: "Takuya Kumasaka"}>
+Record<{Player: "Sungbeen Sim"}>
+Record<{Player: "Zhengyu Sun"}>
+Record<{Player: "Yuki Mochizuki"}>
+Record<{Player: "Kasidit Samrej"}>
+Record<{Player: "Zhenxiong Dong"}>
+Record<{Player: "Linang Xiao"}>
+Record<{Player: "Seungmin Park"}>
+Record<{Player: "Xing Dao Chen"}>
+Record<{Player: "Fajing Sun"}>
+Record<{Player: "Ryotaro Matsumura"}>
+Record<{Player: "Qian Sun"}>
+Record<{Player: "Tzu Li Chang"}>
+Record<{Player: "Yuquan Jin"}>
+Record<{Player: "Evan Zhu"}>
+Record<{Player: "Zhe Li"}>
+Record<{Player: "Dingzheng Nima"}>
+Record<{Player: "Stefan Vujic"}>
+Record<{Player: "Nico Hornitschek"}>
+Record<{Player: "Bang Shuo Yin"}>
+Record<{Player: "Jie Cui"}>
+Record<{Player: "Wishaya Trongcharoenchaikul"}>
+Record<{Player: "Hong Lin Fu"}>
+Record<{Player: "Cing Yang Meng"}>
+Record<{Player: "Renlong Pang"}>
+Record<{Player: "Benjamin Lock"}>
+Record<{Player: "Samuel Alejandro Linde Palacios"}>
+Record<{Player: "Frazier Rengifo"}>
+Record<{Player: "Benjamin Denis Alarcon"}>
+Record<{Player: "Miguel Tobon"}>
+Record<{Player: "Peter Bertran"}>
+Record<{Player: "Pavlos Tsitsipas"}>
+Record<{Player: "Juan David Robayo Arias"}>
+Record<{Player: "Samuel Heredia"}>
+Record<{Player: "Salvador Price"}>
+Record<{Player: "Juan Sebastian Gomez"}>
+Record<{Player: "Ivan Denisov"}>
+Record<{Player: "Cal Wider"}>
+Record<{Player: "Pranav Kumar"}>
+Record<{Player: "Leonid Sheyngezikht"}>
+Record<{Player: "Vitor Leal"}>
+Record<{Player: "Nicolas Buitrago"}>
+Record<{Player: "Alejandro Hoyos Franco"}>
+Record<{Player: "Thijmen Loof"}>
+Record<{Player: "Kiranpal Pannu"}>
+Record<{Player: "Nicolas Mejia"}>
+Record<{Player: "Nicolas Garcia Longo"}>
+Record<{Player: "Mateo Castaneda"}>
+Record<{Player: "Nahuel Fernandez"}>
+Record<{Player: "Enrique Pena"}>
+Record<{Player: "Timo Stodder"}>
+Record<{Player: "Marko Maksimovic"}>
+Record<{Player: "Denis Petak"}>
+Record<{Player: "Filip Krolo"}>
+Record<{Player: "Niccolo Baroni"}>
+Record<{Player: "Luka Pavlovic"}>
+Record<{Player: "Mykyta Mashtakov"}>
+Record<{Player: "Luka Mikrut"}>
+Record<{Player: "Vuk Radjenovic"}>
+Record<{Player: "Antonio Voljavec"}>
+Record<{Player: "Luigi Sorrentino"}>
+Record<{Player: "Federico Arnaboldi"}>
+Record<{Player: "Stefan Popovic"}>
+Record<{Player: "Noah Perfetti"}>
+Record<{Player: "Pietro Pampanin"}>
+Record<{Player: "Ante Petar Ercegovic"}>
+Record<{Player: "Sandro Kopp"}>
+Record<{Player: "Daniel Bagnolini"}>
+Record<{Player: "Tommaso Compagnucci"}>
+Record<{Player: "Josip Simundza"}>
+Record<{Player: "Mateo Martinovic"}>
+Record<{Player: "Patrick Kaukovalta"}>
+Record<{Player: "Jay Clarke"}>
+Record<{Player: "Roko Horvat"}>
+Record<{Player: "Petr Michnev"}>
+Record<{Player: "Viacheslav Bielinskyi"}>
+Record<{Player: "Gabriele Vulpitta"}>
+Record<{Player: "Kevin Humpfner"}>
+Record<{Player: "Domagoj Biljesko"}>
+Record<{Player: "Johan Nikles"}>
+Record<{Player: "Sergi Perez Contri"}>
+Record<{Player: "Stefano Dagostino"}>
+Record<{Player: "Oleksandr Ovcharenko"}>
+Record<{Player: "Leonardo Rossi"}>
+Record<{Player: "Matej Dodig"}>
+Record<{Player: "Jacopo Berrettini"}>
+Record<{Player: "Yvo Panak"}>
+Record<{Player: "Marino Jakic"}>
+Record<{Player: "Giovanni Oradini"}>
+Record<{Player: "Amir Omarkhanov"}>
+Record<{Player: "Noah Thurner"}>
+Record<{Player: "Michiel De Krom"}>
+Record<{Player: "Zoran Ludoski"}>
+Record<{Player: "Lorenzo Vatteroni"}>
+Record<{Player: "Lovro Maricic"}>
+Record<{Player: "Jeremy Taylor"}>
+Record<{Player: "Duje Markovina"}>
+Record<{Player: "Michael Vrbensky"}>
+Record<{Player: "Valerio Perruzza"}>
+Record<{Player: "Nazar Oliynykov"}>
+Record<{Player: "Jasza Szajrych"}>
+Record<{Player: "Neil Oberleitner"}>
+Record<{Player: "Markus Molder"}>
+Record<{Player: "Stjepan Bogdan"}>
+Record<{Player: "Alessandro Ingarao"}>
+Record<{Player: "Paul Woerner"}>
+Record<{Player: "Filippo Speziali"}>
+Record<{Player: "Adam Heinonen"}>
+Record<{Player: "Carlo Alberto Caniato "}>
+Record<{Player: "David Pichler"}>
+Record<{Player: "Pietro Marino"}>
+Record<{Player: "Tymofii Milovanov"}>
+Record<{Player: "Maxime Chazal"}>
+Record<{Player: "Maxence Bertimon"}>
+Record<{Player: "Marco Miceli"}>
+Record<{Player: "Lorenzo Sciahbasi "}>
+Record<{Player: "Carlo Alberto Fossati"}>
+Record<{Player: "Emilien Voisin"}>
+Record<{Player: "Karol Filar"}>
+Record<{Player: "Alberto Bronzetti"}>
+Record<{Player: "Duje Kekez"}>
+Record<{Player: "Khumoun Sultanov"}>
+Record<{Player: "Filippo Romano"}>
+Record<{Player: "Marin Bradaric"}>
+Record<{Player: "Miha Vetrih"}>
+Record<{Player: "Maik Steiner"}>
+Record<{Player: "Tilen Kovac"}>
+Record<{Player: "Freek Van Donselaar"}>
+Record<{Player: "Aljaz Jeran"}>
+Record<{Player: "Gabriele Pennaforti"}>
+Record<{Player: "Yuvan Nandal"}>
+Record<{Player: "Kristian Tumbas Kajgo"}>
+Record<{Player: "Nino Toto"}>
+Record<{Player: "Jonas Trinker"}>
+Record<{Player: "Vojtech Vales"}>
+Record<{Player: "Sebastian Eriksson"}>
+Record<{Player: "Janos Fekete"}>
+Record<{Player: "Stefan Peter Hampe"}>
+Record<{Player: "Duarte Vale"}>
+Record<{Player: "Alessandro Bellifemine"}>
+Record<{Player: "Florian Broska"}>
+Record<{Player: "Noa Vukadin"}>
+Record<{Player: "Radovan Michalik"}>
+Record<{Player: "Yshai Oliel"}>
+Record<{Player: "Demetris Azoides"}>
+Record<{Player: "Jurriaan Bol"}>
+Record<{Player: "Daniele Rapagnetta"}>
+Record<{Player: "Eleftherios Neos"}>
+Record<{Player: "Dragos Nicolae Cazacu"}>
+Record<{Player: "Dan Alexandru Tomescu"}>
+Record<{Player: "Iannis Miletich"}>
+Record<{Player: "Fabrizio Karol Pio Osti"}>
+Record<{Player: "Gianluca Cadenasso "}>
+Record<{Player: "Menelaos Efstathiou"}>
+Record<{Player: "Brian Bozemoj"}>
+Record<{Player: "Andrea Bacaloni"}>
+Record<{Player: "Giannicola Misasi"}>
+Record<{Player: "Stylianos Christodoulou"}>
+Record<{Player: "Sergis Kyratzis"}>
+Record<{Player: "Michael Shaw"}>
+Record<{Player: "Gheorghe Claudiu Schinteie"}>
+Record<{Player: "Vlad Andrei Dancu"}>
+Record<{Player: "Rocco Piatti"}>
+Record<{Player: "Stefan Palosi"}>
+Record<{Player: "Joshua Goodger"}>
+Record<{Player: "Darrshan Suresh"}>
+Record<{Player: "Lucas Gerch"}>
+Record<{Player: "Andrea Gola"}>
+Record<{Player: "Enrico Baldisserri"}>
+Record<{Player: "Manuel Lazic"}>
+Record<{Player: "Alexandru Cristian Dumitru"}>
+Record<{Player: "Thai Son Kwiatkowski"}>
+Record<{Player: "Toby Martin"}>
+Record<{Player: "Gabriel Evans"}>
+Record<{Player: "Marko Stakusic "}>
+Record<{Player: "Andrew Fenty"}>
+Record<{Player: "Tristan Mccormick"}>
+Record<{Player: "Sidane Pontjodikromo"}>
+Record<{Player: "Aydan Gomez Osorio"}>
+Record<{Player: "Omni Kumar"}>
+Record<{Player: "Miles Jones"}>
+Record<{Player: "Alex Jones"}>
+Record<{Player: "Axel Nefve"}>
+Record<{Player: "Dan Martin"}>
+Record<{Player: "Andres Andrade"}>
+Record<{Player: "Roberto Cid"}>
+Record<{Player: "Daniel Vishnick"}>
+Record<{Player: "Kaylan Bigun"}>
+Record<{Player: "Lukas Pokorny"}>
+Record<{Player: "Noah Rubin"}>
+Record<{Player: "Charles Broom"}>
+Record<{Player: "Victor Lilov"}>
+Record<{Player: "Ivan Marrero Curbelo"}>
+Record<{Player: "Jelle Sels"}>
+Record<{Player: "Trey Hilderbrand"}>
+Record<{Player: "Lucca C Pignaton"}>
+Record<{Player: "Jaimee Floyd Angele"}>
+Record<{Player: "Nick Hardt"}>
+Record<{Player: "Enmanuel Munoz"}>
+Record<{Player: "Mwendwa Mbithi"}>
+Record<{Player: "William Hsieh"}>
+Record<{Player: "Matija Pecotic"}>
+Record<{Player: "Patricio Alvarado"}>
+Record<{Player: "Ricardo Rodriguez"}>
+Record<{Player: "Dian Nedev"}>
+Record<{Player: "Marat Sharipov"}>
+Record<{Player: "Federico Bondioli"}>
+Record<{Player: "Oscar Galimardanov"}>
+Record<{Player: "Faris Zakaryia"}>
+Record<{Player: "Maxim Zhukov"}>
+Record<{Player: "Pablo Trochu "}>
+Record<{Player: "Niels Visker"}>
+Record<{Player: "Henri Haupt"}>
+Record<{Player: "Oliver Ojakaar"}>
+Record<{Player: "Saveliy Ivanov"}>
+Record<{Player: "Dax Donders"}>
+Record<{Player: "Marek Gengel"}>
+Record<{Player: "Niklas Schell"}>
+Record<{Player: "Yusuf Khamis"}>
+Record<{Player: "Alec Beckley"}>
+Record<{Player: "Sergei Pogosian"}>
+Record<{Player: "Freddie Ridout"}>
+Record<{Player: "Mark Whitehouse"}>
+Record<{Player: "Ioannis Kountourakis "}>
+Record<{Player: "Martyn Pawelski"}>
+Record<{Player: "Noah Lopez"}>
+Record<{Player: "Aliaksandr Liaonenka"}>
+Record<{Player: "Alexander Zgirovsky"}>
+Record<{Player: "Erik Arutiunian"}>
+Record<{Player: "Ali Habib"}>
+Record<{Player: "Matthew Summers"}>
+Record<{Player: "Leonardo Borrelli"}>
+Record<{Player: "Emile Hudd"}>
+Record<{Player: "Rei Sakamoto"}>
+Record<{Player: "Finn Bass"}>
+Record<{Player: "Amr Elsayed Abdou Ahmed Mohamed"}>
+Record<{Player: "Kristjan Tamm"}>
+Record<{Player: "Guy Den Heijer"}>
+Record<{Player: "Karim Ibrahim"}>
+Record<{Player: "Saba Purtseladze"}>
+Record<{Player: "Andriy Poritskyy"}>
+Record<{Player: "Oleg Prihodko"}>
+Record<{Player: "Mohamed Safwat"}>
+Record<{Player: "Max Wiskandt"}>
+Record<{Player: "Michael Bassem Sobhy"}>
+Record<{Player: "Aleksandre Bakshi"}>
+Record<{Player: "Arslanbek Aitkulov"}>
+Record<{Player: "David Perez Sanz"}>
+Record<{Player: "Antoine Ghibaudo"}>
+Record<{Player: "Luca Tomasetto"}>
+Record<{Player: "Amaury Raynel"}>
+Record<{Player: "Zura Tkemaladze"}>
+Record<{Player: "Boris Butulija"}>
+Record<{Player: "Milan Drinic"}>
+Record<{Player: "Hayato Matsuoka"}>
+Record<{Player: "Kiyan Santino Kasemi"}>
+Record<{Player: "Philip Henning"}>
+Record<{Player: "Loann Massard "}>
+Record<{Player: "Tomasz Berkieta"}>
+Record<{Player: "Jasper Lai"}>
+Record<{Player: "Ben Jones"}>
+Record<{Player: "Karue Sell"}>
+Record<{Player: "Petr Bar Biryukov"}>
+Record<{Player: "Niklas Grunewald"}>
+Record<{Player: "Alexandr Binda"}>
+Record<{Player: "Elvin Hashimov"}>
+Record<{Player: "Illia Biloborodko"}>
+Record<{Player: "Mees Rottgering"}>
+Record<{Player: "Seydina Andre"}>
+Record<{Player: "Tamerlan Azizov"}>
+Record<{Player: "Nicolas Ifi"}>
+Record<{Player: "Kyle Stocker"}>
+Record<{Player: "Karim Mohamed Maamoun"}>
+Record<{Player: "Fryderyk Lechno Wasiutynski"}>
+Record<{Player: "Michal Krajci"}>
+Record<{Player: "Lorenzo Lorusso"}>
+Record<{Player: "Szymon Kielan"}>
+Record<{Player: "Aleksa Pisaric"}>
+Record<{Player: "Baoluo Zheng"}>
+Record<{Player: "Kris Van Wyk"}>
+Record<{Player: "Egor Khotchenkov "}>
+Record<{Player: "Joe Tyler"}>
+Record<{Player: "Nicolas Jadoun"}>
+Record<{Player: "Vadym Ursu"}>
+Record<{Player: "Zekai Li"}>
+Record<{Player: "Yurii Dzhavakian"}>
+Record<{Player: "Valentin Kopeikin"}>
+Record<{Player: "Minghui Zhang"}>
+Record<{Player: "Sasi Kumar Mukund"}>
+Record<{Player: "Leo Borg"}>
+Record<{Player: "Vladimir Uzhylovsky"}>
+Record<{Player: "Jakub Novak"}>
+Record<{Player: "Alessandro Coccioli"}>
+Record<{Player: "Cedric Stanke"}>
+Record<{Player: "Aryan Lakshmanan"}>
+Record<{Player: "Lasse Poertner"}>
+Record<{Player: "Joshua Sheehy"}>
+Record<{Player: "Olaf Pieczkowski"}>
+Record<{Player: "Weitao Xu"}>
+Record<{Player: "Sergo Sikharulidze"}>
+Record<{Player: "Pengyu Lu"}>
+Record<{Player: "Wenfu Li"}>
+Record<{Player: "Antonio Caruso"}>
+Record<{Player: "Nikita Ianin"}>
+Record<{Player: "Koray Kirci"}>
+Record<{Player: "George Houghton"}>
+Record<{Player: "Gabriele Volpi"}>
+Record<{Player: "Nour Fathalla"}>
+Record<{Player: "Fabio Nestola"}>
+Record<{Player: "Max Benaim"}>
+Record<{Player: "Maksym Khlyvniuk"}>
+Record<{Player: "Thomas Drayton"}>
+Record<{Player: "Daniel Little"}>
+Record<{Player: "Stijn Pel"}>
+Record<{Player: "Oskar Grzegorzewski"}>
+Record<{Player: "Grigoriy Lomakin"}>
+Record<{Player: "Giles Hussey"}>
+Record<{Player: "Tamas Belafalvi Balint"}>
+Record<{Player: "Evgeny Philippov"}>
+Record<{Player: "Borys Zgola"}>
+Record<{Player: "Millen Hurrion"}>
+Record<{Player: "Maxim Mrva"}>
+Record<{Player: "Luca Preda"}>
+Record<{Player: "Hady Habib"}>
+Record<{Player: "Cem Ilkel"}>
+Record<{Player: "Petr Nesterov"}>
+Record<{Player: "Ilia Simakin"}>
+Record<{Player: "Oleg Kolninov"}>
+Record<{Player: "Robin Bertrand"}>
+Record<{Player: "Jakub Paul"}>
+Record<{Player: "Kamil Majchrzak"}>
+Record<{Player: "Alp Horoz"}>
+Record<{Player: "Aristarkh Safonov"}>
+Record<{Player: "Hamish Stewart"}>
+Record<{Player: "Finley Hall"}>
+Record<{Player: "Harry Wendelken"}>
+Record<{Player: "Daniel Khazime "}>
+Record<{Player: "Matej Vocel"}>
+Record<{Player: "David Poljak"}>
+Record<{Player: "Pol Martin Tiffon"}>
+Record<{Player: "Liam Gavrielides"}>
+Record<{Player: "Alex Rybakov"}>
+Record<{Player: "Sergio Callejon Hernando"}>
+Record<{Player: "Imanol Lopez Morillo"}>
+Record<{Player: "Kane Bonsach Ganley"}>
+Record<{Player: "Kenneth Raisma"}>
+Record<{Player: "Enzo Wallart"}>
+Record<{Player: "Adria Soriano Barrera"}>
+Record<{Player: "Naoya Honda"}>
+Record<{Player: "Deney Wassermann"}>
+Record<{Player: "Raphael Calzi"}>
+Record<{Player: "Alexandre Aubriot"}>
+Record<{Player: "Alejandro Juan Mano "}>
+Record<{Player: "Nathan Trouve"}>
+Record<{Player: "Yaroslav Demin"}>
+Record<{Player: "Nicholas Miharu Bowles Rokudo"}>
+Record<{Player: "Ryan Nijboer"}>
+Record<{Player: "Daniel De Jonge"}>
+Record<{Player: "Rafael Giotis"}>
+Record<{Player: "Matteo Morazzi"}>
+Record<{Player: "Twan Van Zijl"}>
+Record<{Player: "Darwin Blanch"}>
+Record<{Player: "Nikolay Nedelchev"}>
+Record<{Player: "Joan Nadal Vives"}>
+Record<{Player: "Manas Dhamne"}>
+Record<{Player: "Ben Weintraub"}>
+Record<{Player: "Ron Ellouck"}>
+Record<{Player: "Sebastian Gima"}>
+Record<{Player: "Karl Friberg"}>
+Record<{Player: "Martin Landaluce"}>
+Record<{Player: "Georgii Kravchenko"}>
+Record<{Player: "Ignacio Buse"}>
+Record<{Player: "Edas Butvilas"}>
+Record<{Player: "Iliyan Radulov"}>
+Record<{Player: "Carlos Lopez Montagud"}>
+Record<{Player: "Dominique Graf"}>
+Record<{Player: "Diego Fernandez Flores"}>
+Record<{Player: "Alejandro Manzanera Pertusa"}>
+Record<{Player: "Nicolai Budkov Kjaer"}>
+Record<{Player: "Stiles Brockett"}>
+Record<{Player: "Sergi Fita Juan"}>
+Record<{Player: "Jorge Martinez Martinez"}>
+Record<{Player: "Gabriel Elicha Navas"}>
+Record<{Player: "Diego Augusto Barreto Sanchez"}>
+Record<{Player: "Andres Fernandez Canovas"}>
+Record<{Player: "Daniel Merida Aguilar"}>
+Record<{Player: "Mario Gonzalez Fernandez"}>
+Record<{Player: "Alex Knaff"}>
+Record<{Player: "Dali Blanch"}>
+Record<{Player: "Alejo Sanchez Quilez"}>
+Record<{Player: "Elgin Khoeblal"}>
+Record<{Player: "Goncalo Marques"}>
+Record<{Player: "Ryan James Storrie"}>
+Record<{Player: "Giorgio Tabacco"}>
+Record<{Player: "Ergi Kirkin"}>
+Record<{Player: "Jack Loge"}>
+Record<{Player: "Anas Mazdrashki"}>
+Record<{Player: "Federico Iannaccone"}>
+Record<{Player: "Miguel Damas"}>
+Record<{Player: "Fausto Tabacco"}>
+Record<{Player: "Kazuki Nishiwaki"}>
+Record<{Player: "Andres Santamarta Roig"}>
+Record<{Player: "Kuang Qing Xu"}>
+Record<{Player: "Julio Cesar Porras"}>
+Record<{Player: "Jordi Garcia Mestre"}>
+Record<{Player: "Marko Topo"}>
+Record<{Player: "Viktor Durasovic"}>
+Record<{Player: "Matthew Dellavedova"}>
+Record<{Player: "Martin Krumich"}>
+Record<{Player: "Rafael Jodar"}>
+Record<{Player: "Hernan Casanova"}>
+Record<{Player: "Damien Wenger"}>
+Record<{Player: "Anton Matusevich"}>
+Record<{Player: "Lorenzo Giustino"}>
+Record<{Player: "Max Alcala Gurri"}>
+Record<{Player: "Pol Amoros Ramos"}>
+Record<{Player: "Elliot Benchetrit"}>
+Record<{Player: "Svyatoslav Gulin"}>
+Record<{Player: "Eric Vanshelboim"}>
+Record<{Player: "Ignasi Forcano"}>
+Record<{Player: "Marcel Miralles"}>
+Record<{Player: "Mariano Dedura Palomero"}>
+Record<{Player: "Toprak Avcibasi"}>
+Record<{Player: "Albert Pedrico Kravtsov"}>
+Record<{Player: "Florent Bax"}>
+Record<{Player: "Mateo Luis Alvarez Sarmiento"}>
+Record<{Player: "Nicola Kuhn"}>
+Record<{Player: "Richard Zusman"}>
+Record<{Player: "John Echeverria"}>
+Record<{Player: "Kuzey Cekirge"}>
+Record<{Player: "Alejandro Melero Kretzer "}>
+Record<{Player: "Vicente Oliver Moratalla"}>
+Record<{Player: "Remy Bertola"}>
+Record<{Player: "Bruno Pujol Navarro"}>
+Record<{Player: "Nikolas Sanchez Izquierdo"}>
+Record<{Player: "Ronetto Van Tilburg"}>
+Record<{Player: "Luke Simkiss"}>
+Record<{Player: "Michael Zhu"}>
+Record<{Player: "Martins Rocens"}>
+Record<{Player: "Louis Dussin"}>
+Record<{Player: "Aj Catanzariti"}>
+Record<{Player: "Nikoloz Basilashvili"}>
+Record<{Player: "Charles Chen"}>
+Record<{Player: "Alexander Carlos Parker"}>
+Record<{Player: "Paul Barbier Gazeu"}>
+Record<{Player: "Vesa Ahti"}>
+Record<{Player: "Benjamin Winter Lopez"}>
+Record<{Player: "Giovanni Fonio"}>
+Record<{Player: "Aaron Gil Garcia"}>
+Record<{Player: "Lucas Bouquet"}>
+Record<{Player: "Alvaro Bueno Gil"}>
+Record<{Player: "Corentin Denolly"}>
+Record<{Player: "David Puig Molina"}>
+Record<{Player: "Carlos Gimeno Valero"}>
+Record<{Player: "Nil Regas Luis"}>
+Record<{Player: "Tomas Curras Abasolo"}>
+Record<{Player: "Edison Ambarzumjan"}>
+Record<{Player: "Ivan Perez Martin "}>
+Record<{Player: "Benjamin Pietri"}>
+Record<{Player: "Lucca Helguera Casado"}>
+Record<{Player: "Francisco Rocha"}>
+Record<{Player: "Jaime Caldes"}>
+Record<{Player: "Sascha Gueymard Wayenburg"}>
+Record<{Player: "Benoit Torcq"}>
+Record<{Player: "Manel Lazaro Juncadella"}>
+Record<{Player: "Louroi Martinez"}>
+Record<{Player: "Jonathan Mridha"}>
+Record<{Player: "Martin Klizan"}>
+Record<{Player: "David Naharro"}>
+Record<{Player: "Ammar Elamin"}>
+Record<{Player: "Mats Rosenkranz"}>
+Record<{Player: "Steven Diez"}>
+Record<{Player: "Valentin Royer"}>
+Record<{Player: "Rafael Izquierdo Luque"}>
+Record<{Player: "Joao Domingues"}>
+Record<{Player: "Nicholas David Ionel"}>
+Record<{Player: "Gianmarco Ferrari"}>
+Record<{Player: "Alejandro Turriziani Alvarez"}>
+Record<{Player: "Frederico Ferreira Silva"}>
+Record<{Player: "Maxence Beauge"}>
+Record<{Player: "Zach Stephens"}>
+Record<{Player: "Kenneth Rabinad Vila"}>
+Record<{Player: "Andrea Collarini"}>
+Record<{Player: "Anthony Genov"}>
+Record<{Player: "Kenny De Schepper"}>
+Record<{Player: "Laurent Lokoli"}>
+Record<{Player: "Milan Markovits"}>
+Record<{Player: "Mario Mansilla Diez"}>
+Record<{Player: "Guy Den Ouden"}>
+Record<{Player: "Davide Ferrarolli"}>
+Record<{Player: "Ander Tarrio Ponte"}>
+Record<{Player: "Jesse Flores"}>
+Record<{Player: "Alberto Morolli"}>
+Record<{Player: "Afonso Portugal"}>
+Record<{Player: "Tiago Pereira"}>
+Record<{Player: "Ian Lucca Cervantes Tomas"}>
+Record<{Player: "Francisco Oliveira"}>
+Record<{Player: "Iago Dominguez Alvarez"}>
+Record<{Player: "Filippo Alberti"}>
+Record<{Player: "Philip Hjorth"}>
+Record<{Player: "Rodrigo Fernandes"}>
+Record<{Player: "Roger Pascual Ferra"}>
+Record<{Player: "Oriol Roca Batalla"}>
+Record<{Player: "Eric Sanchez"}>
+Record<{Player: "Nino Serdarusic"}>
+Record<{Player: "Nicolas Alvarez Varona"}>
+Record<{Player: "Iker Urribarrens Ramirez"}>
+Record<{Player: "Daniel Cukierman"}>
+Record<{Player: "Evgeny Karlovskiy"}>
+Record<{Player: "Oliver Bonding"}>
+Record<{Player: "Alexis Gautier"}>
+Record<{Player: "Oleksii Krutykh"}>
+Record<{Player: "Daniel Rincon"}>
+Record<{Player: "Pedro Andre De Almeida Santos"}>
+Record<{Player: "Marvin Moeller"}>
+Record<{Player: "Raphael Collignon"}>
+Record<{Player: "Abdella Nedim Mohammed"}>
+Record<{Player: "Sina Moghimi"}>
+Record<{Player: "Courtney John Lock"}>
+Record<{Player: "Siddhant Banthia"}>
+Record<{Player: "Patrik Oplustil"}>
+Record<{Player: "Kabir Hans"}>
+Record<{Player: "Chirag Duhan"}>
+Record<{Player: "Yabets Kebede"}>
+Record<{Player: "Adil Kalyanpur"}>
+Record<{Player: "Ishaque Eqbal"}>
+Record<{Player: "Madhwin Kamath"}>
+Record<{Player: "Luca Fantini"}>
+Record<{Player: "Federico Valle"}>
+Record<{Player: "Raghav Jaisinghani"}>
+Record<{Player: "Kazuma Kawachi"}>
+Record<{Player: "Guelfo Borghini Baldovinetti"}>
+Record<{Player: "S D Prajwal Dev"}>
+Record<{Player: "Parth Aggarwal"}>
+Record<{Player: "Rafael Ymer"}>
+Record<{Player: "Dylan Salton"}>
+Record<{Player: "Dev Javia"}>
+Record<{Player: "Nitin Kumar Sinha"}>
+Record<{Player: "Eliakim Coulibaly"}>
+Record<{Player: "Giuseppe Tresca"}>
+Record<{Player: "Edoardo Cherie Ligniere"}>
+Record<{Player: "Karan Singh"}>
+Record<{Player: "Mattias Southcombe"}>
+Record<{Player: "Siddharth Vishwakarma"}>
+Record<{Player: "Arthav Neema"}>
+Record<{Player: "Kevin Cheruiyot"}>
+Record<{Player: "Julian Desousa"}>
+Record<{Player: "Adam Panaras"}>
+Record<{Player: "Rodrigo Alujas "}>
+Record<{Player: "Niels Villard"}>
+Record<{Player: "Daniel Jade"}>
+Record<{Player: "Andrea Picchione"}>
+Record<{Player: "Oscar Lacides"}>
+Record<{Player: "Arthur Bouquier"}>
+Record<{Player: "Alexis Berquier"}>
+Record<{Player: "Antoine Walch"}>
+Record<{Player: "Mae Malige"}>
+Record<{Player: "Leo Deflandre"}>
+Record<{Player: "Alexandre Reco"}>
+Record<{Player: "Adrien Gobat"}>
+Record<{Player: "Cyril Vandermeersch"}>
+Record<{Player: "Eero Vasa"}>
+Record<{Player: "Alexey Vatutin"}>
+Record<{Player: "Matt Ponchet"}>
+Record<{Player: "Matteo Rocci"}>
+Record<{Player: "Leonardo Taddia"}>
+Record<{Player: "Toufik Sahtali"}>
+Record<{Player: "Adam Briant"}>
+Record<{Player: "Nathan Seateun"}>
+Record<{Player: "Marlon Vankan"}>
+Record<{Player: "Marc Antoine Gaillard "}>
+Record<{Player: "Leo Raquillet"}>
+Record<{Player: "Charles Bertimon"}>
+Record<{Player: "Valentin Lapalu"}>
+Record<{Player: "Arthur Nagel "}>
+Record<{Player: "Kacper Zuk"}>
+Record<{Player: "Mikail Alimli"}>
+Record<{Player: "Lewie Lane"}>
+Record<{Player: "Ylann Dupuy"}>
+Record<{Player: "Antoine Hoang"}>
+Record<{Player: "Pierre Delage"}>
+Record<{Player: "Marcello Serafini"}>
+Record<{Player: "Nicola Rispoli"}>
+Record<{Player: "Evan Jarzaguet"}>
+Record<{Player: "Nikolay Vylegzhanin"}>
+Record<{Player: "Kirill Kivattsev"}>
+Record<{Player: "Yanis Ghazouani Durand"}>
+Record<{Player: "Adan Freire Da Silva"}>
+Record<{Player: "Mischa Lanz"}>
+Record<{Player: "Hynek Barton"}>
+Record<{Player: "Fabien Salle"}>
+Record<{Player: "Phoenix Weir"}>
+Record<{Player: "Antoine Escoffier"}>
+Record<{Player: "Theo Papamalamis"}>
+Record<{Player: "Arthur Fery"}>
+Record<{Player: "Daniil Glinka"}>
+Record<{Player: "Clement Chidekh"}>
+Record<{Player: "Gauthier Onclin"}>
+Record<{Player: "Alibek Kachmazov"}>
+Record<{Player: "Tanguy Genier"}>
+Record<{Player: "Maxime Janvier"}>
+Record<{Player: "Maxence Rivet"}>
+Record<{Player: "Hugo Soares"}>
+Record<{Player: "Liova Ayite Ajavon"}>
+Record<{Player: "Samuel Brosset"}>
+Record<{Player: "Antoine Berger"}>
+Record<{Player: "Tim Handel"}>
+Record<{Player: "Tristan Berard"}>
+Record<{Player: "Antoine Vincent"}>
+Record<{Player: "William Jucha"}>
+Record<{Player: "Hazem Naw"}>
+Record<{Player: "Dario Huber"}>
+Record<{Player: "Yannik Steinegger"}>
+Record<{Player: "Buvaysar Gadamauri"}>
+Record<{Player: "Daniel Masur"}>
+Record<{Player: "Boris Fassbender"}>
+Record<{Player: "Aziz Dougaz"}>
+Record<{Player: "Arthur Bonnaud"}>
+Record<{Player: "Evan Furness"}>
+Record<{Player: "Constantin Bittoun Kouzmine"}>
+Record<{Player: "Thomas Yaka Kofi Setodji"}>
+Record<{Player: "Thomas Gerbaud"}>
+Record<{Player: "Pierre Antoine Tailleu"}>
+Record<{Player: "Benjamin Martin"}>
+Record<{Player: "Dan Added"}>
+Record<{Player: "Lucas Marionneau"}>
+Record<{Player: "Mathys Erhard"}>
+Record<{Player: "Mathis Epee"}>
+Record<{Player: "Luc Fomba"}>
+Record<{Player: "Andrea Guerrieri"}>
+Record<{Player: "Francois Musitelli"}>
+Record<{Player: "Elmar Ejupovic"}>
+Record<{Player: "Strong Kirchheimer"}>
+Record<{Player: "Alexis Canter"}>
+Record<{Player: "Loan Lestir"}>
+Record<{Player: "Emilien Demanet"}>
+Record<{Player: "Jack Karlsson Wistrand"}>
+Record<{Player: "Clement Lemire"}>
+Record<{Player: "Raphael Vaksmann"}>
+Record<{Player: "Marcus Walters"}>
+Record<{Player: "Aidan Mchugh"}>
+Record<{Player: "Toby D Boyer"}>
+Record<{Player: "Victor Barreira Bonzom"}>
+Record<{Player: "Leo Lagarrigue"}>
+Record<{Player: "Timeo Trufelli"}>
+Record<{Player: "Hugo Pierre"}>
+Record<{Player: "Louis Larue"}>
+Record<{Player: "Lucas Poullain"}>
+Record<{Player: "Jannik Opitz"}>
+Record<{Player: "Thomas Deschamps"}>
+Record<{Player: "Simon Reveniau"}>
+Record<{Player: "Benjamin Vitter"}>
+Record<{Player: "Gleb Sakharov"}>
+Record<{Player: "Nicolas Colne"}>
+Record<{Player: "Martin Sabas"}>
+Record<{Player: "Simon Beaupain"}>
+Record<{Player: "Facundo Juarez"}>
+Record<{Player: "Fons Van Sambeek"}>
+Record<{Player: "Christoph Negritu"}>
+Record<{Player: "Mathys Domenc"}>
+Record<{Player: "Alexander Klintcharov"}>
+Record<{Player: "Alastair Gray"}>
+Record<{Player: "Patrick Maloney"}>
+Record<{Player: "Patrick Brady"}>
+Record<{Player: "Garrett Johns"}>
+Record<{Player: "Toby Samuel"}>
+Record<{Player: "Kyle Edmund"}>
+Record<{Player: "Daniel Cox"}>
+Record<{Player: "Jacob Fearnley"}>
+Record<{Player: "Robert Strombachs"}>
+Record<{Player: "Cannon Kingsley"}>
+Record<{Player: "Jonas Forejtek"}>
+Record<{Player: "Henry Searle"}>
+Record<{Player: "George Loffhagen"}>
+Record<{Player: "Patrick Foley"}>
+Record<{Player: "Ewen Lumsden"}>
+Record<{Player: "James Davis"}>
+Record<{Player: "Sean Hodkin"}>
+Record<{Player: "Ewan Moore"}>
+Record<{Player: "Paul Jubb"}>
+Record<{Player: "Filip Peliwo"}>
+Record<{Player: "Ryuki Matsuda"}>
+Record<{Player: "Adam Jones"}>
+Record<{Player: "Benjamin Gusic Wan"}>
+Record<{Player: "Egor Pleshivtsev"}>
+Record<{Player: "Christopher Bulus"}>
+Record<{Player: "Giorgi Giorgadze"}>
+Record<{Player: "Kirill Filaretov"}>
+Record<{Player: "Aleksandre Metreveli"}>
+Record<{Player: "Samuel Paulovcak"}>
+Record<{Player: "Bekhan Atlangeriev"}>
+Record<{Player: "Rakhimbek Ibrakhimov"}>
+Record<{Player: "Amit Vales"}>
+Record<{Player: "Venedikt Tsirikidze"}>
+Record<{Player: "Ilgiz Kamchibekov"}>
+Record<{Player: "Aaron Cohen"}>
+Record<{Player: "Evgenii Tiurnev"}>
+Record<{Player: "Egor Agafonov"}>
+Record<{Player: "Ofek Shimanov "}>
+Record<{Player: "Orel Kimhi"}>
+Record<{Player: "Credit Chaiyarin"}>
+Record<{Player: "Alberto Barroso Campos"}>
+Record<{Player: "Ulises Blanch"}>
+Record<{Player: "Yanki Erel"}>
+Record<{Player: "Altug Celikbilek"}>
+Record<{Player: "Egor Gerasimov"}>
+Record<{Player: "Stepan Baum"}>
+Record<{Player: "Filip Duda"}>
+Record<{Player: "Max Hans Rehberg"}>
+Record<{Player: "Karlo Cubelic"}>
+Record<{Player: "Vincent Marysko"}>
+Record<{Player: "Vitek Horak"}>
+Record<{Player: "Vit Kalina "}>
+Record<{Player: "Jakub Filip"}>
+Record<{Player: "Kai Wehnelt"}>
+Record<{Player: "Michael Agwi"}>
+Record<{Player: "Aaron Funk"}>
+Record<{Player: "Louis Van Herck"}>
+Record<{Player: "Alexandros Skorilas"}>
+Record<{Player: "Jannik Maute"}>
+Record<{Player: "Henrik Bladelius"}>
+Record<{Player: "Maurus Malgiaritta"}>
+Record<{Player: "Osgar Ohoisin"}>
+Record<{Player: "Alen Mujakic"}>
+Record<{Player: "Diego Dedura Palomero"}>
+Record<{Player: "Matthew William Donald"}>
+Record<{Player: "Max Schoenhaus"}>
+Record<{Player: "Alec Deckers"}>
+Record<{Player: "Yannik Kelm"}>
+Record<{Player: "Tom Varzandeh"}>
+Record<{Player: "Ruben Hartig"}>
+Record<{Player: "Daniel Salazar Martinez"}>
+Record<{Player: "John Sperle"}>
+Record<{Player: "Julius Christian Seifert"}>
+Record<{Player: "Markus Malaszszak"}>
+Record<{Player: "Christos Antonopoulos"}>
+Record<{Player: "Edan Leshem"}>
+Record<{Player: "Andrea Militi Ribaldi"}>
+Record<{Player: "Adrian Bodmer"}>
+Record<{Player: "Evangelos Kypriotis"}>
+Record<{Player: "Alexander Frusina"}>
+Record<{Player: "Samuele Pieri"}>
+Record<{Player: "Nicholas Campbell"}>
+Record<{Player: "Christos Glavas"}>
+Record<{Player: "Corban Crowther"}>
+Record<{Player: "Aurel Ciocanu"}>
+Record<{Player: "Ioannis Xilas"}>
+Record<{Player: "Oscar Moraing"}>
+Record<{Player: "Aristotelis Thanos"}>
+Record<{Player: "Mihai Alexandru Coman"}>
+Record<{Player: "David Quayle"}>
+Record<{Player: "Nicolas Rafael Goldberg Alviani"}>
+Record<{Player: "Joseph Phillips"}>
+Record<{Player: "Henrik Wiersholm"}>
+Record<{Player: "Jean Christian Morandais"}>
+Record<{Player: "Andreas Loizas"}>
+Record<{Player: "Eyal Shyovitz"}>
+Record<{Player: "Oliver Crawford"}>
+Record<{Player: "Rishab Agarwal"}>
+Record<{Player: "Aryan Shah"}>
+Record<{Player: "Nam Hoang Ly"}>
+Record<{Player: "Jiayang Dong"}>
+Record<{Player: "Manish Sureshkumar"}>
+Record<{Player: "Bhavesh Gour"}>
+Record<{Player: "Bogdan Bobrov"}>
+Record<{Player: "Tsung Hao Huang"}>
+Record<{Player: "Luca Castelnuovo"}>
+Record<{Player: "Fitriadi M Rifqi"}>
+Record<{Player: "Dominik Palan"}>
+Record<{Player: "Yunseok Jang"}>
+Record<{Player: "Bernard Tomic"}>
+Record<{Player: "Abhinav Sanjeev Shanmugam"}>
+Record<{Player: "Bharath Nishok Kumaran"}>
+Record<{Player: "Ranjeet Virali Murugesan"}>
+Record<{Player: "Shivank Bhatnagar"}>
+Record<{Player: "Yash Chaurasia"}>
+Record<{Player: "Yash Yadav"}>
+Record<{Player: "Arthur Weber"}>
+Record<{Player: "Alexey Zakharov"}>
+Record<{Player: "Vishnu Vardhan"}>
+Record<{Player: "Faisal Qamar"}>
+Record<{Player: "Manish Ganesh"}>
+Record<{Player: "Neeraj Yashpaul"}>
+Record<{Player: "Rishi Reddy"}>
+Record<{Player: "Evgeny Donskoy"}>
+Record<{Player: "Grigory Shebekin"}>
+Record<{Player: "Yuichiro Inui"}>
+Record<{Player: "Jagmeet Singh"}>
+Record<{Player: "Sidharth Rawat"}>
+Record<{Player: "Aditya Vishal Balsekar"}>
+Record<{Player: "Ramkumar Ramanathan"}>
+Record<{Player: "Thanapet Chanta"}>
+Record<{Player: "Hitesh Chauhan"}>
+Record<{Player: "Shanker Heisnam"}>
+Record<{Player: "Dhruv Hirpara"}>
+Record<{Player: "Rohan Mehra"}>
+Record<{Player: "Ajay Kundu"}>
+Record<{Player: "Andrea Fiorentini"}>
+Record<{Player: "Hesam Yazdi"}>
+Record<{Player: "Simone Agostini"}>
+Record<{Player: "Curzio Manucci"}>
+Record<{Player: "Matyas Fuele"}>
+Record<{Player: "Parsa Ashjari"}>
+Record<{Player: "Ali Yazdani"}>
+Record<{Player: "Hamid Reza Nadaf"}>
+Record<{Player: "Amirali Ghavam"}>
+Record<{Player: "Ilya Mukhin"}>
+Record<{Player: "Samyar Elyasi"}>
+Record<{Player: "Amir Hossein Badi"}>
+Record<{Player: "Ruslan Kastsiukevich"}>
+Record<{Player: "Alexander Chepik"}>
+Record<{Player: "Mehrshad Ghafghazi Bak"}>
+Record<{Player: "Lorenzo Bocchi"}>
+Record<{Player: "Moin Mohammadi"}>
+Record<{Player: "Giovanni Calvano"}>
+Record<{Player: "Alessandro Cortegiani"}>
+Record<{Player: "Andrey Chepelev"}>
+Record<{Player: "Ghouse Ali Faisal"}>
+Record<{Player: "Egor Matvievici"}>
+Record<{Player: "Moein Moazam"}>
+Record<{Player: "Kasra Rahmani"}>
+Record<{Player: "Mohammad Mahbod"}>
+Record<{Player: "Filip Cristian Jianu"}>
+Record<{Player: "Imran Daniel Abdul Hazli"}>
+Record<{Player: "Samir Hamza Reguig"}>
+Record<{Player: "Samuil Konov"}>
+Record<{Player: "Fadi Bidan"}>
+Record<{Player: "Branko Djuric"}>
+Record<{Player: "Gabriel Donev"}>
+Record<{Player: "Ivan Kazakov"}>
+Record<{Player: "Lorenzo Rottoli"}>
+Record<{Player: "Peter Buldorini"}>
+Record<{Player: "Leonardo Malgaroli"}>
+Record<{Player: "Federico Salomone"}>
+Record<{Player: "Vincent Jonah Strauch"}>
+Record<{Player: "Denis Constantin Spiridon"}>
+Record<{Player: "Luigi Castelletti"}>
+Record<{Player: "Elmer Moller"}>
+Record<{Player: "Kyle Overmyer"}>
+Record<{Player: "Niccolo Catini"}>
+Record<{Player: "Giammarco Gandolfi"}>
+Record<{Player: "Max Houkes"}>
+Record<{Player: "Salvatore Caruso"}>
+Record<{Player: "Gabriele Piraino"}>
+Record<{Player: "Daniel Michalski"}>
+Record<{Player: "Luca Parenti"}>
+Record<{Player: "Marco Dessi"}>
+Record<{Player: "Niccolo Ciavarella"}>
+Record<{Player: "Matteo Mura"}>
+Record<{Player: "Mathias Bourgue"}>
+Record<{Player: "Luca Potenza"}>
+Record<{Player: "Fabrizio Andaloro"}>
+Record<{Player: "Pasquale De Giorgio"}>
+Record<{Player: "Massimo Giunta"}>
+Record<{Player: "Lorenzo Carboni"}>
+Record<{Player: "Andrea Meduri"}>
+Record<{Player: "Marco Furlanetto"}>
+Record<{Player: "Carlos Sanchez Jover"}>
+Record<{Player: "Fabio De Michele"}>
+Record<{Player: "Andrea Bolla"}>
+Record<{Player: "Valentin De Carvalho"}>
+Record<{Player: "Edoardo Lavagno"}>
+Record<{Player: "Norbert Gombos"}>
+Record<{Player: "Lorenzo Ferri"}>
+Record<{Player: "Daniele Minighini"}>
+Record<{Player: "Giuseppe La Vela"}>
+Record<{Player: "Vito Dellelba"}>
+Record<{Player: "Alexander Weis"}>
+Record<{Player: "Alexander Brebenel"}>
+Record<{Player: "Enrico Dalla Valle"}>
+Record<{Player: "Alessandro Giannessi"}>
+Record<{Player: "Toby Alex Kodat"}>
+Record<{Player: "Federico Gaio"}>
+Record<{Player: "Filiberto Fumagalli"}>
+Record<{Player: "Umberto Giovannini"}>
+Record<{Player: "Stefano Baldoni"}>
+Record<{Player: "Pietro Ricci"}>
+Record<{Player: "Blaise Bicknell"}>
+Record<{Player: "Ryan Fishback"}>
+Record<{Player: "Teodor Cariov"}>
+Record<{Player: "Richard Mallory"}>
+Record<{Player: "Taym Al Azmeh"}>
+Record<{Player: "Herbert Jody Maginley"}>
+Record<{Player: "Daniel Azar"}>
+Record<{Player: "Ezekiel Clark"}>
+Record<{Player: "Ilyas Milad Fahim"}>
+Record<{Player: "Abraham Asaba"}>
+Record<{Player: "John Chin"}>
+Record<{Player: "Lucca Pinto"}>
+Record<{Player: "Pablo Paternostro"}>
+Record<{Player: "Adhithya Ganesan"}>
+Record<{Player: "Shu Matsuoka"}>
+Record<{Player: "Reece Falck"}>
+Record<{Player: "Corey Craig"}>
+Record<{Player: "Kaipo Marshall"}>
+Record<{Player: "Nicaise Muamba"}>
+Record<{Player: "Gabrielius Guzauskas"}>
+Record<{Player: "Taiyo Yamanaka"}>
+Record<{Player: "Shunsuke Nakagawa"}>
+Record<{Player: "Shuta Takayama"}>
+Record<{Player: "Keisuke Saitoh"}>
+Record<{Player: "Sora Fukuda"}>
+Record<{Player: "Daiki Yoshimura"}>
+Record<{Player: "Koya Hashimoto"}>
+Record<{Player: "Shoyo Manaka"}>
+Record<{Player: "Daisuke Sumizawa"}>
+Record<{Player: "Kaito Uesugi"}>
+Record<{Player: "Tomoya Masunari"}>
+Record<{Player: "Gen Nakamura"}>
+Record<{Player: "Yuta Kikuchi"}>
+Record<{Player: "Stefanos Sakellaridis"}>
+Record<{Player: "Tomohiro Masabayashi"}>
+Record<{Player: "Tianhui Zhang"}>
+Record<{Player: "Kosuke Morita"}>
+Record<{Player: "Yuzuki Yamaguchi"}>
+Record<{Player: "Yamato Yukawa"}>
+Record<{Player: "Renta Tokuda"}>
+Record<{Player: "Ray Ho"}>
+Record<{Player: "Yun Seong Chung"}>
+Record<{Player: "Yu Tanaka"}>
+Record<{Player: "Tatsuma Ito"}>
+Record<{Player: "Yusuke Kusuhara"}>
+Record<{Player: "Jangjun Kim"}>
+Record<{Player: "Ryotaro Shimomura"}>
+Record<{Player: "Yu Hsiou Hsu"}>
+Record<{Player: "Hoyoung Roh"}>
+Record<{Player: "Toshihide Matsui"}>
+Record<{Player: "Kohei Hayashi"}>
+Record<{Player: "Max Batyutenko"}>
+Record<{Player: "Sergey Fomin"}>
+Record<{Player: "Yerassyl Yerdilda"}>
+Record<{Player: "Daniel Ibragimov"}>
+Record<{Player: "Konstantin Zhzhenov"}>
+Record<{Player: "Daniil Ostapenkov"}>
+Record<{Player: "Oleg Syrovatskiy"}>
+Record<{Player: "Amir Milushev"}>
+Record<{Player: "Artur Kukasian"}>
+Record<{Player: "Kolganov Kirill"}>
+Record<{Player: "Aleksei Mokrov"}>
+Record<{Player: "Boris Pokotilov"}>
+Record<{Player: "Anton Chekhov"}>
+Record<{Player: "Vitaliy Zatsepin"}>
+Record<{Player: "Savva Polukhin"}>
+Record<{Player: "Iliyas Maratuly"}>
+Record<{Player: "Leonardo Catani"}>
+Record<{Player: "Maxim Shin"}>
+Record<{Player: "Damir Zhalgasbay"}>
+Record<{Player: "Kylian Collignon"}>
+Record<{Player: "Chris Rodesch"}>
+Record<{Player: "Loic Namigandet Tenguere"}>
+Record<{Player: "Elijah Strode"}>
+Record<{Player: "Rodolfo Jauregui Sainz De Rozas"}>
+Record<{Player: "Alan Fernando Rubio Fierros"}>
+Record<{Player: "Lawrence Bataljin"}>
+Record<{Player: "Tauheed Browning"}>
+Record<{Player: "Ernesto Escobedo"}>
+Record<{Player: "Santiago Padilla Cote"}>
+Record<{Player: "Lorenzo Esquici"}>
+Record<{Player: "Isaiah Strode"}>
+Record<{Player: "Alfredo Casso"}>
+Record<{Player: "Noah Schachter"}>
+Record<{Player: "Ren Nakamura"}>
+Record<{Player: "Miles Clark"}>
+Record<{Player: "Alan Magadan"}>
+Record<{Player: "Juan Alejandro Hernandez Serrano"}>
+Record<{Player: "Rodrigo Pacheco Mendez"}>
+Record<{Player: "Oliver Clark Anderson"}>
+Record<{Player: "Jackson Ross"}>
+Record<{Player: "Nick Chappell"}>
+Record<{Player: "Andres Delgadillo"}>
+Record<{Player: "Alejandro Hayen"}>
+Record<{Player: "Miguel Angel Alonso"}>
+Record<{Player: "Santiago Ruiz Velasco Hermida"}>
+Record<{Player: "Marco Alvarez"}>
+Record<{Player: "Ricardo Fernando Romero Estrada"}>
+Record<{Player: "Henrique Rocha"}>
+Record<{Player: "Jaime Faria"}>
+Record<{Player: "Johan Alexander Rodriguez Rodriguez"}>
+Record<{Player: "Lars Wagenaar"}>
+Record<{Player: "Cooper Ter Meulen"}>
+Record<{Player: "Pedro Araujo"}>
+Record<{Player: "Nathan Ponwith"}>
+Record<{Player: "Alexander Donski"}>
+Record<{Player: "Keegan Smith"}>
+Record<{Player: "Siim Troost"}>
+Record<{Player: "Rigele Te"}>
+Record<{Player: "Goncalo Falcao"}>
+Record<{Player: "Vilius Gaubas"}>
+Record<{Player: "Johannes Ingildsen"}>
+Record<{Player: "Sebastian Fanselow"}>
+Record<{Player: "Yusuke Takahashi"}>
+Record<{Player: "Daniel Batista"}>
+Record<{Player: "Michael Geerts"}>
+Record<{Player: "Naoki Nakagawa"}>
+Record<{Player: "Gastao Elias"}>
+Record<{Player: "Jules Marie"}>
+Record<{Player: "Martim Simoes"}>
+Record<{Player: "Daniel Lara Salmeron"}>
+Record<{Player: "Ricardo Batista"}>
+Record<{Player: "Diogo Marques"}>
+Record<{Player: "Jakub Nicod"}>
+Record<{Player: "Daniel Marincas"}>
+Record<{Player: "Tomas Cortez"}>
+Record<{Player: "Mashari Nawaf"}>
+Record<{Player: "Michal Lusovsky"}>
+Record<{Player: "Josh Reid"}>
+Record<{Player: "Mubarak Shannan Zayid Alharrasi"}>
+Record<{Player: "Alberto Lim"}>
+Record<{Player: "Ammar Faleh Alhogbani"}>
+Record<{Player: "Rashed Nawaf"}>
+Record<{Player: "Saud Alhogbani"}>
+Record<{Player: "Cezar Cretu"}>
+Record<{Player: "Stefan Adrian Andreescu"}>
+Record<{Player: "Ilya Snitari"}>
+Record<{Player: "Nyo Van Dyck"}>
+Record<{Player: "Christian Teszari"}>
+Record<{Player: "Gabi Adrian Boitan"}>
+Record<{Player: "Abel Forger"}>
+Record<{Player: "Cezar Gabriel Papoe"}>
+Record<{Player: "Radu David Turcanu"}>
+Record<{Player: "Niels Lootsma"}>
+Record<{Player: "Matei Cristian Onofrei"}>
+Record<{Player: "Alejandro Mateo Berge Nourescu"}>
+Record<{Player: "Rares Teodor Pieleanu"}>
+Record<{Player: "Ioan Alexandru Chirita"}>
+Record<{Player: "Daniel Uta"}>
+Record<{Player: "Rares Andrei Golescu"}>
+Record<{Player: "Darius Florin Pop"}>
+Record<{Player: "Mihai Razvan Marinescu"}>
+Record<{Player: "Bogdan Pavel"}>
+Record<{Player: "Matteo De Vincentis"}>
+Record<{Player: "Valentin Vanta"}>
+Record<{Player: "Filip Gabriel Bara"}>
+Record<{Player: "Aleksander Chayka"}>
+Record<{Player: "Dominic Ducariu"}>
+Record<{Player: "Blaz Rola"}>
+Record<{Player: "Lun Obrul"}>
+Record<{Player: "Vojtech Mares"}>
+Record<{Player: "Nikola Basic"}>
+Record<{Player: "Jan Dimitrijevic"}>
+Record<{Player: "Noah Schlagenhauf"}>
+Record<{Player: "Kristijan Juhas"}>
+Record<{Player: "Todor Vukomanovic"}>
+Record<{Player: "Simon Anthony Ivanov"}>
+Record<{Player: "Daniil Romanov"}>
+Record<{Player: "Sergej Zivkovic"}>
+Record<{Player: "Benito Massacri"}>
+Record<{Player: "Oliver Jevtovic"}>
+Record<{Player: "Nikola Milojevic"}>
+Record<{Player: "Gorazd Srbljak"}>
+Record<{Player: "Nikola Djosic"}>
+Record<{Player: "Lazar Vojinovic"}>
+Record<{Player: "Obrad Markovski"}>
+Record<{Player: "George Lazarov"}>
+Record<{Player: "Milos Mikovic"}>
+Record<{Player: "Stefan Kostic"}>
+Record<{Player: "Tadija Radovanovic"}>
+Record<{Player: "Nikola Jovic"}>
+Record<{Player: "Caheer Warik"}>
+Record<{Player: "Simon Knezevic"}>
+Record<{Player: "Shendrit Deari"}>
+Record<{Player: "Aleksandar Hudjec"}>
+Record<{Player: "Ognjen Milic"}>
+Record<{Player: "Vardan Manukyan"}>
+Record<{Player: "Vlado Jankanj"}>
+Record<{Player: "Strahinja Musicki"}>
+Record<{Player: "Ignacio Parisca"}>
+Record<{Player: "Stefan Latinovic"}>
+Record<{Player: "Maxim Krapivin"}>
+Record<{Player: "Filip Balint"}>
+Record<{Player: "Zsombor Velcz"}>
+Record<{Player: "Plamen Milushev"}>
+Record<{Player: "Aleksandar Ljubojevic"}>
+Record<{Player: "Marko Milosavljevic"}>
+Record<{Player: "Stefan Skobelev"}>
+Record<{Player: "Mika Brunold"}>
+Record<{Player: "Robin Bulant"}>
+Record<{Player: "Andrin Casanova"}>
+Record<{Player: "Adrien Berrut"}>
+Record<{Player: "Giorgio Ricca"}>
+Record<{Player: "Matteo Lavizzari"}>
+Record<{Player: "Albano Olivetti"}>
+Record<{Player: "Henri Squire"}>
+Record<{Player: "Piotr Grynkowski"}>
+Record<{Player: "Jan Kumstat"}>
+Record<{Player: "Mikalai Haliak"}>
+Record<{Player: "Lukas Hellum Lilleengen"}>
+Record<{Player: "Albert Saar"}>
+Record<{Player: "Filip Gustafsson"}>
+Record<{Player: "Lucas Catarina"}>
+Record<{Player: "Patrik Munkhammar"}>
+Record<{Player: "Leyton Rivera"}>
+Record<{Player: "Saba George Nanobashvili"}>
+Record<{Player: "Mitchell Harper"}>
+Record<{Player: "Oskar Jansson"}>
+Record<{Player: "Jeiden Saidizand"}>
+Record<{Player: "Lucas Renard"}>
+Record<{Player: "Kenzo Koistila Larsson"}>
+Record<{Player: "Erik Grevelius"}>
+Record<{Player: "Viktor Emlund"}>
+Record<{Player: "Melvin Kumar"}>
+Record<{Player: "Krittin Koaykul"}>
+Record<{Player: "Yuttana Charoenphon"}>
+Record<{Player: "Congsup Congcar"}>
+Record<{Player: "Siwanat Auytayakul"}>
+Record<{Player: "Natthasith Kunsuwan"}>
+Record<{Player: "Pruchya Isarow"}>
+Record<{Player: "Yeongseok Jeong"}>
+Record<{Player: "Taisei Ichikawa"}>
+Record<{Player: "Tao Mu"}>
+Record<{Player: "Jumpei Yamasaki"}>
+Record<{Player: "Zhao Zhao"}>
+Record<{Player: "Chanon Phunsawat"}>
+Record<{Player: "Natthayut Nithithananont"}>
+Record<{Player: "Linghao Zhang"}>
+Record<{Player: "Mohamed Amin Oueslati"}>
+Record<{Player: "Thando Longwe Smit"}>
+Record<{Player: "Aleksandr Lobanov"}>
+Record<{Player: "Oliver Tarvet"}>
+Record<{Player: "Geni Inoue"}>
+Record<{Player: "Perry Gregg"}>
+Record<{Player: "Stijn Slump"}>
+Record<{Player: "Yassine Smiej"}>
+Record<{Player: "Jordan Chrysostom"}>
+Record<{Player: "Serafin Zund"}>
+Record<{Player: "Alexander Cozbinov"}>
+Record<{Player: "Luca Matteo Sobbe"}>
+Record<{Player: "Aryan Jit Singh"}>
+Record<{Player: "Aziz Ouakaa"}>
+Record<{Player: "Luca Wiedenmann"}>
+Record<{Player: "Mohamed Nazim Makhlouf"}>
+Record<{Player: "Brar  Navraj Singh Nav"}>
+Record<{Player: "Luca Bluett"}>
+Record<{Player: "Peter Nad"}>
+Record<{Player: "Stuart Parker"}>
+Record<{Player: "Andrea Colombo"}>
+Record<{Player: "Anas Bennour Dit Sahli"}>
+Record<{Player: "Daniil Savelev"}>
+Record<{Player: "Alaa Trifi"}>
+Record<{Player: "Christian Carassai"}>
+Record<{Player: "Gian Marco Moroni"}>
+Record<{Player: "Sami Ben Abdennibi"}>
+Record<{Player: "Omar Brigida"}>
+Record<{Player: "Hernan Oivas Quiroz"}>
+Record<{Player: "Lorenzo Gallo"}>
+Record<{Player: "Igor Kudriashov"}>
+Record<{Player: "Benjamin Ferreira Wortsman"}>
+Record<{Player: "Joel Schwaerzler"}>
+Record<{Player: "Mousa Alkotop"}>
+Record<{Player: "Raffael Schaer"}>
+Record<{Player: "Pietro Mugelli"}>
+Record<{Player: "Yua Taka"}>
+Record<{Player: "Federico Cina"}>
+Record<{Player: "Federico Marchetti"}>
+Record<{Player: "Josh Roe Flannelly"}>
+Record<{Player: "Jacopo Bilardo"}>
+Record<{Player: "Marc Ros Mesas"}>
+Record<{Player: "Gianluca Carlini"}>
+Record<{Player: "Mikhail Gorokhov"}>
+Record<{Player: "Allan Gatoto"}>
+Record<{Player: "Fred Simonsson"}>
+Record<{Player: "Roland Stuurman"}>
+Record<{Player: "Thomas Fancutt"}>
+Record<{Player: "Dominik Kellovsky"}>
+Record<{Player: "Samuel Martinez Arjona"}>
+Record<{Player: "Peter Heller"}>
+Record<{Player: "Tancredi Alfano"}>
+Record<{Player: "Jordan Chiu"}>
+Record<{Player: "Marcel Politowicz"}>
+Record<{Player: "Tommy Ginzburg"}>
+Record<{Player: "Sven Corbinais"}>
+Record<{Player: "Pijus Vaitiekunas"}>
+Record<{Player: "Youssef Boubaker"}>
+Record<{Player: "Breno Rossetto Urvaneja"}>
+Record<{Player: "Mathieu Scaglia"}>
+Record<{Player: "Christopher Heck"}>
+Record<{Player: "William Grant"}>
+Record<{Player: "David Cristian Carteputreda"}>
+Record<{Player: "Andre Szilvassy"}>
+Record<{Player: "Manuel Guinard"}>
+Record<{Player: "Francesco Cano"}>
+Record<{Player: "Seita Watanabe"}>
+Record<{Player: "Erik Tkalenko"}>
+Record<{Player: "Riccardo Di Vita"}>
+Record<{Player: "Cian Maguire"}>
+Record<{Player: "Jeffrey Hsu"}>
+Record<{Player: "Dario Drebenstedt"}>
+Record<{Player: "Omar Knani"}>
+Record<{Player: "Niklas Waldner"}>
+Record<{Player: "Louay Makke"}>
+Record<{Player: "Ye Hongyu"}>
+Record<{Player: "Thomas George Brun"}>
+Record<{Player: "Alexey Nesterov"}>
+Record<{Player: "Tsihon Fedorov"}>
+Record<{Player: "Espen Lagarde"}>
+Record<{Player: "Ignacio Benzal Alia"}>
+Record<{Player: "Elio Jose Ribeiro Lago"}>
+Record<{Player: "Kacper Szymkowiak"}>
+Record<{Player: "Jae Hwan Kim"}>
+Record<{Player: "Daniil Piatrouski"}>
+Record<{Player: "Felipe Virgili Berini"}>
+Record<{Player: "Lenny Petit"}>
+Record<{Player: "James Beaven"}>
+Record<{Player: "Alexander Tokar"}>
+Record<{Player: "Moritz Kudernatsch"}>
+Record<{Player: "Andrea Paolini"}>
+Record<{Player: "Hamza El Amine"}>
+Record<{Player: "William Jansen"}>
+Record<{Player: "Tomas Luis"}>
+Record<{Player: "Yassine Dlimi"}>
+Record<{Player: "Mohammad Alkotop"}>
+Record<{Player: "Gokberk Saritas"}>
+Record<{Player: "Adriano Dzhenev"}>
+Record<{Player: "Arda Azkara"}>
+Record<{Player: "Kaya Arinc"}>
+Record<{Player: "Mykyta Riepkin"}>
+Record<{Player: "Calin Manda"}>
+Record<{Player: "Cengiz Aksu"}>
+Record<{Player: "David Prasievi"}>
+Record<{Player: "Piotr Kusiewicz"}>
+Record<{Player: "Yanaki Milev"}>
+Record<{Player: "Sarp Agabigun"}>
+Record<{Player: "Dinko Dinev"}>
+Record<{Player: "Mert Naci Turker"}>
+Record<{Player: "S Mert Ozdemir"}>
+Record<{Player: "Mert Alkaya"}>
+Record<{Player: "Zdenek Derkas"}>
+Record<{Player: "Arthur Gea"}>
+Record<{Player: "Javier Barranco Cosano"}>
+Record<{Player: "Filip Avdeev"}>
+Record<{Player: "Haydar Cem Gokpinar"}>
+Record<{Player: "Clement Tabur"}>
+Record<{Player: "Antonio Massara"}>
+Record<{Player: "Berk Ilkel"}>
+Record<{Player: "Gerald Melzer"}>
+Record<{Player: "Yaraslav Shyla"}>
+Record<{Player: "Mika Lipp"}>
+Record<{Player: "Patrik Meszaros "}>
+Record<{Player: "Lukas Neumayer"}>
+Record<{Player: "Nikita Naskidashvili"}>
+Record<{Player: "Gian Marco Ortenzi"}>
+Record<{Player: "Norbert Marosik"}>
+Record<{Player: "Yuriy Nagdalyan"}>
+Record<{Player: "Lorenzo Bresciani"}>
+Record<{Player: "Nikita Bilozertsev"}>
+Record<{Player: "Felix Corwin"}>
+Record<{Player: "Thomas Faurel"}>
+Record<{Player: "Shalva Dzhanashia"}>
+Record<{Player: "Kanan Gasimov"}>
+Record<{Player: "Sebastian Pino"}>
+Record<{Player: "Atakan Karahan"}>
+Record<{Player: "Kuan Yi Lee"}>
+Record<{Player: "Marsel Ilhan"}>
+Record<{Player: "Farzan Amiri"}>
+Record<{Player: "Kerem Yilmaz"}>
+Record<{Player: "Mircea Alexandru Jecan"}>
+Record<{Player: "Timofei Derepasko"}>
+Record<{Player: "David Fix"}>
+Record<{Player: "Jaycer Lyeons"}>
+Record<{Player: "Manuel Mazza"}>
+Record<{Player: "Bernardo Munk Mesa"}>
+Record<{Player: "Fedor Sosedkin"}>
+Record<{Player: "Biagio Gramaticopolo"}>
+Record<{Player: "Arthur Reymond"}>
+Record<{Player: "Mikhail Korovin"}>
+Record<{Player: "Ruslan Tiukaev"}>
+Record<{Player: "Teymuraz Gabashvili"}>
+Record<{Player: "Matteo Rozo Torres"}>
+Record<{Player: "Daniil Sarksian"}>
+Record<{Player: "Danial Rakhmatullayev"}>
+Record<{Player: "Melih Anavatan"}>
+Record<{Player: "Edoardo Zanada"}>
+Record<{Player: "Murkel Alejandro Dellien Velasco"}>
+Record<{Player: "Ignacio Carou"}>
+Record<{Player: "Juan Bautista Torres"}>
+Record<{Player: "Matheus Pucinelli De Almeida"}>
+Record<{Player: "Juan Martin Fumeaux Buenaventura"}>
+Record<{Player: "Gonzalo Bueno"}>
+Record<{Player: "Gonzalo Villanueva"}>
+Record<{Player: "Joao Lucas Reis Da Silva"}>
+Record<{Player: "Enzo Kohlmann De Freitas"}>
+Record<{Player: "Tobia Grandinetti"}>
+Record<{Player: "Sebastian Olivera"}>
+Record<{Player: "Dario Acosta"}>
+Record<{Player: "Valentino Aliano"}>
+Record<{Player: "Alexander Bernard"}>
+Record<{Player: "Preston Stearns"}>
+Record<{Player: "Samir Banerjee"}>
+Record<{Player: "Radu Mihai Papoe"}>
+Record<{Player: "Bryce Nakashima"}>
+Record<{Player: "Petar Teodorovic"}>
+Record<{Player: "Ozan Baris"}>
+Record<{Player: "Aman Sharma"}>
+Record<{Player: "Justin Roberts"}>
+Record<{Player: "Adit Sinha"}>
+Record<{Player: "Rudy Quan"}>
+Record<{Player: "Bradley Paliska"}>
+Record<{Player: "Eric David Verdes"}>
+Record<{Player: "William Bartram"}>
+Record<{Player: "Nathan Mao"}>
+Record<{Player: "Alex Kobelt"}>
+Record<{Player: "Jared Thompkins"}>
+Record<{Player: "Jorge Cavero"}>
+Record<{Player: "David Saye"}>
+Record<{Player: "Gilles Arnaud Bailly"}>
+Record<{Player: "Ethan Quinn"}>
+Record<{Player: "Matthew Forbes"}>
+Record<{Player: "Maxwell Exsted"}>
+Record<{Player: "Ryan Dickerson"}>
+Record<{Player: "Matthew Segura"}>
+Record<{Player: "Bruno Kuzuhara"}>
+Record<{Player: "Jacob Brumm"}>
+Record<{Player: "Junior Tavarez"}>
+Record<{Player: "Roy Horovitz"}>
+Record<{Player: "Aidan Kim"}>
+Record<{Player: "Alexander Razeghi"}>
+Record<{Player: "Emilio Sanchez Bronzetti"}>
+Record<{Player: "Vito Tonejc"}>
+Record<{Player: "Learner Tien"}>
+Record<{Player: "Kenta Miyoshi"}>
+Record<{Player: "Arvid Nordquist"}>
+Record<{Player: "Hunter Heck"}>
+Record<{Player: "Tung Lin Wu"}>
+Record<{Player: "Cash Hanzlik"}>
+Record<{Player: "Timo Legout"}>
+Record<{Player: "Trevor Svajda"}>
+Record<{Player: "Aidan Mayo"}>
+Record<{Player: "Murphy Cassone"}>
+Record<{Player: "Saahith Jayaraman"}>
+Record<{Player: "Brandon Holt"}>
+Record<{Player: "Antreas Djakouris"}>
+Record<{Player: "Alex Finkelstein"}>
+Record<{Player: "August Holmgren"}>
+Record<{Player: "Pablo Masjuan Ginel"}>
+Record<{Player: "Neel Rajesh"}>
+Record<{Player: "Nishesh Basavareddy"}>
+Record<{Player: "Hiroki Sakagawa"}>
+Record<{Player: "Bor Artnak"}>
+Record<{Player: "Stefan Menichella"}>
+Record<{Player: "Quinn Vandecasteele"}>
+Record<{Player: "Kyle Kang"}>
+Record<{Player: "Dominique Rolland"}>
+Record<{Player: "Sekou Bangoura"}>
+Record<{Player: "Ryan Haviland"}>
+Record<{Player: "Etienne Donnet"}>
+Record<{Player: "Chad Kissell"}>
+Record<{Player: "Cody Benton"}>
+Record<{Player: "Mitchell Lee"}>
+Record<{Player: "Cooper Woestendick"}>
+Record<{Player: "Nikita Filin"}>
+Record<{Player: "Meecah Bigun"}>
+Record<{Player: "Lucas Castillo Sanchez"}>
+Record<{Player: "Facundo Bermejo"}>
+Record<{Player: "Maxwell Benson"}>
+Record<{Player: "Matisse Farzam"}>
+Record<{Player: "Dakotah Bobo"}>
+Record<{Player: "Jonas Pelle Hartenstein"}>
+Record<{Player: "Juan Ignacio Cabrera"}>
+Record<{Player: "Samuel Nicholson"}>
+Record<{Player: "Elijah Poritzky"}>
+Record<{Player: "Benjamin Thomas George"}>
+Record<{Player: "Kabeer Kapasi"}>
+Record<{Player: "Phillip Jordan"}>
+Record<{Player: "Lachlan Gaskell"}>
+Record<{Player: "Adam Neff"}>
+Record<{Player: "Justin Lyons"}>
+Record<{Player: "Alvin Nicholas Tudorica"}>
+
+Query 9: MATCH (p:Player)-[:VENCEU]->(m:Match) WITH p, COUNT(m) AS Wins WHERE Wins > 10 RETURN p.name AS Player, Wins ORDER BY Wins DESC;
+Record<{Player: "Filip Cristian Jianu", Wins: 3484}>
+Record<{Player: "Evgenii Tiurnev", Wins: 2776}>
+Record<{Player: "Andres Andrade", Wins: 2311}>
+Record<{Player: "Max Wiskandt", Wins: 2101}>
+Record<{Player: "Yanaki Milev", Wins: 2066}>
+Record<{Player: "Jakub Nicod", Wins: 2001}>
+Record<{Player: "Giuseppe La Vela", Wins: 1995}>
+Record<{Player: "Michael Agwi", Wins: 1883}>
+Record<{Player: "Dmitry Popko", Wins: 1847}>
+Record<{Player: "Daniel Merida Aguilar", Wins: 1823}>
+Record<{Player: "Stijn Slump", Wins: 1810}>
+Record<{Player: "Arthur Bouquier", Wins: 1777}>
+Record<{Player: "Robin Bertrand", Wins: 1770}>
+Record<{Player: "Stuart Parker", Wins: 1768}>
+Record<{Player: "Dominik Kellovsky", Wins: 1751}>
+Record<{Player: "Carlos Gimeno Valero", Wins: 1727}>
+Record<{Player: "Constantin Bittoun Kouzmine", Wins: 1704}>
+Record<{Player: "Max Alcala Gurri", Wins: 1669}>
+Record<{Player: "Khumoun Sultanov", Wins: 1650}>
+Record<{Player: "Jelle Sels", Wins: 1643}>
+Record<{Player: "Sebastian Gima", Wins: 1636}>
+Record<{Player: "Jaime Faria", Wins: 1624}>
+Record<{Player: "Giles Hussey", Wins: 1623}>
+Record<{Player: "Oleg Prihodko", Wins: 1605}>
+Record<{Player: "Edas Butvilas", Wins: 1590}>
+Record<{Player: "Sandro Kopp", Wins: 1586}>
+Record<{Player: "Kris Van Wyk", Wins: 1568}>
+Record<{Player: "Cezar Cretu", Wins: 1538}>
+Record<{Player: "Raphael Collignon", Wins: 1531}>
+Record<{Player: "Aziz Dougaz", Wins: 1505}>
+Record<{Player: "Jay Clarke", Wins: 1497}>
+Record<{Player: "Nicola Kuhn", Wins: 1494}>
+Record<{Player: "Eliakim Coulibaly", Wins: 1493}>
+Record<{Player: "Ilia Simakin", Wins: 1488}>
+Record<{Player: "Stefan Popovic", Wins: 1478}>
+Record<{Player: "Niels Visker", Wins: 1463}>
+Record<{Player: "Stefanos Sakellaridis", Wins: 1461}>
+Record<{Player: "Oleksandr Ovcharenko", Wins: 1444}>
+Record<{Player: "John Sperle", Wins: 1418}>
+Record<{Player: "Petr Nesterov", Wins: 1414}>
+Record<{Player: "Axel Nefve", Wins: 1412}>
+Record<{Player: "Daniel Masur", Wins: 1390}>
+Record<{Player: "Hady Habib", Wins: 1378}>
+Record<{Player: "Nicholas David Ionel", Wins: 1377}>
+Record<{Player: "Pedro Araujo", Wins: 1366}>
+Record<{Player: "Corentin Denolly", Wins: 1362}>
+Record<{Player: "Roberto Cid", Wins: 1331}>
+Record<{Player: "Egor Agafonov", Wins: 1322}>
+Record<{Player: "Karan Singh", Wins: 1320}>
+Record<{Player: "Dan Alexandru Tomescu", Wins: 1316}>
+Record<{Player: "Mika Brunold", Wins: 1316}>
+Record<{Player: "William Grant", Wins: 1310}>
+Record<{Player: "Ryuki Matsuda", Wins: 1305}>
+Record<{Player: "Kamil Majchrzak", Wins: 1299}>
+Record<{Player: "Karue Sell", Wins: 1293}>
+Record<{Player: "Sander Jong", Wins: 1278}>
+Record<{Player: "Luca Potenza", Wins: 1249}>
+Record<{Player: "Sascha Gueymard Wayenburg", Wins: 1248}>
+Record<{Player: "Gabi Adrian Boitan", Wins: 1235}>
+Record<{Player: "Jerome Kym", Wins: 1234}>
+Record<{Player: "Alexey Vatutin", Wins: 1223}>
+Record<{Player: "Marcello Serafini", Wins: 1222}>
+Record<{Player: "Nicolai Budkov Kjaer", Wins: 1220}>
+Record<{Player: "Christoph Negritu", Wins: 1220}>
+Record<{Player: "Emilien Demanet", Wins: 1215}>
+Record<{Player: "Federico Iannaccone", Wins: 1200}>
+Record<{Player: "Duarte Vale", Wins: 1198}>
+Record<{Player: "Peter Heller", Wins: 1196}>
+Record<{Player: "Ergi Kirkin", Wins: 1193}>
+Record<{Player: "Pol Martin Tiffon", Wins: 1191}>
+Record<{Player: "Alexandre Aubriot", Wins: 1190}>
+Record<{Player: "Nick Hardt", Wins: 1186}>
+Record<{Player: "Martin Klizan", Wins: 1182}>
+Record<{Player: "Philip Henning", Wins: 1169}>
+Record<{Player: "Denys Klok", Wins: 1167}>
+Record<{Player: "Elliot Benchetrit", Wins: 1159}>
+Record<{Player: "Antoine Hoang", Wins: 1155}>
+Record<{Player: "Alex Rybakov", Wins: 1153}>
+Record<{Player: "Matej Dodig", Wins: 1144}>
+Record<{Player: "Marlon Vankan", Wins: 1137}>
+Record<{Player: "Toby Alex Kodat", Wins: 1123}>
+Record<{Player: "Antoine Ghibaudo", Wins: 1120}>
+Record<{Player: "Nam Hoang Ly", Wins: 1108}>
+Record<{Player: "Orel Kimhi", Wins: 1106}>
+Record<{Player: "Jacob Bradshaw", Wins: 1103}>
+Record<{Player: "Liam Gavrielides", Wins: 1098}>
+Record<{Player: "Murkel Alejandro Dellien Velasco", Wins: 1096}>
+Record<{Player: "Andrea Picchione", Wins: 1094}>
+Record<{Player: "Tom Gentzsch", Wins: 1090}>
+Record<{Player: "Carlos Sanchez Jover", Wins: 1083}>
+Record<{Player: "Vilius Gaubas", Wins: 1079}>
+Record<{Player: "Daniil Glinka", Wins: 1070}>
+Record<{Player: "Jie Cui", Wins: 1068}>
+Record<{Player: "Gian Marco Moroni", Wins: 1063}>
+Record<{Player: "Facundo Juarez", Wins: 1062}>
+Record<{Player: "Charles Broom", Wins: 1057}>
+Record<{Player: "Luca Castagnola", Wins: 1056}>
+Record<{Player: "Florent Bax", Wins: 1056}>
+Record<{Player: "Mariano Tammaro", Wins: 1054}>
+Record<{Player: "Takuya Kumasaka", Wins: 1050}>
+Record<{Player: "Joao Eduardo Schiessl", Wins: 1034}>
+Record<{Player: "Vladyslav Orlov", Wins: 1027}>
+Record<{Player: "Fabrizio Andaloro", Wins: 1011}>
+Record<{Player: "Gabriel Decamps", Wins: 1009}>
+Record<{Player: "Cyril Vandermeersch", Wins: 997}>
+Record<{Player: "Simon Beaupain", Wins: 996}>
+Record<{Player: "Florian Broska", Wins: 995}>
+Record<{Player: "Maxence Rivet", Wins: 991}>
+Record<{Player: "Viktor Durasovic", Wins: 984}>
+Record<{Player: "Ezekiel Clark", Wins: 974}>
+Record<{Player: "Ryotaro Taguchi", Wins: 971}>
+Record<{Player: "Branko Djuric", Wins: 971}>
+Record<{Player: "Hikaru Shiraishi", Wins: 968}>
+Record<{Player: "Bernard Tomic", Wins: 967}>
+Record<{Player: "Ernesto Escobedo", Wins: 965}>
+Record<{Player: "Sergey Fomin", Wins: 964}>
+Record<{Player: "Niccolo Catini", Wins: 946}>
+Record<{Player: "Adria Soriano Barrera", Wins: 944}>
+Record<{Player: "Lukas Pokorny", Wins: 941}>
+Record<{Player: "Marek Gengel", Wins: 936}>
+Record<{Player: "Nick Chappell", Wins: 936}>
+Record<{Player: "Eero Vasa", Wins: 935}>
+Record<{Player: "Clement Chidekh", Wins: 933}>
+Record<{Player: "Peter Buldorini", Wins: 933}>
+Record<{Player: "Maik Steiner", Wins: 930}>
+Record<{Player: "Joel Schwaerzler", Wins: 930}>
+Record<{Player: "Jakub Paul", Wins: 924}>
+Record<{Player: "Tiago Pereira", Wins: 912}>
+Record<{Player: "Kokoro Isomura", Wins: 908}>
+Record<{Player: "Vlad Andrei Dancu", Wins: 905}>
+Record<{Player: "Nikolay Vylegzhanin", Wins: 905}>
+Record<{Player: "Bruno Kuzuhara", Wins: 895}>
+Record<{Player: "Ioan Alexandru Chirita", Wins: 890}>
+Record<{Player: "Stefan Palosi", Wins: 879}>
+Record<{Player: "Fausto Tabacco", Wins: 871}>
+Record<{Player: "Max Hans Rehberg", Wins: 870}>
+Record<{Player: "Federico Cina", Wins: 863}>
+Record<{Player: "Kiranpal Pannu", Wins: 859}>
+Record<{Player: "Moerani Bouzige", Wins: 841}>
+Record<{Player: "Noah Perfetti", Wins: 840}>
+Record<{Player: "Oscar Jose Gutierrez", Wins: 832}>
+Record<{Player: "Martyn Pawelski", Wins: 832}>
+Record<{Player: "Evgeny Karlovskiy", Wins: 831}>
+Record<{Player: "Mathys Erhard", Wins: 831}>
+Record<{Player: "Keisuke Saitoh", Wins: 830}>
+Record<{Player: "Viacheslav Bielinskyi", Wins: 824}>
+Record<{Player: "Gianluca Cadenasso ", Wins: 818}>
+Record<{Player: "Svyatoslav Gulin", Wins: 816}>
+Record<{Player: "Mario Gonzalez Fernandez", Wins: 815}>
+Record<{Player: "Tristan Mccormick", Wins: 811}>
+Record<{Player: "Brandon Holt", Wins: 811}>
+Record<{Player: "Alessandro Pecci", Wins: 810}>
+Record<{Player: "Eric Vanshelboim", Wins: 809}>
+Record<{Player: "Felix Corwin", Wins: 809}>
+Record<{Player: "Joaquin  Aguilar Cardozo ", Wins: 807}>
+Record<{Player: "Harrison Adams", Wins: 807}>
+Record<{Player: "Kirill Kivattsev", Wins: 806}>
+Record<{Player: "Elmer Moller", Wins: 803}>
+Record<{Player: "Juan Manuel La Serna", Wins: 795}>
+Record<{Player: "Yan Bai", Wins: 794}>
+Record<{Player: "Juan Bautista Otegui", Wins: 793}>
+Record<{Player: "Leonardo Rossi", Wins: 791}>
+Record<{Player: "Emile Hudd", Wins: 779}>
+Record<{Player: "Diego Augusto Barreto Sanchez", Wins: 779}>
+Record<{Player: "Joshua Sheehy", Wins: 778}>
+Record<{Player: "Adrien Gobat", Wins: 776}>
+Record<{Player: "Milos Karol", Wins: 775}>
+Record<{Player: "Siddharth Vishwakarma", Wins: 765}>
+Record<{Player: "Mats Rosenkranz", Wins: 761}>
+Record<{Player: "Lucas Bouquet", Wins: 759}>
+Record<{Player: "Michael Zhu", Wins: 751}>
+Record<{Player: "Yanki Erel", Wins: 747}>
+Record<{Player: "Yshai Oliel", Wins: 746}>
+Record<{Player: "Maxence Bertimon", Wins: 745}>
+Record<{Player: "Savva Polukhin", Wins: 745}>
+Record<{Player: "Gergely Madarasz", Wins: 742}>
+Record<{Player: "Samuele Pieri", Wins: 741}>
+Record<{Player: "Fabien Salle", Wins: 737}>
+Record<{Player: "Omni Kumar", Wins: 731}>
+Record<{Player: "Javier Barranco Cosano", Wins: 731}>
+Record<{Player: "Nikola Milojevic", Wins: 728}>
+Record<{Player: "Franco Ribero", Wins: 727}>
+Record<{Player: "Lucas Gerch", Wins: 726}>
+Record<{Player: "Matthew Dellavedova", Wins: 725}>
+Record<{Player: "Henry Searle", Wins: 724}>
+Record<{Player: "Andrea Guerrieri", Wins: 723}>
+Record<{Player: "Jack Loge", Wins: 720}>
+Record<{Player: "Rodrigo Pacheco Mendez", Wins: 720}>
+Record<{Player: "Hazem Naw", Wins: 719}>
+Record<{Player: "Ilya Snitari", Wins: 712}>
+Record<{Player: "Aryan Shah", Wins: 711}>
+Record<{Player: "Massimo Giunta", Wins: 709}>
+Record<{Player: "Mae Malige", Wins: 708}>
+Record<{Player: "Axel Garcian", Wins: 705}>
+Record<{Player: "Alex Marti Pujolras", Wins: 698}>
+Record<{Player: "Miles Jones", Wins: 696}>
+Record<{Player: "Trevor Svajda", Wins: 694}>
+Record<{Player: "Nathan Ponwith", Wins: 692}>
+Record<{Player: "Mili Poljicak", Wins: 689}>
+Record<{Player: "Henrik Wiersholm", Wins: 689}>
+Record<{Player: "Lautaro Midon", Wins: 687}>
+Record<{Player: "Louis Tessa", Wins: 682}>
+Record<{Player: "Rudy Quan", Wins: 682}>
+Record<{Player: "Louis Dussin", Wins: 681}>
+Record<{Player: "Pawel Cias", Wins: 679}>
+Record<{Player: "Deney Wassermann", Wins: 676}>
+Record<{Player: "Thomas Deschamps", Wins: 672}>
+Record<{Player: "Alvaro Guillen Meza", Wins: 668}>
+Record<{Player: "Enzo Wallart", Wins: 666}>
+Record<{Player: "Aidan Mchugh", Wins: 666}>
+Record<{Player: "Maxim Zhukov", Wins: 658}>
+Record<{Player: "Adrian Oetzbach", Wins: 653}>
+Record<{Player: "Kuzey Cekirge", Wins: 652}>
+Record<{Player: "Alberto Barroso Campos", Wins: 645}>
+Record<{Player: "Alex Knaff", Wins: 643}>
+Record<{Player: "Lautaro Agustin Falabella", Wins: 640}>
+Record<{Player: "Jesse Flores", Wins: 636}>
+Record<{Player: "Carlos Lopez Montagud", Wins: 635}>
+Record<{Player: "Erik Arutiunian", Wins: 634}>
+Record<{Player: "Lorenzo Giustino", Wins: 634}>
+Record<{Player: "Gabriel Donev", Wins: 633}>
+Record<{Player: "Diego Fernandez Flores", Wins: 632}>
+Record<{Player: "Ignacio Buse", Wins: 631}>
+Record<{Player: "Luca Giacomini", Wins: 626}>
+Record<{Player: "Simon Anthony Ivanov", Wins: 625}>
+Record<{Player: "Saba Purtseladze", Wins: 613}>
+Record<{Player: "David Perez Sanz", Wins: 613}>
+Record<{Player: "Clement Tabur", Wins: 610}>
+Record<{Player: "Matthias Ujvary", Wins: 608}>
+Record<{Player: "Neil Oberleitner", Wins: 606}>
+Record<{Player: "Francesco Ferrari", Wins: 601}>
+Record<{Player: "Lilian Marmousez", Wins: 600}>
+Record<{Player: "Tim Handel", Wins: 599}>
+Record<{Player: "Jiri Barnat", Wins: 594}>
+Record<{Player: "Alexis Gautier", Wins: 594}>
+Record<{Player: "Leo Borg", Wins: 592}>
+Record<{Player: "Olaf Pieczkowski", Wins: 590}>
+Record<{Player: "Patrick Maloney", Wins: 590}>
+Record<{Player: "Tauheed Browning", Wins: 589}>
+Record<{Player: "Ramkumar Ramanathan", Wins: 588}>
+Record<{Player: "Tsung Hao Huang", Wins: 586}>
+Record<{Player: "Gianmarco Ferrari", Wins: 585}>
+Record<{Player: "Daniel Bagnolini", Wins: 581}>
+Record<{Player: "Peter Bertran", Wins: 579}>
+Record<{Player: "Ulises Blanch", Wins: 579}>
+Record<{Player: "Corban Crowther", Wins: 579}>
+Record<{Player: "Johan Nikles", Wins: 578}>
+Record<{Player: "Giovanni Calvano", Wins: 578}>
+Record<{Player: "Maximus Jones", Wins: 576}>
+Record<{Player: "Hernan Casanova", Wins: 575}>
+Record<{Player: "Garrett Johns", Wins: 574}>
+Record<{Player: "Luca Wiedenmann", Wins: 573}>
+Record<{Player: "Daniil Ostapenkov", Wins: 569}>
+Record<{Player: "Dali Blanch", Wins: 568}>
+Record<{Player: "Chirag Duhan", Wins: 567}>
+Record<{Player: "Nikos Lehmann", Wins: 565}>
+Record<{Player: "Fermin Tenti", Wins: 563}>
+Record<{Player: "Jonas Forejtek", Wins: 562}>
+Record<{Player: "Marat Sharipov", Wins: 560}>
+Record<{Player: "Bautista Vilicich", Wins: 559}>
+Record<{Player: "Yi Zhou", Wins: 557}>
+Record<{Player: "Vadym Ursu", Wins: 554}>
+Record<{Player: "Yanis Ghazouani Durand", Wins: 552}>
+Record<{Player: "Carlo Alberto Caniato ", Wins: 550}>
+Record<{Player: "Kyle Edmund", Wins: 550}>
+Record<{Player: "Luc Fomba", Wins: 549}>
+Record<{Player: "Artur Kukasian", Wins: 548}>
+Record<{Player: "Gonzalo Villanueva", Wins: 542}>
+Record<{Player: "Federico Bondioli", Wins: 541}>
+Record<{Player: "Mert Naci Turker", Wins: 539}>
+Record<{Player: "Yaroslav Demin", Wins: 535}>
+Record<{Player: "Aleksandre Bakshi", Wins: 534}>
+Record<{Player: "Nicolas Mejia", Wins: 533}>
+Record<{Player: "Amr Elsayed Abdou Ahmed Mohamed", Wins: 533}>
+Record<{Player: "Pierre Delage", Wins: 532}>
+Record<{Player: "Samir Hamza Reguig", Wins: 531}>
+Record<{Player: "Miguel Damas", Wins: 530}>
+Record<{Player: "Nino Serdarusic", Wins: 530}>
+Record<{Player: "Gabriele Maria Noce", Wins: 529}>
+Record<{Player: "Gokberk Saritas", Wins: 529}>
+Record<{Player: "Ryan Nijboer", Wins: 528}>
+Record<{Player: "Andre Ilagan", Wins: 525}>
+Record<{Player: "Maxim Shin", Wins: 525}>
+Record<{Player: "Kristjan Tamm", Wins: 521}>
+Record<{Player: "Lorenzo Carboni", Wins: 520}>
+Record<{Player: "Patrick Zahraj", Wins: 514}>
+Record<{Player: "Sasi Kumar Mukund", Wins: 513}>
+Record<{Player: "Sebastian Fanselow", Wins: 512}>
+Record<{Player: "Duck Hee Lee", Wins: 508}>
+Record<{Player: "Evgeny Philippov", Wins: 508}>
+Record<{Player: "Valentin Royer", Wins: 504}>
+Record<{Player: "Hayato Matsuoka", Wins: 503}>
+Record<{Player: "Edoardo Lavagno", Wins: 502}>
+Record<{Player: "Gabriele Piraino", Wins: 498}>
+Record<{Player: "Leonardo Aboian", Wins: 496}>
+Record<{Player: "Tommaso Compagnucci", Wins: 496}>
+Record<{Player: "Julio Cesar Porras", Wins: 495}>
+Record<{Player: "Louis Wessels", Wins: 494}>
+Record<{Player: "Mohamed Nazim Makhlouf", Wins: 493}>
+Record<{Player: "Pietro Marino", Wins: 489}>
+Record<{Player: "Max Houkes", Wins: 489}>
+Record<{Player: "Aleksandre Metreveli", Wins: 488}>
+Record<{Player: "Illia Biloborodko", Wins: 486}>
+Record<{Player: "Filip Peliwo", Wins: 486}>
+Record<{Player: "Benjamin Lock", Wins: 485}>
+Record<{Player: "Michiel De Krom", Wins: 485}>
+Record<{Player: "Seydina Andre", Wins: 483}>
+Record<{Player: "Alexey Zakharov", Wins: 483}>
+Record<{Player: "Manuel Guinard", Wins: 483}>
+Record<{Player: "Masamichi Imamura", Wins: 482}>
+Record<{Player: "Ioannis Xilas", Wins: 480}>
+Record<{Player: "Ali Habib", Wins: 479}>
+Record<{Player: "Hynek Barton", Wins: 479}>
+Record<{Player: "Mitsuki Wei Kang Leong", Wins: 478}>
+Record<{Player: "Aristotelis Thanos", Wins: 478}>
+Record<{Player: "Victor Lilov", Wins: 477}>
+Record<{Player: "Nikoloz Basilashvili", Wins: 474}>
+Record<{Player: "Timo Legout", Wins: 474}>
+Record<{Player: "Wishaya Trongcharoenchaikul", Wins: 472}>
+Record<{Player: "Niccolo Baroni", Wins: 471}>
+Record<{Player: "Naoki Tajima", Wins: 470}>
+Record<{Player: "Nishesh Basavareddy", Wins: 469}>
+Record<{Player: "Martin Landaluce", Wins: 468}>
+Record<{Player: "Osgar Ohoisin", Wins: 467}>
+Record<{Player: "Daniel Vallejo", Wins: 463}>
+Record<{Player: "Blake Mott", Wins: 463}>
+Record<{Player: "Alexander Frusina", Wins: 463}>
+Record<{Player: "Alejo Sanchez Quilez", Wins: 461}>
+Record<{Player: "Marvin Moeller", Wins: 461}>
+Record<{Player: "Stefano Reitano", Wins: 459}>
+Record<{Player: "Gonzalo Bueno", Wins: 459}>
+Record<{Player: "Ezequiel Simonit", Wins: 454}>
+Record<{Player: "Giovanni Oradini", Wins: 446}>
+Record<{Player: "Evan Furness", Wins: 444}>
+Record<{Player: "Jorge Martinez Martinez", Wins: 443}>
+Record<{Player: "Anton Matusevich", Wins: 443}>
+Record<{Player: "Alexandros Skorilas", Wins: 441}>
+Record<{Player: "Gauthier Onclin", Wins: 440}>
+Record<{Player: "Daniele Minighini", Wins: 438}>
+Record<{Player: "Juan Pablo Paz", Wins: 434}>
+Record<{Player: "Jacob Fearnley", Wins: 434}>
+Record<{Player: "Luka Pavlovic", Wins: 432}>
+Record<{Player: "Sergi Perez Contri", Wins: 432}>
+Record<{Player: "Robert Strombachs", Wins: 431}>
+Record<{Player: "Andrin Casanova", Wins: 431}>
+Record<{Player: "Bekhan Atlangeriev", Wins: 427}>
+Record<{Player: "John Echeverria", Wins: 425}>
+Record<{Player: "Matthew William Donald", Wins: 425}>
+Record<{Player: "Pablo Trochu ", Wins: 424}>
+Record<{Player: "Michael Vrbensky", Wins: 423}>
+Record<{Player: "Millen Hurrion", Wins: 423}>
+Record<{Player: "Nicolas Ifi", Wins: 419}>
+Record<{Player: "Gian Marco Ortenzi", Wins: 419}>
+Record<{Player: "Adam Heinonen", Wins: 418}>
+Record<{Player: "Boris Butulija", Wins: 413}>
+Record<{Player: "Quentin Folliot", Wins: 411}>
+Record<{Player: "Georgii Kravchenko", Wins: 411}>
+Record<{Player: "Jordi Garcia Mestre", Wins: 411}>
+Record<{Player: "Faris Zakaryia", Wins: 410}>
+Record<{Player: "Lewie Lane", Wins: 409}>
+Record<{Player: "Aziz Ouakaa", Wins: 408}>
+Record<{Player: "Michele Ribecai", Wins: 407}>
+Record<{Player: "Fitriadi M Rifqi", Wins: 405}>
+Record<{Player: "Cengiz Aksu", Wins: 405}>
+Record<{Player: "Peter Benjamin Privara", Wins: 404}>
+Record<{Player: "Gabriele Pennaforti", Wins: 401}>
+Record<{Player: "Alejandro Manzanera Pertusa", Wins: 399}>
+Record<{Player: "Zura Tkemaladze", Wins: 398}>
+Record<{Player: "Matyas Fuele", Wins: 398}>
+Record<{Player: "Nicolas Parizzia", Wins: 394}>
+Record<{Player: "Jules Marie", Wins: 394}>
+Record<{Player: "Facundo Mena", Wins: 393}>
+Record<{Player: "Mirza Basic", Wins: 393}>
+Record<{Player: "Linang Xiao", Wins: 393}>
+Record<{Player: "Alan Fernando Rubio Fierros", Wins: 391}>
+Record<{Player: "Keegan Smith", Wins: 391}>
+Record<{Player: "Federico Arnaboldi", Wins: 390}>
+Record<{Player: "Lorenzo Bocchi", Wins: 389}>
+Record<{Player: "Bogdan Bobrov", Wins: 388}>
+Record<{Player: "Alec Beckley", Wins: 386}>
+Record<{Player: "Mousa Alkotop", Wins: 386}>
+Record<{Player: "Daniel Little", Wins: 385}>
+Record<{Player: "Ricardo Rodriguez", Wins: 384}>
+Record<{Player: "Yurii Dzhavakian", Wins: 383}>
+Record<{Player: "Luca Fantini", Wins: 383}>
+Record<{Player: "Paul Jubb", Wins: 383}>
+Record<{Player: "Hamish Stewart", Wins: 382}>
+Record<{Player: "Maxence Beauge", Wins: 382}>
+Record<{Player: "Loann Massard ", Wins: 381}>
+Record<{Player: "Oliver Ojakaar", Wins: 379}>
+Record<{Player: "Mohamed Safwat", Wins: 378}>
+Record<{Player: "Mikhail Gorokhov", Wins: 378}>
+Record<{Player: "Darwin Blanch", Wins: 377}>
+Record<{Player: "Luca Castelnuovo", Wins: 377}>
+Record<{Player: "Theo Papamalamis", Wins: 376}>
+Record<{Player: "Noah Schachter", Wins: 375}>
+Record<{Player: "Kenny De Schepper", Wins: 373}>
+Record<{Player: "Lorenzo Rottoli", Wins: 373}>
+Record<{Player: "Alexander Donski", Wins: 373}>
+Record<{Player: "Damien Wenger", Wins: 370}>
+Record<{Player: "Philip Hjorth", Wins: 370}>
+Record<{Player: "Gabriele Bosio", Wins: 369}>
+Record<{Player: "Michael Bassem Sobhy", Wins: 369}>
+Record<{Player: "Yu Hsiou Hsu", Wins: 367}>
+Record<{Player: "Federico Aguilar Cardozo", Wins: 366}>
+Record<{Player: "Giorgio Tabacco", Wins: 364}>
+Record<{Player: "Alejo Lorenzo Lingua Lavallen", Wins: 363}>
+Record<{Player: "Peter Fajta", Wins: 362}>
+Record<{Player: "Karim Mohamed Maamoun", Wins: 362}>
+Record<{Player: "Alexander Stater", Wins: 359}>
+Record<{Player: "Dev Javia", Wins: 359}>
+Record<{Player: "Maxime Chazal", Wins: 357}>
+Record<{Player: "Samir Banerjee", Wins: 357}>
+Record<{Player: "Radu Mihai Papoe", Wins: 354}>
+Record<{Player: "Markus Molder", Wins: 352}>
+Record<{Player: "Jakub Filip", Wins: 351}>
+Record<{Player: "Niels Lootsma", Wins: 350}>
+Record<{Player: "Arvid Nordquist", Wins: 350}>
+Record<{Player: "Iliyan Radulov", Wins: 348}>
+Record<{Player: "Dusan Obradovic", Wins: 345}>
+Record<{Player: "Kasidit Samrej", Wins: 345}>
+Record<{Player: "Andres Fernandez Canovas", Wins: 343}>
+Record<{Player: "Lucas Catarina", Wins: 343}>
+Record<{Player: "Adit Sinha", Wins: 343}>
+Record<{Player: "Guy Den Heijer", Wins: 342}>
+Record<{Player: "Fajing Sun", Wins: 341}>
+Record<{Player: "Andrey Chepelev", Wins: 341}>
+Record<{Player: "Cooper Woestendick", Wins: 340}>
+Record<{Player: "Andrea Bacaloni", Wins: 339}>
+Record<{Player: "Daniel Michalski", Wins: 339}>
+Record<{Player: "Gilles Arnaud Bailly", Wins: 338}>
+Record<{Player: "Frederico Ferreira Silva", Wins: 336}>
+Record<{Player: "Blaz Rola", Wins: 334}>
+Record<{Player: "Patrick Kaukovalta", Wins: 333}>
+Record<{Player: "Tung Lin Wu", Wins: 332}>
+Record<{Player: "Luka Mikrut", Wins: 327}>
+Record<{Player: "Ishaque Eqbal", Wins: 326}>
+Record<{Player: "Kosuke Ogura", Wins: 325}>
+Record<{Player: "Demetris Azoides", Wins: 325}>
+Record<{Player: "Martin Krumich", Wins: 325}>
+Record<{Player: "Luigi Sorrentino", Wins: 324}>
+Record<{Player: "Atakan Karahan", Wins: 324}>
+Record<{Player: "August Holmgren", Wins: 322}>
+Record<{Player: "San Hui Sin", Wins: 319}>
+Record<{Player: "Dimitris Sakellaridis", Wins: 319}>
+Record<{Player: "Arthur Gea", Wins: 319}>
+Record<{Player: "Stefan Adrian Andreescu", Wins: 318}>
+Record<{Player: "Arthur Reymond", Wins: 317}>
+Record<{Player: "Brian Bozemoj", Wins: 312}>
+Record<{Player: "Kaylan Bigun", Wins: 312}>
+Record<{Player: "Henrique Rocha", Wins: 312}>
+Record<{Player: "Gerald Melzer", Wins: 312}>
+Record<{Player: "Bogdan Pavel", Wins: 311}>
+Record<{Player: "Nikolas Sanchez Izquierdo", Wins: 309}>
+Record<{Player: "Manish Sureshkumar", Wins: 308}>
+Record<{Player: "Andrew Fenty", Wins: 307}>
+Record<{Player: "Arthur Bonnaud", Wins: 307}>
+Record<{Player: "Koray Kirci", Wins: 306}>
+Record<{Player: "Nikolay Nedelchev", Wins: 306}>
+Record<{Player: "Ryan Fishback", Wins: 304}>
+Record<{Player: "Matt Hulme", Wins: 303}>
+Record<{Player: "Menelaos Efstathiou", Wins: 303}>
+Record<{Player: "Pavel Verbin", Wins: 302}>
+Record<{Player: "Andrea Gola", Wins: 302}>
+Record<{Player: "Adrian Bodmer", Wins: 300}>
+Record<{Player: "Sora Fukuda", Wins: 300}>
+Record<{Player: "Paul Werren", Wins: 299}>
+Record<{Player: "Thanapet Chanta", Wins: 299}>
+Record<{Player: "Matic Kriznik", Wins: 298}>
+Record<{Player: "Kazuki Nishiwaki", Wins: 298}>
+Record<{Player: "Corey Craig", Wins: 298}>
+Record<{Player: "Filippo Romano", Wins: 297}>
+Record<{Player: "Abel Forger", Wins: 297}>
+Record<{Player: "Igor Gimenez", Wins: 296}>
+Record<{Player: "Amit Vales", Wins: 296}>
+Record<{Player: "Sebastian Sorger", Wins: 293}>
+Record<{Player: "Maxime Janvier", Wins: 293}>
+Record<{Player: "Jeamoon Lee", Wins: 292}>
+Record<{Player: "Paulo Andre Saraiva Dos Santos", Wins: 292}>
+Record<{Player: "Dan Martin", Wins: 292}>
+Record<{Player: "Daniel Paty", Wins: 291}>
+Record<{Player: "Rei Sakamoto", Wins: 290}>
+Record<{Player: "Adil Kalyanpur", Wins: 288}>
+Record<{Player: "Jumpei Yamasaki", Wins: 287}>
+Record<{Player: "Shintaro Imai", Wins: 286}>
+Record<{Player: "Miljan Zekic", Wins: 286}>
+Record<{Player: "Sergio Callejon Hernando", Wins: 286}>
+Record<{Player: "Ignacio Parisca", Wins: 286}>
+Record<{Player: "Igor Kudriashov", Wins: 285}>
+Record<{Player: "Alexandr Binda", Wins: 284}>
+Record<{Player: "Jonas Trinker", Wins: 283}>
+Record<{Player: "Alexandre Reco", Wins: 283}>
+Record<{Player: "Viktor Jovic", Wins: 282}>
+Record<{Player: "Tomas Curras Abasolo", Wins: 282}>
+Record<{Player: "Yun Seong Chung", Wins: 282}>
+Record<{Player: "Ofek Shimanov ", Wins: 280}>
+Record<{Player: "Aleksandr Lobanov", Wins: 280}>
+Record<{Player: "Albert Pedrico Kravtsov", Wins: 277}>
+Record<{Player: "Alen Mujakic", Wins: 277}>
+Record<{Player: "Tao Mu", Wins: 277}>
+Record<{Player: "Koki Matsuda", Wins: 276}>
+Record<{Player: "Tibo Colson", Wins: 276}>
+Record<{Player: "Kristijan Juhas", Wins: 275}>
+Record<{Player: "Benjamin Pietri", Wins: 274}>
+Record<{Player: "Cannon Kingsley", Wins: 273}>
+Record<{Player: "Federico Campana", Wins: 271}>
+Record<{Player: "Petr Bar Biryukov", Wins: 271}>
+Record<{Player: "Matej Vocel", Wins: 271}>
+Record<{Player: "Ben Jones", Wins: 270}>
+Record<{Player: "Saveliy Ivanov", Wins: 269}>
+Record<{Player: "Imanol Lopez Morillo", Wins: 269}>
+Record<{Player: "Lazar Vojinovic", Wins: 267}>
+Record<{Player: "Leo Vithoontien", Wins: 266}>
+Record<{Player: "Zoran Ludoski", Wins: 266}>
+Record<{Player: "Andrea Bolla", Wins: 264}>
+Record<{Player: "Mees Rottgering", Wins: 263}>
+Record<{Player: "Lucas Poullain", Wins: 263}>
+Record<{Player: "Henri Squire", Wins: 262}>
+Record<{Player: "Thai Son Kwiatkowski", Wins: 261}>
+Record<{Player: "Thiago Cigarran", Wins: 259}>
+Record<{Player: "Thijmen Loof", Wins: 258}>
+Record<{Player: "Niklas Schell", Wins: 258}>
+Record<{Player: "Kai Wehnelt", Wins: 258}>
+Record<{Player: "Yuvan Nandal", Wins: 257}>
+Record<{Player: "Anthony Genov", Wins: 257}>
+Record<{Player: "Justin Engel", Wins: 256}>
+Record<{Player: "Niccolo Ciavarella", Wins: 256}>
+Record<{Player: "Andrea Collarini", Wins: 255}>
+Record<{Player: "Oliver Crawford", Wins: 255}>
+Record<{Player: "Franco Roncadelli", Wins: 253}>
+Record<{Player: "Ye Cong Mo", Wins: 251}>
+Record<{Player: "Paul Barbier Gazeu", Wins: 251}>
+Record<{Player: "Nicola Rispoli", Wins: 251}>
+Record<{Player: "Alejandro Hoyos Franco", Wins: 248}>
+Record<{Player: "Oliver Clark Anderson", Wins: 248}>
+Record<{Player: "Christian Langmo", Wins: 247}>
+Record<{Player: "Amaury Raynel", Wins: 244}>
+Record<{Player: "Sean Hess", Wins: 243}>
+Record<{Player: "Paul Woerner", Wins: 243}>
+Record<{Player: "Meecah Bigun", Wins: 243}>
+Record<{Player: "Alastair Gray", Wins: 241}>
+Record<{Player: "Marco Furlanetto", Wins: 241}>
+Record<{Player: "Simone Agostini", Wins: 239}>
+Record<{Player: "Daisuke Sumizawa", Wins: 238}>
+Record<{Player: "Daniel Dutra Da Silva", Wins: 237}>
+Record<{Player: "Renta Tokuda", Wins: 234}>
+Record<{Player: "Ryan Dickerson", Wins: 234}>
+Record<{Player: "Bruno Fernandez", Wins: 233}>
+Record<{Player: "Stefan Peter Hampe", Wins: 233}>
+Record<{Player: "Sebastian Eriksson", Wins: 231}>
+Record<{Player: "David Poljak", Wins: 231}>
+Record<{Player: "Guido Ivan Justo", Wins: 230}>
+Record<{Player: "Pablo Masjuan Ginel", Wins: 230}>
+Record<{Player: "Adhithya Ganesan", Wins: 229}>
+Record<{Player: "Etienne Donnet", Wins: 229}>
+Record<{Player: "Jaimee Floyd Angele", Wins: 228}>
+Record<{Player: "Ozan Baris", Wins: 228}>
+Record<{Player: "Cash Hanzlik", Wins: 228}>
+Record<{Player: "Kyle Kang", Wins: 227}>
+Record<{Player: "Ray Ho", Wins: 225}>
+Record<{Player: "Marsel Ilhan", Wins: 225}>
+Record<{Player: "Ryan Haviland", Wins: 225}>
+Record<{Player: "Alberto Bronzetti", Wins: 224}>
+Record<{Player: "Ryotaro Matsumura", Wins: 222}>
+Record<{Player: "Remy Bertola", Wins: 222}>
+Record<{Player: "S D Prajwal Dev", Wins: 222}>
+Record<{Player: "Noah Rubin", Wins: 221}>
+Record<{Player: "Ewen Lumsden", Wins: 221}>
+Record<{Player: "Elijah Strode", Wins: 221}>
+Record<{Player: "Dragos Nicolae Cazacu", Wins: 220}>
+Record<{Player: "Ruslan Tiukaev", Wins: 220}>
+Record<{Player: "Chad Kissell", Wins: 220}>
+Record<{Player: "Michal Krajci", Wins: 219}>
+Record<{Player: "Giovanni Fonio", Wins: 219}>
+Record<{Player: "Daniel Cox", Wins: 219}>
+Record<{Player: "Juan Bautista Torres", Wins: 217}>
+Record<{Player: "Yuki Mochizuki", Wins: 216}>
+Record<{Player: "Ron Ellouck", Wins: 216}>
+Record<{Player: "Mert Alkaya", Wins: 216}>
+Record<{Player: "Marco Miceli", Wins: 215}>
+Record<{Player: "Grigoriy Lomakin", Wins: 215}>
+Record<{Player: "Teymuraz Gabashvili", Wins: 215}>
+Record<{Player: "Manuel Mazza", Wins: 214}>
+Record<{Player: "Ignacio Carou", Wins: 214}>
+Record<{Player: "Luciano Carraro", Wins: 213}>
+Record<{Player: "George Loffhagen", Wins: 213}>
+Record<{Player: "Enrico Dalla Valle", Wins: 213}>
+Record<{Player: "Elio Jose Ribeiro Lago", Wins: 213}>
+Record<{Player: "Mateo Barreiros Reyes", Wins: 212}>
+Record<{Player: "Guy Den Ouden", Wins: 212}>
+Record<{Player: "Buvaysar Gadamauri", Wins: 212}>
+Record<{Player: "David Pichler", Wins: 211}>
+Record<{Player: "Dian Nedev", Wins: 211}>
+Record<{Player: "Ryan James Storrie", Wins: 210}>
+Record<{Player: "Aleksandr Braynin", Wins: 209}>
+Record<{Player: "David Fix", Wins: 209}>
+Record<{Player: "Kuan Yi Lee", Wins: 208}>
+Record<{Player: "Alexander Bernard", Wins: 206}>
+Record<{Player: "Emilien Voisin", Wins: 205}>
+Record<{Player: "Kane Bonsach Ganley", Wins: 204}>
+Record<{Player: "Bang Shuo Yin", Wins: 203}>
+Record<{Player: "Mykyta Mashtakov", Wins: 203}>
+Record<{Player: "Niklas Waldner", Wins: 203}>
+Record<{Player: "Francisco Rocha", Wins: 202}>
+Record<{Player: "Andrea Paolini", Wins: 202}>
+Record<{Player: "William Jansen", Wins: 202}>
+Record<{Player: "Lukas Neumayer", Wins: 202}>
+Record<{Player: "Fadi Bidan", Wins: 201}>
+Record<{Player: "Alexander Weis", Wins: 201}>
+Record<{Player: "Isaiah Strode", Wins: 201}>
+Record<{Player: "Lorenzo Lorusso", Wins: 200}>
+Record<{Player: "Denis Constantin Spiridon", Wins: 200}>
+Record<{Player: "Romain Faucon", Wins: 199}>
+Record<{Player: "Alibek Kachmazov", Wins: 199}>
+Record<{Player: "Yannik Steinegger", Wins: 199}>
+Record<{Player: "Gabriele Vulpitta", Wins: 198}>
+Record<{Player: "Hamid Reza Nadaf", Wins: 198}>
+Record<{Player: "Roland Stuurman", Wins: 198}>
+Record<{Player: "Calin Manda", Wins: 198}>
+Record<{Player: "Leopold Zima", Wins: 197}>
+Record<{Player: "Denis Petak", Wins: 197}>
+Record<{Player: "Maximilian Figl", Wins: 196}>
+Record<{Player: "Karol Filar", Wins: 196}>
+Record<{Player: "Mischa Lanz", Wins: 196}>
+Record<{Player: "Jasza Szajrych", Wins: 194}>
+Record<{Player: "Loic Namigandet Tenguere", Wins: 194}>
+Record<{Player: "Alessandro Ingarao", Wins: 193}>
+Record<{Player: "Evgeny Donskoy", Wins: 193}>
+Record<{Player: "Christopher Bulus", Wins: 191}>
+Record<{Player: "Sven Corbinais", Wins: 191}>
+Record<{Player: "Leyton Rivera", Wins: 190}>
+Record<{Player: "Drew Van Orderlain", Wins: 188}>
+Record<{Player: "Jacopo Berrettini", Wins: 188}>
+Record<{Player: "Daniel De Jonge", Wins: 188}>
+Record<{Player: "Edison Ambarzumjan", Wins: 186}>
+Record<{Player: "Credit Chaiyarin", Wins: 186}>
+Record<{Player: "Marko Topo", Wins: 185}>
+Record<{Player: "Trey Hilderbrand", Wins: 184}>
+Record<{Player: "Maxim Mrva", Wins: 184}>
+Record<{Player: "Madhwin Kamath", Wins: 184}>
+Record<{Player: "Dan Added", Wins: 184}>
+Record<{Player: "Dominik Palan", Wins: 183}>
+Record<{Player: "Matteo De Vincentis", Wins: 183}>
+Record<{Player: "Taisei Ichikawa", Wins: 183}>
+Record<{Player: "Fred Simonsson", Wins: 183}>
+Record<{Player: "Fernando Cavallo", Wins: 182}>
+Record<{Player: "Aliaksandr Liaonenka", Wins: 182}>
+Record<{Player: "Loan Lestir", Wins: 181}>
+Record<{Player: "Alec Deckers", Wins: 180}>
+Record<{Player: "Sina Moghimi", Wins: 177}>
+Record<{Player: "Vincent Marysko", Wins: 177}>
+Record<{Player: "Marko Maksimovic", Wins: 176}>
+Record<{Player: "Mikalai Haliak", Wins: 176}>
+Record<{Player: "Grigory Shebekin", Wins: 174}>
+Record<{Player: "Gorazd Srbljak", Wins: 174}>
+Record<{Player: "Marcel Zielinski", Wins: 173}>
+Record<{Player: "Johan Alexander Rodriguez Rodriguez", Wins: 172}>
+Record<{Player: "Valerio Perruzza", Wins: 171}>
+Record<{Player: "Finn Bass", Wins: 171}>
+Record<{Player: "Dax Donders", Wins: 170}>
+Record<{Player: "Blaise Bicknell", Wins: 170}>
+Record<{Player: "Jake Delaney", Wins: 169}>
+Record<{Player: "Carlo Alberto Fossati", Wins: 168}>
+Record<{Player: "Daniel Khazime ", Wins: 168}>
+Record<{Player: "Joao Domingues", Wins: 167}>
+Record<{Player: "Alejandro Melero Kretzer ", Wins: 161}>
+Record<{Player: "Samuel Brosset", Wins: 161}>
+Record<{Player: "Altug Celikbilek", Wins: 161}>
+Record<{Player: "Sidane Pontjodikromo", Wins: 157}>
+Record<{Player: "Kabir Hans", Wins: 157}>
+Record<{Player: "Salvatore Caruso", Wins: 157}>
+Record<{Player: "Diego Dedura Palomero", Wins: 156}>
+Record<{Player: "Collin Altamirano", Wins: 154}>
+Record<{Player: "Gastao Elias", Wins: 153}>
+Record<{Player: "Eduardo Ribeiro", Wins: 152}>
+Record<{Player: "Tomasz Berkieta", Wins: 152}>
+Record<{Player: "Rafael Izquierdo Luque", Wins: 152}>
+Record<{Player: "Nitin Kumar Sinha", Wins: 152}>
+Record<{Player: "Antoine Vincent", Wins: 152}>
+Record<{Player: "Jan Hrazdil", Wins: 151}>
+Record<{Player: "Harry Wendelken", Wins: 151}>
+Record<{Player: "Shunsuke Nakagawa", Wins: 151}>
+Record<{Player: "Arslanbek Aitkulov", Wins: 150}>
+Record<{Player: "Vuk Radjenovic", Wins: 149}>
+Record<{Player: "Cedric Stanke", Wins: 149}>
+Record<{Player: "Toby D Boyer", Wins: 149}>
+Record<{Player: "Kylian Collignon", Wins: 149}>
+Record<{Player: "Alan Magadan", Wins: 149}>
+Record<{Player: "Charlie Camus", Wins: 148}>
+Record<{Player: "Antoine Escoffier", Wins: 148}>
+Record<{Player: "Joao Vitor Goncalves Ceolin", Wins: 147}>
+Record<{Player: "Manas Dhamne", Wins: 147}>
+Record<{Player: "Oleksii Krutykh", Wins: 147}>
+Record<{Player: "Gabrielius Guzauskas", Wins: 147}>
+Record<{Player: "Mateus Alves", Wins: 146}>
+Record<{Player: "Matt Kuhar", Wins: 146}>
+Record<{Player: "Woobin Shin", Wins: 146}>
+Record<{Player: "Andrej Nedic", Wins: 144}>
+Record<{Player: "Ruslan Kastsiukevich", Wins: 141}>
+Record<{Player: "John Chin", Wins: 141}>
+Record<{Player: "Alex Bolt", Wins: 140}>
+Record<{Player: "Matias Franco Descotte", Wins: 139}>
+Record<{Player: "Boris Fassbender", Wins: 138}>
+Record<{Player: "Parth Aggarwal", Wins: 136}>
+Record<{Player: "Mikail Alimli", Wins: 136}>
+Record<{Player: "Joseph Phillips", Wins: 134}>
+Record<{Player: "Tomas Farjat", Wins: 133}>
+Record<{Player: "Nicolas Bruna", Wins: 133}>
+Record<{Player: "Juan Sebastian Gomez", Wins: 133}>
+Record<{Player: "Yunseok Jang", Wins: 132}>
+Record<{Player: "Brandon Perez", Wins: 131}>
+Record<{Player: "Daniel Rincon", Wins: 130}>
+Record<{Player: "Alessandro Cortegiani", Wins: 130}>
+Record<{Player: "Attila Boros", Wins: 129}>
+Record<{Player: "Alejandro Turriziani Alvarez", Wins: 129}>
+Record<{Player: "Tobias Franco", Wins: 128}>
+Record<{Player: "Arthur Weber", Wins: 128}>
+Record<{Player: "Josip Simundza", Wins: 127}>
+Record<{Player: "Petr Brunclik", Wins: 126}>
+Record<{Player: "Ivan Marrero Curbelo", Wins: 126}>
+Record<{Player: "Roy Horovitz", Wins: 125}>
+Record<{Player: "Preston Brown", Wins: 123}>
+Record<{Player: "Noah Lopez", Wins: 123}>
+Record<{Player: "Drazen Petrovic", Wins: 122}>
+Record<{Player: "Ben Weintraub", Wins: 122}>
+Record<{Player: "Milan Markovits", Wins: 122}>
+Record<{Player: "Facundo Bermejo", Wins: 121}>
+Record<{Player: "Adam Neff", Wins: 120}>
+Record<{Player: "Pavlos Tsitsipas", Wins: 119}>
+Record<{Player: "Aleksa Pisaric", Wins: 119}>
+Record<{Player: "Bernardo Munk Mesa", Wins: 119}>
+Record<{Player: "Matthew Segura", Wins: 119}>
+Record<{Player: "Vito Tonejc", Wins: 119}>
+Record<{Player: "Elijah Poritzky", Wins: 118}>
+Record<{Player: "Raghav Jaisinghani", Wins: 117}>
+Record<{Player: "Jaycer Lyeons", Wins: 117}>
+Record<{Player: "Alex Barrena", Wins: 116}>
+Record<{Player: "Mateo Del Pino", Wins: 116}>
+Record<{Player: "Mark Whitehouse", Wins: 116}>
+Record<{Player: "Aidan Kim", Wins: 116}>
+Record<{Player: "Quinn Vandecasteele", Wins: 116}>
+Record<{Player: "Jonas Pelle Hartenstein", Wins: 116}>
+Record<{Player: "Nicolas Zanellato", Wins: 115}>
+Record<{Player: "Strong Kirchheimer", Wins: 115}>
+Record<{Player: "Alexander Klintcharov", Wins: 115}>
+Record<{Player: "Matheus Pucinelli De Almeida", Wins: 115}>
+Record<{Player: "Sebastian Olivera", Wins: 115}>
+Record<{Player: "Eric David Verdes", Wins: 115}>
+Record<{Player: "Matthew Forbes", Wins: 115}>
+Record<{Player: "Alexander Razeghi", Wins: 115}>
+Record<{Player: "Hunter Heck", Wins: 115}>
+Record<{Player: "Daniel Antonio Nunez", Wins: 114}>
+Record<{Player: "Evan Bynoe", Wins: 114}>
+Record<{Player: "Aaron Cohen", Wins: 114}>
+Record<{Player: "Kanan Gasimov", Wins: 114}>
+Record<{Player: "Bryce Nakashima", Wins: 114}>
+Record<{Player: "Juan Carlos Prado Angelo", Wins: 113}>
+Record<{Player: "Tai Leonard Sach", Wins: 113}>
+Record<{Player: "Darius Florin Pop", Wins: 113}>
+Record<{Player: "Antonio Massara", Wins: 113}>
+Record<{Player: "Juan Martin Fumeaux Buenaventura", Wins: 113}>
+Record<{Player: "Aman Sharma", Wins: 113}>
+Record<{Player: "Santiago De La Fuente", Wins: 112}>
+Record<{Player: "Nikita Ianin", Wins: 112}>
+Record<{Player: "Dinko Dinev", Wins: 112}>
+Record<{Player: "Aristarkh Safonov", Wins: 111}>
+Record<{Player: "Diogo Marques", Wins: 111}>
+Record<{Player: "Norbert Marosik", Wins: 111}>
+Record<{Player: "Mitchell Lee", Wins: 111}>
+Record<{Player: "Karl Friberg", Wins: 110}>
+Record<{Player: "Radovan Michalik", Wins: 109}>
+Record<{Player: "Max Schoenhaus", Wins: 109}>
+Record<{Player: "Ethan Quinn", Wins: 109}>
+Record<{Player: "Max Stenzer", Wins: 108}>
+Record<{Player: "Gleb Sakharov", Wins: 108}>
+Record<{Player: "Jeremy Taylor", Wins: 107}>
+Record<{Player: "Matisse Farzam", Wins: 107}>
+Record<{Player: "Nicolas Villalon Valdes", Wins: 106}>
+Record<{Player: "Lasse Poertner", Wins: 106}>
+Record<{Player: "Kyle Overmyer", Wins: 106}>
+Record<{Player: "Kaya Arinc", Wins: 106}>
+Record<{Player: "Yaraslav Shyla", Wins: 106}>
+Record<{Player: "Bor Artnak", Wins: 106}>
+Record<{Player: "Kaichi Uchida", Wins: 105}>
+Record<{Player: "Matthew Summers", Wins: 105}>
+Record<{Player: "Nicolas Jadoun", Wins: 105}>
+Record<{Player: "Matteo Rocci", Wins: 105}>
+Record<{Player: "Leo Lagarrigue", Wins: 105}>
+Record<{Player: "Murphy Cassone", Wins: 105}>
+Record<{Player: "Marcus Walters", Wins: 104}>
+Record<{Player: "Miha Vetrih", Wins: 103}>
+Record<{Player: "Adan Freire Da Silva", Wins: 103}>
+Record<{Player: "Louay Makke", Wins: 103}>
+Record<{Player: "Antoine Walch", Wins: 102}>
+Record<{Player: "Leo Raquillet", Wins: 102}>
+Record<{Player: "Leonardo Malgaroli", Wins: 102}>
+Record<{Player: "Adriano Dzhenev", Wins: 102}>
+Record<{Player: "Stefan Vujic", Wins: 101}>
+Record<{Player: "Filippo Speziali", Wins: 101}>
+Record<{Player: "Ignasi Forcano", Wins: 101}>
+Record<{Player: "Nathan Seateun", Wins: 101}>
+Record<{Player: "Ignacio Antonio Becerra Otarola", Wins: 100}>
+Record<{Player: "Ethan Cook", Wins: 100}>
+Record<{Player: "Gregor Ramskogler", Wins: 100}>
+Record<{Player: "Matteo Fondriest", Wins: 100}>
+Record<{Player: "Felipe Virgili Berini", Wins: 100}>
+Record<{Player: "Matteo Lavizzari", Wins: 99}>
+Record<{Player: "Kazuma Kawachi", Wins: 98}>
+Record<{Player: "Manuel Plunger", Wins: 97}>
+Record<{Player: "George Houghton", Wins: 97}>
+Record<{Player: "Fabio De Michele", Wins: 97}>
+Record<{Player: "Taiyo Yamanaka", Wins: 97}>
+Record<{Player: "Thomas Faurel", Wins: 97}>
+Record<{Player: "Jimmy Yang", Wins: 96}>
+Record<{Player: "Jan Kumstat", Wins: 96}>
+Record<{Player: "Thomas Fancutt", Wins: 96}>
+Record<{Player: "Razvan Baiant", Wins: 95}>
+Record<{Player: "Rafael Jodar", Wins: 95}>
+Record<{Player: "Yuta Kikuchi", Wins: 95}>
+Record<{Player: "Lucas Renard", Wins: 95}>
+Record<{Player: "Kenzo Koistila Larsson", Wins: 95}>
+Record<{Player: "Natthayut Nithithananont", Wins: 95}>
+Record<{Player: "Perry Gregg", Wins: 95}>
+Record<{Player: "Federico Salomone", Wins: 94}>
+Record<{Player: "Oliver Tarvet", Wins: 94}>
+Record<{Player: "Tomas Luis", Wins: 94}>
+Record<{Player: "Alexey Nesterov", Wins: 93}>
+Record<{Player: "Benjamin Winter Lopez", Wins: 92}>
+Record<{Player: "Yannik Kelm", Wins: 92}>
+Record<{Player: "George Lazarov", Wins: 92}>
+Record<{Player: "Thando Longwe Smit", Wins: 92}>
+Record<{Player: "Moritz Kudernatsch", Wins: 92}>
+Record<{Player: "Ammar Elamin", Wins: 91}>
+Record<{Player: "Thomas Yaka Kofi Setodji", Wins: 91}>
+Record<{Player: "Filip Gabriel Bara", Wins: 91}>
+Record<{Player: "Kacper Szymkowiak", Wins: 91}>
+Record<{Player: "Marc Majdandzic", Wins: 90}>
+Record<{Player: "Seungmin Park", Wins: 90}>
+Record<{Player: "Arthur Fery", Wins: 90}>
+Record<{Player: "Boris Pokotilov", Wins: 90}>
+Record<{Player: "Marcel Politowicz", Wins: 90}>
+Record<{Player: "Cem Ilkel", Wins: 89}>
+Record<{Player: "Radu David Turcanu", Wins: 89}>
+Record<{Player: "Jaime Caldes", Wins: 88}>
+Record<{Player: "Erik Grevelius", Wins: 88}>
+Record<{Player: "Natthasith Kunsuwan", Wins: 88}>
+Record<{Player: "Alaa Trifi", Wins: 88}>
+Record<{Player: "Omar Brigida", Wins: 88}>
+Record<{Player: "Luke Saville", Wins: 87}>
+Record<{Player: "Laurent Lokoli", Wins: 87}>
+Record<{Player: "Saba George Nanobashvili", Wins: 87}>
+Record<{Player: "Juan Estevez", Wins: 86}>
+Record<{Player: "Mihai Razvan Marinescu", Wins: 86}>
+Record<{Player: "Aleksandar Ljubojevic", Wins: 86}>
+Record<{Player: "Oriol Roca Batalla", Wins: 85}>
+Record<{Player: "Albano Olivetti", Wins: 85}>
+Record<{Player: "Issei Okamura", Wins: 84}>
+Record<{Player: "Kevin Humpfner", Wins: 84}>
+Record<{Player: "Jack Karlsson Wistrand", Wins: 84}>
+Record<{Player: "Joel Angel Lucero", Wins: 83}>
+Record<{Player: "Patrik Homola", Wins: 83}>
+Record<{Player: "Gabriel Elicha Navas", Wins: 83}>
+Record<{Player: "Yerassyl Yerdilda", Wins: 83}>
+Record<{Player: "Marco Alvarez", Wins: 83}>
+Record<{Player: "Michal Lusovsky", Wins: 83}>
+Record<{Player: "Aleksander Chayka", Wins: 83}>
+Record<{Player: "Jangjun Kim", Wins: 82}>
+Record<{Player: "Rigele Te", Wins: 82}>
+Record<{Player: "Alexander Cozbinov", Wins: 82}>
+Record<{Player: "Evan Zhu", Wins: 81}>
+Record<{Player: "Alexander Zgirovsky", Wins: 81}>
+Record<{Player: "Amir Milushev", Wins: 81}>
+Record<{Player: "Michael Geerts", Wins: 81}>
+Record<{Player: "Yuquan Jin", Wins: 80}>
+Record<{Player: "Ruben Hartig", Wins: 79}>
+Record<{Player: "Yusuke Takahashi", Wins: 79}>
+Record<{Player: "Naoki Nakagawa", Wins: 79}>
+Record<{Player: "Iannis Miletich", Wins: 78}>
+Record<{Player: "Goncalo Marques", Wins: 78}>
+Record<{Player: "Lun Obrul", Wins: 77}>
+Record<{Player: "Ognjen Milic", Wins: 77}>
+Record<{Player: "Blake Ellis", Wins: 76}>
+Record<{Player: "Aaron Gil Garcia", Wins: 76}>
+Record<{Player: "Luca Parenti", Wins: 76}>
+Record<{Player: "Ren Nakamura", Wins: 76}>
+Record<{Player: "Juan Sebastian Osorio", Wins: 75}>
+Record<{Player: "Rodrigo Fernandes", Wins: 75}>
+Record<{Player: "Dhruv Hirpara", Wins: 75}>
+Record<{Player: "Samuil Konov", Wins: 75}>
+Record<{Player: "Miguel Angel Alonso", Wins: 75}>
+Record<{Player: "Tim Ruehl", Wins: 74}>
+Record<{Player: "Karim Ibrahim", Wins: 74}>
+Record<{Player: "Nathan Trouve", Wins: 74}>
+Record<{Player: "Guelfo Borghini Baldovinetti", Wins: 74}>
+Record<{Player: "Yuichiro Inui", Wins: 74}>
+Record<{Player: "Samyar Elyasi", Wins: 74}>
+Record<{Player: "Kasra Rahmani", Wins: 74}>
+Record<{Player: "Alessandro Giannessi", Wins: 74}>
+Record<{Player: "Lorenzo Esquici", Wins: 74}>
+Record<{Player: "Enrico Baldisserri", Wins: 73}>
+Record<{Player: "Imran Daniel Abdul Hazli", Wins: 73}>
+Record<{Player: "Manuel Mouilleron Salvo", Wins: 72}>
+Record<{Player: "Rayane Oumaouche", Wins: 72}>
+Record<{Player: "Juan Pablo Ficovich", Wins: 72}>
+Record<{Player: "Hitesh Chauhan", Wins: 72}>
+Record<{Player: "Amirali Ghavam", Wins: 72}>
+Record<{Player: "Alexander Chepik", Wins: 72}>
+Record<{Player: "Kohei Hayashi", Wins: 72}>
+Record<{Player: "Ji Sung Nam", Wins: 71}>
+Record<{Player: "Filippo Alberti", Wins: 71}>
+Record<{Player: "Sidharth Rawat", Wins: 71}>
+Record<{Player: "Abhinav Sanjeev Shanmugam", Wins: 70}>
+Record<{Player: "Manish Ganesh", Wins: 70}>
+Record<{Player: "Shu Matsuoka", Wins: 70}>
+Record<{Player: "Daniel Vishnick", Wins: 69}>
+Record<{Player: "Valentin Kopeikin", Wins: 69}>
+Record<{Player: "Vishnu Vardhan", Wins: 69}>
+Record<{Player: "Kaito Uesugi", Wins: 69}>
+Record<{Player: "Stefano Baldoni", Wins: 68}>
+Record<{Player: "Taym Al Azmeh", Wins: 68}>
+Record<{Player: "Herbert Jody Maginley", Wins: 68}>
+Record<{Player: "Lorenzo Ferri", Wins: 67}>
+Record<{Player: "Szymon Kielan", Wins: 66}>
+Record<{Player: "Antonio Caruso", Wins: 65}>
+Record<{Player: "Christos Antonopoulos", Wins: 65}>
+Record<{Player: "Li Tu", Wins: 64}>
+Record<{Player: "Martin Sabas", Wins: 64}>
+Record<{Player: "Karlo Cubelic", Wins: 64}>
+Record<{Player: "Amir Hossein Badi", Wins: 64}>
+Record<{Player: "Matyas Cerny", Wins: 63}>
+Record<{Player: "Ali Yazdani", Wins: 63}>
+Record<{Player: "Ignacio Monzon", Wins: 62}>
+Record<{Player: "Sasa Markovic", Wins: 62}>
+Record<{Player: "Arthur Nagel ", Wins: 62}>
+Record<{Player: "Stepan Baum", Wins: 62}>
+Record<{Player: "Renlong Pang", Wins: 61}>
+Record<{Player: "Yusuf Khamis", Wins: 60}>
+Record<{Player: "Marc Antoine Gaillard ", Wins: 60}>
+Record<{Player: "Ranjeet Virali Murugesan", Wins: 60}>
+Record<{Player: "Oscar Galimardanov", Wins: 59}>
+Record<{Player: "Alexis Canter", Wins: 59}>
+Record<{Player: "Benjamin Vitter", Wins: 59}>
+Record<{Player: "Rafael Tosetto", Wins: 58}>
+Record<{Player: "Daniel Salazar Martinez", Wins: 58}>
+Record<{Player: "Markus Malaszszak", Wins: 58}>
+Record<{Player: "Nicholas Campbell", Wins: 57}>
+Record<{Player: "James Mccabe", Wins: 56}>
+Record<{Player: "Joaquim Almeida", Wins: 55}>
+Record<{Player: "Mason Naumovski", Wins: 55}>
+Record<{Player: "Daniele Rapagnetta", Wins: 55}>
+Record<{Player: "Matija Pecotic", Wins: 55}>
+Record<{Player: "Sergei Pogosian", Wins: 55}>
+Record<{Player: "Nico Hornitschek", Wins: 54}>
+Record<{Player: "Vit Kalina ", Wins: 54}>
+Record<{Player: "Rafael Ymer", Wins: 53}>
+Record<{Player: "Niels Villard", Wins: 53}>
+Record<{Player: "Venedikt Tsirikidze", Wins: 53}>
+Record<{Player: "Luke Sorensen", Wins: 52}>
+Record<{Player: "Hanyi Liu", Wins: 50}>
+Record<{Player: "Kai Lemstra", Wins: 50}>
+Record<{Player: "Marino Jakic", Wins: 50}>
+Record<{Player: "Francois Musitelli", Wins: 50}>
+Record<{Player: "Simon Reveniau", Wins: 50}>
+Record<{Player: "Benjamin Ignacio Torres Fernandez", Wins: 49}>
+Record<{Player: "Tom Brown", Wins: 49}>
+Record<{Player: "Bruno Pujol Navarro", Wins: 49}>
+Record<{Player: "Roger Pascual Ferra", Wins: 49}>
+Record<{Player: "Courtney John Lock", Wins: 49}>
+Record<{Player: "Siddhant Banthia", Wins: 49}>
+Record<{Player: "Aldin Setkic", Wins: 48}>
+Record<{Player: "Duje Markovina", Wins: 48}>
+Record<{Player: "Toprak Avcibasi", Wins: 48}>
+Record<{Player: "Zach Stephens", Wins: 48}>
+Record<{Player: "Omar Jasika", Wins: 47}>
+Record<{Player: "Ivan Perez Martin ", Wins: 47}>
+Record<{Player: "Giuseppe Tresca", Wins: 47}>
+Record<{Player: "Rodrigo Alujas ", Wins: 47}>
+Record<{Player: "Federico Valle", Wins: 46}>
+Record<{Player: "Paul Valsecchi", Wins: 45}>
+Record<{Player: "Benoit Torcq", Wins: 44}>
+Record<{Player: "Daniel Cukierman", Wins: 44}>
+Record<{Player: "Oscar Lacides", Wins: 44}>
+Record<{Player: "Jose Pereira", Wins: 43}>
+Record<{Player: "Vitor Leal", Wins: 42}>
+Record<{Player: "Rafael Giotis", Wins: 42}>
+Record<{Player: "Charles Chen", Wins: 42}>
+Record<{Player: "Aoran Wang", Wins: 40}>
+Record<{Player: "Ivan Denisov", Wins: 40}>
+Record<{Player: "Alejandro Juan Mano ", Wins: 40}>
+Record<{Player: "Ronetto Van Tilburg", Wins: 40}>
+Record<{Player: "Chase Ferguson", Wins: 39}>
+Record<{Player: "Timo Stodder", Wins: 39}>
+Record<{Player: "Rio Noguchi", Wins: 38}>
+Record<{Player: "Sheng Tang", Wins: 38}>
+Record<{Player: "Miguel Tobon", Wins: 38}>
+Record<{Player: "Jasper Lai", Wins: 38}>
+Record<{Player: "Alessandro Coccioli", Wins: 38}>
+Record<{Player: "Joan Nadal Vives", Wins: 38}>
+Record<{Player: "Steven Diez", Wins: 38}>
+Record<{Player: "Vladimir Uzhylovsky", Wins: 37}>
+Record<{Player: "Fabio Nestola", Wins: 37}>
+Record<{Player: "Mariano Kestelboim", Wins: 36}>
+Record<{Player: "Hiroki Moriya", Wins: 36}>
+Record<{Player: "Amador Salazar", Wins: 35}>
+Record<{Player: "Thomas Braithwaite", Wins: 35}>
+Record<{Player: "Fryderyk Lechno Wasiutynski", Wins: 35}>
+Record<{Player: "Stiles Brockett", Wins: 34}>
+Record<{Player: "Lucio Ratti", Wins: 33}>
+Record<{Player: "Andres Urrea", Wins: 33}>
+Record<{Player: "Zekai Li", Wins: 33}>
+Record<{Player: "Kenneth Raisma", Wins: 32}>
+Record<{Player: "Manuel Lazic", Wins: 31}>
+Record<{Player: "Aydan Gomez Osorio", Wins: 31}>
+Record<{Player: "Jefferson Wendler Filho", Wins: 30}>
+Record<{Player: "Joao Menezes", Wins: 29}>
+Record<{Player: "Filip Krolo", Wins: 29}>
+Record<{Player: "Ezequiel Monferrer", Wins: 28}>
+Record<{Player: "Hernando Jose Escurra Isnardi", Wins: 28}>
+Record<{Player: "Vojtech Vales", Wins: 28}>
+Record<{Player: "Joshua Goodger", Wins: 28}>
+Record<{Player: "Toby Martin", Wins: 28}>
+Record<{Player: "Mwendwa Mbithi", Wins: 28}>
+Record<{Player: "Makoto Ochi", Wins: 27}>
+Record<{Player: "Michael Gloeckler", Wins: 27}>
+Record<{Player: "Stylianos Christodoulou", Wins: 27}>
+Record<{Player: "Gabriel Evans", Wins: 27}>
+Record<{Player: "Lorenzo Sciahbasi ", Wins: 26}>
+Record<{Player: "Noa Vukadin", Wins: 26}>
+Record<{Player: "Michael Shaw", Wins: 26}>
+Record<{Player: "Jurriaan Bol", Wins: 25}>
+Record<{Player: "Antonio Voljavec", Wins: 24}>
+Record<{Player: "Mateo Martinovic", Wins: 24}>
+Record<{Player: "Stefano Dagostino", Wins: 24}>
+Record<{Player: "Fabrizio Karol Pio Osti", Wins: 24}>
+Record<{Player: "Yvo Panak", Wins: 23}>
+Record<{Player: "Noah Thurner", Wins: 23}>
+Record<{Player: "Luciano Emanuel Ambrogi", Wins: 22}>
+Record<{Player: "Samuel Puskar", Wins: 22}>
+Record<{Player: "Jerko Brkic", Wins: 22}>
+Record<{Player: "Petr Michnev", Wins: 22}>
+Record<{Player: "Pranav Kumar", Wins: 21}>
+Record<{Player: "Nicolas Garcia Longo", Wins: 21}>
+Record<{Player: "Felipe Pagnacco", Wins: 20}>
+Record<{Player: "Matias Soto", Wins: 20}>
+Record<{Player: "Hong Lin Fu", Wins: 20}>
+Record<{Player: "Frazier Rengifo", Wins: 20}>
+Record<{Player: "Samuel Heredia", Wins: 20}>
+Record<{Player: "Salvador Price", Wins: 20}>
+Record<{Player: "Kody Pearson", Wins: 19}>
+Record<{Player: "Jesse Delaney", Wins: 19}>
+Record<{Player: "Zhenxiong Dong", Wins: 19}>
+Record<{Player: "Pavle Marinkov", Wins: 18}>
+Record<{Player: "Tomislav Edward Papac", Wins: 18}>
+Record<{Player: "Miguel Angel Cabrera", Wins: 18}>
+Record<{Player: "Benjamin Torrealba", Wins: 18}>
+Record<{Player: "Bingyu Yu", Wins: 18}>
+Record<{Player: "Pedro Sakamoto", Wins: 17}>
+Record<{Player: "Ajeet Rai", Wins: 17}>
+Record<{Player: "Hayden Jones", Wins: 17}>
+Record<{Player: "Alejandro Bancalari", Wins: 17}>
+Record<{Player: "Zhengyu Sun", Wins: 17}>
+Record<{Player: "Valentin Basel", Wins: 16}>
+Record<{Player: "Joshua Charlton", Wins: 16}>
+Record<{Player: "Nicolas Oliveira", Wins: 16}>
+Record<{Player: "Changli Zhang", Wins: 16}>
+Record<{Player: "Enrique Bogo", Wins: 15}>
+Record<{Player: "Laelson Rodrigues", Wins: 15}>
+Record<{Player: "Gustavo Ribeiro De Almeida", Wins: 15}>
+Record<{Player: "Sam Ryan Ziegann", Wins: 14}>
+Record<{Player: "Michel Hopp", Wins: 14}>
+Record<{Player: "Henrique Costanzi De Brito", Wins: 14}>
+Record<{Player: "Jan Kupcic", Wins: 12}>
+Record<{Player: "Marcell Bartakovics", Wins: 12}>
+Record<{Player: "Jeremy Gschwendtner", Wins: 12}>
+Record<{Player: "Marcos Lee Chan Baratau", Wins: 11}>
+Record<{Player: "Nico Hipfl", Wins: 11}>
+Record<{Player: "Tobias Smoliner", Wins: 11}>
+Record<{Player: "Nik Mikovic ", Wins: 11}>
+Record<{Player: "Gian Matias Di Natale", Wins: 11}>
+Record<{Player: "Lucio Carnevalle", Wins: 11}>
+
+Query 10: MATCH (t:Tournament) RETURN t.name AS Tournament, t.date AS Date ORDER BY t.date DESC LIMIT 50;
+Record<{Tournament: "M15 Kingston", Date: "20240520"}>
+Record<{Tournament: "M15 Bol", Date: "20240520"}>
+Record<{Tournament: "M25 Deauville", Date: "20240520"}>
+Record<{Tournament: "M25 Addis Ababa", Date: "20240520"}>
+Record<{Tournament: "M15 Celje", Date: "20240520"}>
+Record<{Tournament: "M15 Cervia", Date: "20240520"}>
+Record<{Tournament: "M15 Brcko", Date: "20240520"}>
+Record<{Tournament: "M15 Bucharest", Date: "20240520"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Date: "20240520"}>
+Record<{Tournament: "M15 Monastir", Date: "20240520"}>
+Record<{Tournament: "M25 Anning", Date: "20240520"}>
+Record<{Tournament: "M25 Mataro", Date: "20240520"}>
+Record<{Tournament: "M25 Luan", Date: "20240513"}>
+Record<{Tournament: "M25 Kachreti", Date: "20240513"}>
+Record<{Tournament: "M15 Prijedor", Date: "20240513"}>
+Record<{Tournament: "M15 Addis Ababa", Date: "20240513"}>
+Record<{Tournament: "M25 Pensacola FL", Date: "20240513"}>
+Record<{Tournament: "M25 Reggio Emilia", Date: "20240513"}>
+Record<{Tournament: "M25 Vic", Date: "20240513"}>
+Record<{Tournament: "M15 Antalya", Date: "20240513"}>
+Record<{Tournament: "M15 Kalmar", Date: "20240513"}>
+Record<{Tournament: "M15 Neuquen", Date: "20240513"}>
+Record<{Tournament: "M15 Bucharest", Date: "20240513"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Date: "20240513"}>
+Record<{Tournament: "M15 Monastir", Date: "20240513"}>
+Record<{Tournament: "M15 Kingston", Date: "20240513"}>
+Record<{Tournament: "M15 Villach", Date: "20240513"}>
+Record<{Tournament: "M25 Valldoreix", Date: "20240506"}>
+Record<{Tournament: "M15 Tbilisi", Date: "20240506"}>
+Record<{Tournament: "M15 Doboj", Date: "20240506"}>
+Record<{Tournament: "M25 Trelew", Date: "20240506"}>
+Record<{Tournament: "M25 Värnamo", Date: "20240506"}>
+Record<{Tournament: "M15 Antalya", Date: "20240506"}>
+Record<{Tournament: "M15 Villahermosa", Date: "20240506"}>
+Record<{Tournament: "M15 Bucharest", Date: "20240506"}>
+Record<{Tournament: "M25 Kursumlijska Banja ", Date: "20240506"}>
+Record<{Tournament: "M15 Monastir", Date: "20240506"}>
+Record<{Tournament: "M15 Osijek", Date: "20240429"}>
+Record<{Tournament: "M25 Nottingham", Date: "20240429"}>
+Record<{Tournament: "M25 Santa Margherita di Pula", Date: "20240429"}>
+Record<{Tournament: "M15 Monastir", Date: "20240429"}>
+Record<{Tournament: "M25 Anapoima", Date: "20240429"}>
+Record<{Tournament: "M25 Xalapa", Date: "20240429"}>
+Record<{Tournament: "M25 Sabadell", Date: "20240429"}>
+Record<{Tournament: "M15 Kursumlijska Banja ", Date: "20240429"}>
+Record<{Tournament: "M15 Antalya", Date: "20240429"}>
+Record<{Tournament: "M15 Orange Park FL", Date: "20240429"}>
+Record<{Tournament: "M15 Split", Date: "20240422"}>
+Record<{Tournament: "M25 Angers", Date: "20240422"}>
+Record<{Tournament: "M15 Meerbusch", Date: "20240422"}>
+

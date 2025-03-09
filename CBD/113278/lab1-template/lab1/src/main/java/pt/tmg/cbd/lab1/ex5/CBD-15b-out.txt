@@ -1,0 +1,72 @@
+Nota: Para o teste foi utilizado um limite de 5 produtos e 60 segundos
+
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): batata
+Quantity: 3
+Product ('Enter' for quit and '-list' to list all the products): cenoura
+Quantity: 3
+You can only add 2 products.
+Product ('Enter' for quit and '-list' to list all the products): cenoura
+Quantity: 1
+Product ('Enter' for quit and '-list' to list all the products): atum
+Quantity: 2
+You can only add 1 products.
+Product ('Enter' for quit and '-list' to list all the products): atum
+Quantity: 1
+Product ('Enter' for quit and '-list' to list all the products): cereais
+Quantity: 3
+You have to wait 33 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Antonio
+Product ('Enter' for quit and '-list' to list all the products): atum
+Quantity: 4
+Product ('Enter' for quit and '-list' to list all the products): vaca
+Quantity: 2
+You can only add 1 products.
+Product ('Enter' for quit and '-list' to list all the products): vaca
+Quantity: 1
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): queijo
+Quantity: 2
+You have to wait 2 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): queijo
+Quantity: 6
+You can only add 5 products.
+Product ('Enter' for quit and '-list' to list all the products): queijo
+Quantity: 5
+Product ('Enter' for quit and '-list' to list all the products): fiambre
+Quantity: 2
+You have to wait 49 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Antonio
+Product ('Enter' for quit and '-list' to list all the products): -list
+vaca: 1
+atum: 4
+Product ('Enter' for quit and '-list' to list all the products): porco
+Quantity: 2
+You have to wait 2 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): porco
+Quantity: 3
+Product ('Enter' for quit and '-list' to list all the products): vaca 
+Quantity: 2
+Product ('Enter' for quit and '-list' to list all the products): -list
+porco: 3
+vaca: 3
+atum: 4
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): -list
+batata: 3
+queijo: 5
+cenoura: 1
+atum: 1
+Product ('Enter' for quit and '-list' to list all the products): batata
+Quantity: 5
+Product ('Enter' for quit and '-list' to list all the products): -list
+batata: 8
+queijo: 5
+cenoura: 1
+atum: 1
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit):

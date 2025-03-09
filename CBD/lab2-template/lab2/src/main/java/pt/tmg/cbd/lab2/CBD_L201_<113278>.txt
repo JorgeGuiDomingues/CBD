@@ -1,0 +1,98 @@
+Para iniciar o Docker: docker compose up -d
+
+docker ps
+
+show dbs
+
+use cbd
+
+show collections
+
+exit
+
+```
+cbd> show dbs
+admin    40.00 KiB
+cbd     628.00 KiB
+config   92.00 KiB
+local    40.00 KiB
+cbd> show collections
+restaurants
+cbd> db.hello
+[Function: hello] AsyncFunction {
+  serverVersions: [ '5.0.0', '999.999.999' ],
+  apiVersions: [ 1, Infinity ],
+  returnsPromise: true,
+  topologies: [ 'ReplSet', 'Sharded', 'LoadBalanced', 'Standalone' ],
+  returnType: { type: 'unknown', attributes: {} },
+  deprecated: false,
+  platforms: [ 'Compass', 'Browser', 'CLI' ],
+  isDirectShellCommand: false,
+  acceptsRawInput: false,
+  shellCommandCompleter: undefined,
+  help: [Function (anonymous)] Help
+}
+cbd> db.hello()
+{
+  isWritablePrimary: true,
+  topologyVersion: {
+    processId: ObjectId('66fe77ca5da2fa4ba88735e9'),
+    counter: Long('0')
+  },
+  maxBsonObjectSize: 16777216,
+  maxMessageSizeBytes: 48000000,
+  maxWriteBatchSize: 100000,
+  localTime: ISODate('2024-10-03T11:14:03.635Z'),
+  logicalSessionTimeoutMinutes: 30,
+  connectionId: 4,
+  minWireVersion: 0,
+  maxWireVersion: 21,
+  readOnly: false,
+  ok: 1
+}
+cbd> db.restaurants.find({"nome": "Morris Park Bake Shop"})
+[
+  {
+    _id: ObjectId('66fe78ae0b92c7db160a8bdb'),
+    address: {
+      building: '1007',
+      coord: [ -73.856077, 40.848447 ],
+      rua: 'Morris Park Ave',
+      zipcode: '10462'
+    },
+    localidade: 'Bronx',
+    gastronomia: 'Bakery',
+    grades: [
+      {
+        date: ISODate('2014-03-03T00:00:00.000Z'),
+        grade: 'A',
+        score: 2
+      },
+      {
+        date: ISODate('2013-09-11T00:00:00.000Z'),
+        grade: 'A',
+        score: 6
+      },
+      {
+        date: ISODate('2013-01-24T00:00:00.000Z'),
+        grade: 'A',
+        score: 10
+      },
+      {
+        date: ISODate('2011-11-23T00:00:00.000Z'),
+        grade: 'A',
+        score: 9
+      },
+      {
+        date: ISODate('2011-03-10T00:00:00.000Z'),
+        grade: 'B',
+        score: 14
+      }
+    ],
+    nome: 'Morris Park Bake Shop',
+    restaurant_id: '30075445'
+  }
+]
+cbd> 
+
+```

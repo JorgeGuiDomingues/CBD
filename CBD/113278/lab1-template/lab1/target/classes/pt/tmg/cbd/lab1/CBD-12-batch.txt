@@ -1,0 +1,20 @@
+SET user:1001 "Jorge"
+SET user:1002 "Domingues"
+GET user:1001
+INCR page:views
+INCRBY page:views 10
+LPUSH tasks "Task 1"
+LPUSH tasks "Task 2"
+RPUSH tasks "Task 3"
+LPOP tasks
+SADD online_users "user:1001"
+SADD online_users "user:1002"
+SISMEMBER online_users "user:1003"
+HSET user:1001:profile name "Jorge"
+HSET user:1001:profile age 30
+HGET user:1001:profile name
+ZADD leaderboard 100 "user:1001"
+ZADD leaderboard 200 "user:1002"
+ZRANGE leaderboard 0 -1 WITHSCORES
+DEL tasks
+EXPIRE user:1001 3600

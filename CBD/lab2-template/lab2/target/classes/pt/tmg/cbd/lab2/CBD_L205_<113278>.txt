@@ -1,0 +1,19 @@
+db.phones.countDocuments()
+200000
+
+db.phones.find()
+[
+  {
+    _id: 351233000001,
+    components: { country: 351, prefix: 233, number: 1 },
+    display: '+351-233000001'
+  },
+  {
+    _id: 351234000002,
+    components: { country: 351, prefix: 234, number: 2 },
+    display: '+351-234000002'
+  },
+  (...)
+]
+
+Nota: os scripts para o resto das alíneas estão na pasta resources.

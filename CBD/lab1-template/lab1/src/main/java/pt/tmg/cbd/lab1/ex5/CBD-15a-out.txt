@@ -1,0 +1,89 @@
+Nota: Para o teste foi utilizado um limite de 5 produtos e 60 segundos
+
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): batata
+Product ('Enter' for quit and '-list' to list all the products): cenoura
+Product ('Enter' for quit and '-list' to list all the products): atum 
+Product ('Enter' for quit and '-list' to list all the products): maca
+Product ('Enter' for quit and '-list' to list all the products): pessego
+Product ('Enter' for quit and '-list' to list all the products): laranja
+You have to wait 46 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Antonio
+Product ('Enter' for quit and '-list' to list all the products): bacalhau
+Product ('Enter' for quit and '-list' to list all the products): pessego
+Product ('Enter' for quit and '-list' to list all the products): ananas
+Product ('Enter' for quit and '-list' to list all the products): -list
+pessego
+ananas
+bacalhau
+Product ('Enter' for quit and '-list' to list all the products): maca
+Product ('Enter' for quit and '-list' to list all the products): carne
+Product ('Enter' for quit and '-list' to list all the products): jogo
+You have to wait 35 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): abacaxi
+You have to wait 3 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): -list
+batata
+cenoura
+pessego
+maca
+atum
+Product ('Enter' for quit and '-list' to list all the products): abacaxi
+Product ('Enter' for quit and '-list' to list all the products): -list
+abacaxi
+batata
+cenoura
+pessego
+atum
+maca
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Antonio
+Product ('Enter' for quit and '-list' to list all the products): banana
+You have to wait 6 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): -list
+carne
+pessego
+ananas
+maca
+bacalhau
+Product ('Enter' for quit and '-list' to list all the products): banana
+Product ('Enter' for quit and '-list' to list all the products): -list
+carne
+pessego
+ananas
+bacalhau
+maca
+banana
+Product ('Enter' for quit and '-list' to list all the products): gelado
+Product ('Enter' for quit and '-list' to list all the products): hamburguer
+Product ('Enter' for quit and '-list' to list all the products): cereais
+Product ('Enter' for quit and '-list' to list all the products): leite
+Product ('Enter' for quit and '-list' to list all the products): arroz
+You have to wait 36 seconds to make a new request.
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Antonio
+Product ('Enter' for quit and '-list' to list all the products): -list
+leite
+gelado
+carne
+pessego
+cereais
+ananas
+bacalhau
+maca
+banana
+hamburguer
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit): Andre
+Product ('Enter' for quit and '-list' to list all the products): -list
+abacaxi
+batata
+cenoura
+pessego
+atum
+maca
+Product ('Enter' for quit and '-list' to list all the products): 
+User name ('Enter' for quit):

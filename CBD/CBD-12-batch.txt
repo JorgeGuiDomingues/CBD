@@ -1,0 +1,6 @@
+ACL CAT
+ACL USERS
+SET benfica "campeao"
+BITCOUNT benfica
+SET mealhada "leitao"
+BITCOUNT mealhada
